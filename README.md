@@ -10,7 +10,7 @@ Essentials
 
 <!-- Can't find this page? Just remember [bit.ly/cs53562015](Phttp://bit.ly/cs53562015). -->
 
-* [Slack](https://cornell-cs5356-2015.slack.com), [Sign-Up](https://cornell-cs5356-2015.slack.com/signup)
+* [Slack](https://ct-cs5356-fall2017.slack.com), [Sign-Up](https://ct-cs5356-fall2017.slack.com//signup)
 * [Logistics, Location, Class, Office Hours](course/logistics.md)
 * [Syllabus](course/syllabus.md)
 
