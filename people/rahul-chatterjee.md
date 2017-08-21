@@ -1,6 +1,6 @@
 Rahul Chatterjee
 ----------------
 
-![](photos/rahul-chatterjee.png)
+![](photos/rahul-chatterjee.jpg)
 
 * [Github](https://github.com/rchatterjee)
