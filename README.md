@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+Ryan Ramphal
 
 Copyright & License
 -------------------
