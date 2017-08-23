@@ -41,6 +41,8 @@ People
 #### Students
 <!-- Please keep in Alpha order -->
 
+* [Rahul Chatterjee](people/rongxin-zhang.md)
+
 Copyright & License
 -------------------
 
