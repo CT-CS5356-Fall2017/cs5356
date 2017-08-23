@@ -10,6 +10,13 @@ You can add the following into your `~/.gitconfig` file and after that you can u
   st = status
   br = branch
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  la = log --all --color --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  s = status
+  d = diff
+  c = checkout
+  ff = fetch --all
+  recent = for-each-ref --sort=-committerdate refs/heads/
   type = cat-file -t
   dump = cat-file -p
 ```
