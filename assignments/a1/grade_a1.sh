@@ -11,12 +11,12 @@ fi
 
 giturl='https://raw.githubusercontent.com/CT-CS5356-Fall2017/cs5356/master/README.md'
 function get_url() {
-    netid="$1"
-    curl --silent $giturl | grep "$netid" | cut -d '-' -f 2 | tr -d ' '
+    curl --silent $giturl | grep "$1" | rev | cut -d '-' -f 1,2 | rev | tr -d ' ' |  sed 's/\(\w*\)*\-\[.*\](\(.*\))/\1 \2/g'
 }
 
-netid="$1"
-url=$(get_url $netid)
+r=$(get_url $1)
+netid=$(echo $r | cut -d' ' -f1)
+url=$(echo $r | cut -d' ' -f2)
 echo "URL found form GitHub: $url"
 
 
