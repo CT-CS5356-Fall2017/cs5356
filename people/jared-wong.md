@@ -1,4 +1,4 @@
-Rahul Chatterjee
+Jared Wong
 ----------------
 
 ![](photos/jared-wong.jpg)
