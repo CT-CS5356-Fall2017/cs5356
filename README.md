@@ -12,6 +12,7 @@ Essentials
 
 Lectures
 --------
+ssss
 
 1.  23-Aug: [Git, REST, HTTP, AWS](course/01-git-ci-rest-aws)
 2.  30-Sep: [Backend Services, CI]() 
