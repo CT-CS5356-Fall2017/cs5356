@@ -18,8 +18,8 @@ I do both to get double advantage!
 
 ```bash
 # git shortcuts
-alias gpull="git pull --rebase"
-alias gpu="git pull"
+alias gpull="git pull"
+alias gpu="git pull --rebase"
 alias gpush="git push"
 alias glog="git log"
 alias gst="git status"
