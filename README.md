@@ -13,11 +13,11 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, CI, REST, AWS](course/01-git-ci-rest-aws)     [@amfleming](/people/adam-fleming.md)
-2.  30-Sep: [Backend Services]()       [@amfleming](/people/adam-fleming.md)
-3.  06-Sep: [Frontend]()               [@amfleming](/people/adam-fleming.md)
-4.  13-Sep: [Docker and Launch]()      [@amfleming](/people/adam-fleming.md)
-5.  20-Sep: [TBD]()                    [@amfleming](/people/adam-fleming.md)
+1.  23-Aug: [Git, CI, REST, AWS](course/01-git-ci-rest-aws)
+2.  30-Sep: [Backend Services]() 
+3.  06-Sep: [Frontend]()         
+4.  13-Sep: [Docker and Launch]()
+5.  20-Sep: [TBD]()              
 
 
 Projects
