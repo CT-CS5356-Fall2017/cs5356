@@ -40,7 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-
+*[Jai Nanavati]
 Copyright & License
 -------------------
 
