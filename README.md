@@ -17,7 +17,7 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, CI, AWS intro]()     [@dblock](/people/daniel-doubrovkine.md)
+1.  23-Aug: [Git, CI, AWS intro]()     [@amfleming](/people/adam-fleming.md)
 2.  30-Sep: [Backend Services]()       [@amfleming](/people/adam-fleming.md)
 3.  06-Sep: [Frontend]()               [@amfleming](/people/adam-fleming.md)
 4.  13-Sep: [Docker and Launch]()      [@amfleming](/people/adam-fleming.md)
