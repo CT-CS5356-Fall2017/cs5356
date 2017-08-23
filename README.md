@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [yuanchang](people/yuanchang.md)
 
 Copyright & License
 -------------------
