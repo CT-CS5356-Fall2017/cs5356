@@ -13,8 +13,8 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, CI, REST, AWS](course/01-git-ci-rest-aws)
-2.  30-Sep: [Backend Services]() 
+1.  23-Aug: [Git, REST, HTTP, AWS](course/01-git-ci-rest-aws)
+2.  30-Sep: [Backend Services, CI]() 
 3.  06-Sep: [Frontend]()         
 4.  13-Sep: [Docker and Launch]()
 5.  20-Sep: [TBD]()              
