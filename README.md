@@ -40,7 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-
+Xu Wang
 Copyright & License
 -------------------
 
