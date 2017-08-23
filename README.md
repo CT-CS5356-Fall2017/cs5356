@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Thomas Matecki](http://thomasmatecki.github.io)
 
 Copyright & License
 -------------------
