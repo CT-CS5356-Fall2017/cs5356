@@ -3,18 +3,18 @@ Syllabus
 
 ### Description
 
-The digital age is making it easier, faster and cheaper to develop new products and services that directly address 
+The digital age is making it easier, faster and cheaper to develop new products and services that directly address
 societal, commercial needs. Cornell Tech Studio classes give our students tools to imagine and design such products and
 services. Cornell Tech technical classes give our students the depth to come up with innovative solutions to make such
 products and services real.
 
-The goal of the "Building Startup Systems" class is to give our students a concrete experience of designing, 
-implementing and deploying a workable system that can be demo-ed and/or used by early users. 
-The "Building Startup Systems" class is a 1-credit course, 3 hours per week for 5 weeks. The class will run 
+The goal of the "Building Startup Systems" class is to give our students a concrete experience of designing,
+implementing and deploying a workable system that can be demo-ed and/or used by early users.
+The "Building Startup Systems" class is a 1-credit course, 3 hours per week for 5 weeks. The class will run
 August 23-September 20.
 
-The class will be anchored around the design, implementation and deployment of a typical webapp. 
-The topics will be presented in the context of a project that all students will have to work on. 
+The class will be anchored around the design, implementation and deployment of a typical webapp.
+The topics will be presented in the context of a project that all students will have to work on.
 The class will also bring together some software engineering best practices. Students will work on the project in pairs
 (note: each student will be paired twice for the duration of the class).
 
@@ -57,7 +57,7 @@ The class will also bring together some software engineering best practices. Stu
    - Put a breakpoint in HTTP server to debug
    - Break down different methods of sending data (Query Params etc)
    - HTTP Response Codes
-   - REST Concepts 
+   - REST Concepts
    - General mapping of REST verbs + resources into code
 
 5. App Architecture Walkthrough
