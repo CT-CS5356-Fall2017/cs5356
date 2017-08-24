@@ -46,6 +46,7 @@ People
 
 
 #### Students
+* [Jared Wong](people/jared-wong.md)
 <!-- Please keep in Alpha order -->
 
 Copyright & License
