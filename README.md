@@ -40,7 +40,8 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-Cameron Boroumand
+
+* [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 Copyright & License
 -------------------
 
