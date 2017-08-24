@@ -51,6 +51,7 @@ People
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
 * [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html](http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [An Le](people/an-le.md) - aql6 - [https://s3-us-west-2.amazonaws.com/anle1/grading.html](https://s3-us-west-2.amazonaws.com/anle1/grading.html)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
