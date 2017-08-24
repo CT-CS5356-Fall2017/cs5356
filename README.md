@@ -65,6 +65,7 @@ People
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+* [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
 
 Copyright & License
 -------------------
