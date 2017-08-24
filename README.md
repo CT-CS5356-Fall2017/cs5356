@@ -13,6 +13,7 @@ Essentials
 Lectures
 --------
 
+
 1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
 2.  30-Sep: Backend Services, CI
 3.  06-Sep: Frontend
@@ -47,6 +48,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
@@ -62,6 +64,7 @@ People
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html) 
 
 Copyright & License
 -------------------
