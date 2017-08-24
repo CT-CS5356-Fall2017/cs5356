@@ -25,11 +25,6 @@ Projects
 
 See [Project Logistics](projects/logistics.md) for important dates and deliverables.
 
-
-Assignments
-----------
-1. [Assignment 1](assignments/a1/a1.md)
-
 #### Class Projects
 
 People
@@ -39,14 +34,14 @@ People
 
 * [Adam Fleming](people/adam-fleming.md)
 
-
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
-
+* [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
 <!-- Please keep in Alpha order -->
+
+* [I Huang](people/i-huang.md) - ih265 - [https://s3.amazonaws.com/ih265/grading.html](https://s3.amazonaws.com/ih265/grading.html)
 
 Copyright & License
 -------------------
