@@ -54,6 +54,7 @@ People
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Dexing Xu](people/i-huang.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com](http://daraxu.s3-website-us-east-1.amazonaws.com)
 Copyright & License
 -------------------
 
