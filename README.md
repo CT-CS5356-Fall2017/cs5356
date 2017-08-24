@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 
 Copyright & License
 -------------------
