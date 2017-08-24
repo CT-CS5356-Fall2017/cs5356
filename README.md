@@ -39,9 +39,11 @@ People
 
 * [Adam Fleming](people/adam-fleming.md)
 
+
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md)
+* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
+
 
 #### Students
 
