@@ -51,7 +51,7 @@ People
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 * [Jared Wong](people/jared-wong.md)
 * [Rongxin Zhang](people/rongxin-zhang.md)
-
+* [Xialin Shen](people/spark-shen.md) - xs293 - [https://s3-us-west-2.amazonaws.com/cs5356-xs293/grading.html](https://s3-us-west-2.amazonaws.com/cs5356-xs293/grading.html)
 
 Copyright & License
 -------------------
