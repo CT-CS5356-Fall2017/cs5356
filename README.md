@@ -49,6 +49,8 @@ People
 * [Jared Wong](people/jared-wong.md)
 <!-- Please keep in Alpha order -->
 
+* [Rongxin Zhang](people/rongxin-zhang.md)
+
 Copyright & License
 -------------------
 
