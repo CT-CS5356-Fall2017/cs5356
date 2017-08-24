@@ -48,9 +48,12 @@ People
 #### Students
 
 <!-- Please keep in Alpha order -->
+
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
+* [Chenyang Wang](people/chenyang-wang.md) - cw823 - [https://s3.us-east-2.amazonaws.com/ec2-kellywang-666.com/grading.html](https://s3.us-east-2.amazonaws.com/ec2-kellywang-666.com/grading.html)  
 * [Jared Wong](people/jared-wong.md)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+
 
 
 Copyright & License
