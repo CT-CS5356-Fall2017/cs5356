@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+[Chenyang Wang](people/chenyang-wang.md) - cw823 - [https://s3.us-east-2.amazonaws.com/ec2-kellywang-666.com/grading.html](https://s3.us-east-2.amazonaws.com/ec2-kellywang-666.com/grading.html) 
 
 Copyright & License
 -------------------
