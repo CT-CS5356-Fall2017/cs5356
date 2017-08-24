@@ -47,6 +47,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
