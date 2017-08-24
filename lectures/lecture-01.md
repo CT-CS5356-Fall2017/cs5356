@@ -2,6 +2,8 @@
 
 We covered
 * Course overview
+* Installed software
 * `git` and github.com
 * HTTP basics and RESTful design
-* Brief walkthrough of the Java server
+* Cloned [skeleton](https://github.com/amfleming/skeleton) java server
+* Brief walkthrough of JAX-RS annotations in java
