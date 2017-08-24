@@ -46,10 +46,9 @@ People
 
 
 #### Students
-
 <!-- Please keep in Alpha order -->
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
-* [Jared Wong](people/jared-wong.md)
+* [Jared Wong](people/jared-wong.md) - jmw535 - [http://aws-website-cs-jmw-hfdaf.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-cs-jmw-hfdaf.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 
