@@ -13,24 +13,24 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, REST, HTTP, AWS](course/01-git-ci-rest-aws)
-2.  30-Sep: [Backend Services, CI]() 
-3.  06-Sep: [Frontend]()         
-4.  13-Sep: [Docker and Launch]()
-5.  20-Sep: [TBD]()              
+1.  23-Aug: [Git, REST, HTTP, AWS]()
+2.  30-Sep: Backend Services, CI
+3.  06-Sep: Frontend         
+4.  13-Sep: Docker and Launch
+5.  20-Sep: TBD              
 
 
-Projects
+Project
 --------
 
-See [Project Logistics](projects/logistics.md) for important dates and deliverables.
-
+We will be building an app that scans receipts, uses OCR to extract cost info, and organizes them.  The app will:
+* Support user account creation, login + logout
+* Use a restful API between client + server
+* Use Google Vison API for OCR
 
 Assignments
 ----------
 1. [Assignment 1](assignments/a1/a1.md)
-
-#### Class Projects
 
 People
 ------
@@ -46,10 +46,11 @@ People
 
 
 #### Students
-* [Jared Wong](people/jared-wong.md)
-<!-- Please keep in Alpha order -->
 
+<!-- Please keep in Alpha order -->
+* [Jared Wong](people/jared-wong.md)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+
 
 Copyright & License
 -------------------
