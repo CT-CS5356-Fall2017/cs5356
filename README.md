@@ -46,7 +46,8 @@ People
 
 
 #### Students
-<!-- Please keep in Alpha order -->
+
+* [Liran Sharir](https://storage.googleapis.com/liran-sharir-page/netid)
 
 Copyright & License
 -------------------
