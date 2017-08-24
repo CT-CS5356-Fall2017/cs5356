@@ -62,6 +62,7 @@ People
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+* [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
 
 Copyright & License
 -------------------
