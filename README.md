@@ -14,7 +14,7 @@ Lectures
 --------
 
 1.  23-Aug: [Git, REST, HTTP, AWS](course/01-git-ci-rest-aws)
-2.  30-Sep: [Backend Services, CI]() 
+2.  30-Sep: [Backend Services, CI]()
 3.  06-Sep: [Frontend]()         
 4.  13-Sep: [Docker and Launch]()
 5.  20-Sep: [TBD]()              
@@ -47,7 +47,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-
+[Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html) 
 Copyright & License
 -------------------
 
