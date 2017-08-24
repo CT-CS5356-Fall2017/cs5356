@@ -1,7 +1,7 @@
 Yuanchang
 ------------
 
-![](photos/nophoto.png)
+![](photos/yuanchang.png)
 
-* [LinkedIn](https://)
-* [Github](https://)
+* [LinkedIn](https://www.linkedin.com/in/Jennie-YuanChang)
+* [Github](https://https://github.com/JennieYuanChang)
