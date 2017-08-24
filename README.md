@@ -40,6 +40,8 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+[Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
+
 
 Copyright & License
 -------------------
