@@ -48,6 +48,7 @@ People
 #### Students
 * [Jared Wong](people/jared-wong.md)
 <!-- Please keep in Alpha order -->
+* [Jai Nanavati](people/jai-nanavati.md)
 
 * [Rongxin Zhang](people/rongxin-zhang.md)
 
