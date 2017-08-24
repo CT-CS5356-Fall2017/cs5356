@@ -60,7 +60,6 @@ People
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
 
-
 Copyright & License
 -------------------
 
