@@ -13,19 +13,24 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, REST, HTTP, AWS](course/01-git-ci-rest-aws)
-2.  30-Sep: [Backend Services, CI]() 
-3.  06-Sep: [Frontend]()         
-4.  13-Sep: [Docker and Launch]()
-5.  20-Sep: [TBD]()              
+1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
+2.  30-Sep: Backend Services, CI
+3.  06-Sep: Frontend         
+4.  13-Sep: Docker and Launch
+5.  20-Sep: TBD              
 
 
-Projects
+Project
 --------
 
-See [Project Logistics](projects/logistics.md) for important dates and deliverables.
+We will be building an app that scans receipts, uses OCR to extract cost info, and organizes them.  The app will:
+* Support user account creation, login + logout
+* Use a restful API between client + server
+* Use Google Vison API for OCR
 
-#### Class Projects
+Assignments
+----------
+1. [Assignment 1](assignments/a1/a1.md)
 
 People
 ------
@@ -34,12 +39,19 @@ People
 
 * [Adam Fleming](people/adam-fleming.md)
 
+
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md)
+* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
+
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
+* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
+* [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
+* [Rongxin Zhang](people/rongxin-zhang.md)
+* [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 Copyright & License
