@@ -65,6 +65,7 @@ People
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
+* [Yuan Xuan](people/yuan-xuan.md) - yx424 - [http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html](http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html)
 
 Copyright & License
 -------------------
