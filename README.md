@@ -50,6 +50,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html](http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html)
