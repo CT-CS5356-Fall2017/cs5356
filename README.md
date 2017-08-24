@@ -40,7 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-* [Thomas Matecki](http://thomasmatecki.github.io)
+* [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
 
 Copyright & License
 -------------------
