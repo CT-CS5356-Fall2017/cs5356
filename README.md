@@ -39,11 +39,9 @@ People
 
 * [Adam Fleming](people/adam-fleming.md)
 
-
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
-
+* [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
 
@@ -51,7 +49,7 @@ People
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 * [Jared Wong](people/jared-wong.md)
 * [Rongxin Zhang](people/rongxin-zhang.md)
-
+* [I Huang](people/i-huang.md) - ih265 - [https://s3.amazonaws.com/ih265/grading.html](https://s3.amazonaws.com/ih265/grading.html)
 
 Copyright & License
 -------------------
