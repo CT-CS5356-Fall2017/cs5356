@@ -11,7 +11,7 @@ fi
 
 giturl='https://raw.githubusercontent.com/CT-CS5356-Fall2017/cs5356/master/README.md'
 function get_url() {
-    curl --silent $giturl | grep "$1" | rev | cut -d '-' -f 1,2 | rev | tr -d ' ' |  sed 's/\(\w*\)*\-\[.*\](\(.*\))/\1 \2/g'
+    curl --silent $giturl | grep "$1" | awk -F' - ' '{print $2, $3}' |  sed 's/\(\w*\)*\s\+\[.*\](\(.*\))/\1 \2/g'
 }
 
 r=$(get_url $1)

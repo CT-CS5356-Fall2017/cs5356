@@ -13,7 +13,7 @@ Essentials
 Lectures
 --------
 
-1.  23-Aug: [Git, REST, HTTP, AWS]()
+1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
 2.  30-Sep: Backend Services, CI
 3.  06-Sep: Frontend         
 4.  13-Sep: Docker and Launch
