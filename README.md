@@ -47,7 +47,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-* [Xialin Shen](people/spark-shen.md) - xs293 - [https://s3-us-west-2.amazonaws.com/cs5356-xs293/grading.html](https://s3-us-west-2.amazonaws.com/cs5356-xs293/grading.html)
+* [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md)
