@@ -64,6 +64,7 @@ People
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/](http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/)  
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
+* [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
