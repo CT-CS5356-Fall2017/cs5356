@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+[Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
 
 Copyright & License
 -------------------
