@@ -61,6 +61,7 @@ People
 * [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html](http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html](http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://erg53.s3-website-us-east-1.amazonaws.com/grading.html](http://erg53.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
@@ -96,7 +97,6 @@ People
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
-
 
 Copyright & License
 -------------------
