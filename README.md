@@ -62,6 +62,7 @@ People
 * [Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Han Nie](people/han-nie.md) - hn329 - [https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html](https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://cs5356.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356.s3-website-us-east-1.amazonaws.com)
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
