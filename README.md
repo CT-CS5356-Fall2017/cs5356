@@ -57,7 +57,7 @@ People
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html](http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html) 
+* [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
 * [An Le](people/an-le.md) - aql6 - [https://s3-us-west-2.amazonaws.com/anle1/grading.html](https://s3-us-west-2.amazonaws.com/anle1/grading.html)
 * [Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
@@ -79,7 +79,7 @@ People
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
-
+* [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
 
 
 Copyright & License
