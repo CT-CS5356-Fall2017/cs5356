@@ -39,7 +39,7 @@ People
 * [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
-<!-- Please keep in Alpha order -->
+[jun-hsiang-liao](people/jun-hsiang-liao.md) - jl3744 - [http://jl3744.xyz.s3-website.us-east-2.amazonaws.com](http://jl3744.xyz.s3-website.us-east-2.amazonaws.com/grading.html) 
 
 Copyright & License
 -------------------
