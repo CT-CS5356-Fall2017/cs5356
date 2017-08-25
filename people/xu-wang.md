@@ -1,6 +1,6 @@
 Xu Wang
 ------------
 
-![](photos/xu-wang.png)
+![](photos/xu-wang.jpg)
 
 * [Github](https://github.com/xuwanggr)
