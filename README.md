@@ -80,8 +80,6 @@ People
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
 
 
->>>>>>> upstream/master
-
 Copyright & License
 -------------------
 
