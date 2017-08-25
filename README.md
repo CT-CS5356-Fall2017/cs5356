@@ -40,7 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-* [Zhan Zhang](people/zhan-zhang.md)
+* [Zhan Zhang](people/zhan-zhang.md) - zz524 - https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html
 
 Copyright & License
 -------------------
