@@ -61,18 +61,20 @@ People
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://cs5356.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356.s3-website-us-east-1.amazonaws.com)
-* [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html) 
+* [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
-* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
+* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html)  
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
-* [Xu Wang](people/xu-wang.md) - xw477 - [http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html](http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html) 
+* [Xu Wang](people/xu-wang.md) - xw477 - [http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html](http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)
-* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html) 
+* [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
+* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
+
 
 
 Copyright & License
