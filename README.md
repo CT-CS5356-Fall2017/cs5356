@@ -48,6 +48,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+* [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html](https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html)
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
