@@ -65,6 +65,7 @@ People
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
+* [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
 * [An Le](people/an-le.md) - aql6 - [https://s3-us-west-2.amazonaws.com/anle1/grading.html](https://s3-us-west-2.amazonaws.com/anle1/grading.html)
 * [Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
