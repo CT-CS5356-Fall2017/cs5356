@@ -9,7 +9,7 @@ if [ $# -lt 1 ]; then
     exit -1
 fi
 
-giturl='https://raw.githubusercontent.com/lukeahn/cs5356/master/README.md'
+giturl='https://raw.githubusercontent.com/CT-CS5356-Fall2017/cs5356/master/README.md'
 function get_url() {
     # curl --silent $giturl | grep "$1" | awk -F' - ' '{print $2, $3}' |  sed 's/\(\w*\)*\s\+\[.*\](\(.*\))/\1 \2/g'
     curl --silent $giturl | grep "$1" | awk -F' - ' '{print $2, $3}' |  perl -pe 's/(\w+) \[.*\]\((.*)\)/\1 \2/g'
