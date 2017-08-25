@@ -78,6 +78,7 @@ People
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
+* [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
 
 
