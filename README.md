@@ -52,7 +52,7 @@ People
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
-* [Rom Cohen](people/rom-cohen.md) - rc783 - [https://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html](https://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Rom Cohen](people/rom-cohen.md) - rc783 - [http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html](http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html](https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html)
 * [Jonathan Cutler](people/jonathan-cutler.md) - jlc553 - [https://s3.us-east-2.amazonaws.com/cs5356-jlc553/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-jlc553/grading.html)
 * [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html](http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html)
