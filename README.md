@@ -64,6 +64,7 @@ People
 * [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html](http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html](http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://erg53.s3-website-us-east-1.amazonaws.com/grading.html](http://erg53.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Zheyuan Gu](people/zheyuan-gu.md) - zg245 - [http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [David Hachuel](people/david-hachuel.md) - dh649 - [http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
