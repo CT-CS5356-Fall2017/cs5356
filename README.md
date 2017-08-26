@@ -47,7 +47,6 @@ People
 
 
 #### Students
-
 <!-- Please keep in Alpha order -->
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)
