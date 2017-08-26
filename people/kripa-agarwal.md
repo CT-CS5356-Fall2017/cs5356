@@ -1,4 +1,4 @@
-Kripa Agarwala
+Kripa Agarwal
 ------------
 
 ![](photos/kripa-agarwal.jpg)
