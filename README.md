@@ -87,6 +87,7 @@ People
 * [Han Nie](people/han-nie.md) - hn329 - [https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html](https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://cs5356.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356.s3-website-us-east-1.amazonaws.com)
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
+* [Liran Sharir](people/liran-sharir.md) - ls873 - [https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html](https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html)
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html)
