@@ -13,11 +13,12 @@ Essentials
 Lectures
 --------
 
+
 1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
 2.  30-Sep: Backend Services, CI
-3.  06-Sep: Frontend         
+3.  06-Sep: Frontend
 4.  13-Sep: Docker and Launch
-5.  20-Sep: TBD              
+5.  20-Sep: TBD
 
 
 Project
@@ -126,6 +127,7 @@ People
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
+
 
 Copyright & License
 -------------------
