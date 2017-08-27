@@ -64,6 +64,7 @@ People
 * [Junhsiang Liao](people/junhsiang-liao.md) - jl3744 - [http://jl3744.xyz.s3-website.us-east-2.am    azonaws.com](http://jl3744.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html](http://dqlsll123.top.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html](http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Will Davis](people/will-davis.md) - twd38 - [https://s3.us-east-2.amazonaws.com/www.twd38.website/grading.html](https://s3.us-east-2.amazonaws.com/www.twd38.website/grading.html)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://erg53.s3-website-us-east-1.amazonaws.com/grading.html](http://erg53.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zheyuan Gu](people/zheyuan-gu.md) - zg245 - [http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
