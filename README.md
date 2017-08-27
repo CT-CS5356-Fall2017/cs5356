@@ -72,6 +72,7 @@ People
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Lingfeng Huang](people/lingfeng-huang.md) - lh635 - [http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html](http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Akshay Jha](people/akshayj.md) - aj545 - [https://s3.us-east-2.amazonaws.com/akshayjha/grading.html](https://s3.us-east-2.amazonaws.com/akshayjha/grading.html)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
