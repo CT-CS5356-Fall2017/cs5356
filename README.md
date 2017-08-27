@@ -13,11 +13,12 @@ Essentials
 Lectures
 --------
 
+
 1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
 2.  30-Sep: Backend Services, CI
-3.  06-Sep: Frontend         
+3.  06-Sep: Frontend
 4.  13-Sep: Docker and Launch
-5.  20-Sep: TBD              
+5.  20-Sep: TBD
 
 
 Project
@@ -75,8 +76,8 @@ People
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Lingfeng Huang](people/lingfeng-huang.md) - lh635 - [http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html](http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Akshay Jha](people/akshayj.md) - aj545 - [https://s3.us-east-2.amazonaws.com/akshayjha/grading.html](https://s3.us-east-2.amazonaws.com/akshayjha/grading.html)
-* [Han Jing](people/han-hjing.md) - hj378 - [https://s3.amazonaws.com/cs5356-hw1/grading.html](https://s3.amazonaws.com/cs5356-hw1/grading.html)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
+* [Han Jing](people/han-hjing.md) - hj378 - [https://s3.amazonaws.com/cs5356-hw1/grading.html](https://s3.amazonaws.com/cs5356-hw1/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
 * [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html) 
@@ -126,6 +127,7 @@ People
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
+
 
 Copyright & License
 -------------------
