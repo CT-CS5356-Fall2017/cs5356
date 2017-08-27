@@ -94,6 +94,7 @@ People
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
 * [Kirollos Morkos](people/kirollos-morkos.md) - krm257 - [http://kirollosmorkos.com/grading.html](http://kirollosmorkos.com/grading.html)
 * [Han Nie](people/han-nie.md) - hn329 - [https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html](https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html)
+* [Advika Nigam](people/advika-nigam.md) - an556 - [http://an556.s3-website-us-east-1.amazonaws.com/grading.html](http://an556.s3-website-us-east-1.amazonaws.com)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://cs5356.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356.s3-website-us-east-1.amazonaws.com)
 * [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [http://s3site.ryanramphal.com.s3-website-us-east-1.amazonaws.com/grading.html](http://s3site.ryanramphal.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
