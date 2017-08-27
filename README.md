@@ -78,7 +78,7 @@ People
 * [Akshay Jha](people/akshayj.md) - aj545 - [https://s3.us-east-2.amazonaws.com/akshayjha/grading.html](https://s3.us-east-2.amazonaws.com/akshayjha/grading.html)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Feston Kastrati](people/feston-kastrati.md) - fk257 - [https://s3.us-east-2.amazonaws.com/fk257/grading.html]
+* [Feston Kastrati](people/feston-kastrati.md) - fk257 - https://s3.us-east-2.amazonaws.com/fk257/grading.html
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
 * [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html) 
 * [Vincent Kuo](people/vincent-kuo.md) - ck728 - [http://ck728.s3-website.us-east-2.amazonaws.com/grading.html](http://ck728.s3-website.us-east-2.amazonaws.com/grading.html)
