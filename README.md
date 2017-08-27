@@ -92,7 +92,7 @@ People
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
-* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [http://pytseng.s3-website-us-east-1.amazonaws.com/grading.html](http://pytseng.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [https://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html](http://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html](https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html)  
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
