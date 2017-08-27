@@ -121,7 +121,7 @@ People
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
-
+* [Zihan Ni](people/zihan-ni.md) - zn43 - [http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html](http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html)
 
 Copyright & License
 -------------------
