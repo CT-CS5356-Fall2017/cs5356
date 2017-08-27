@@ -79,7 +79,7 @@ People
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
-* [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html)
+* [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html) 
 * [Vincent Kuo](people/vincent-kuo.md) - ck728 - [http://ck728.s3-website.us-east-2.amazonaws.com/grading.html](http://ck728.s3-website.us-east-2.amazonaws.com/grading.html)
 * [An Le](people/an-le.md) - aql6 - [https://s3-us-west-2.amazonaws.com/anle1/grading.html](https://s3-us-west-2.amazonaws.com/anle1/grading.html)
 * [Ang Li](people/ang-li.md) - al2386 - [http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html](http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html)
