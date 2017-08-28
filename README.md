@@ -96,7 +96,7 @@ People
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
-* [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html]
+* [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
