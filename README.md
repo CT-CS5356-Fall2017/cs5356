@@ -59,6 +59,7 @@ People
 * [Christopher Caulfield](people/christopher-caulfield.md) - ctc98 - [http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html](http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
+* [Mohit Chawla](people/mohit-chawla.md) - mc2683 - [http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html](http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Young Sang Choi](people/young-sang-choi.md) - yc2376 - [https://s3.amazonaws.com/youngsangchoi.com/grading.html](https://s3.amazonaws.com/youngsangchoi.com/grading.html) 
 * [Rom Cohen](people/rom-cohen.md) - rc783 - [http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html](http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html](https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html)
