@@ -112,6 +112,7 @@ People
 * [Liran Sharir](people/liran-sharir.md) - ls873 - [https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html](https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html)
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
+* [Arpit Sheth](people/arpit-sheth.md) - as3668 - [http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html](http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Kriti Singh](people/kriti-singh.md) - ks2259 - [http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html](http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [https://d39fj6c5o8il7v.cloudfront.net/grading.html](https://d39fj6c5o8il7v.cloudfront.net/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html)
