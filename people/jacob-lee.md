@@ -1,4 +1,4 @@
-Feston Kastrati
+Jacob Lee
 ------------
 
 ![](photos/jacob-lee.jpg)
