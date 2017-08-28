@@ -94,6 +94,7 @@ People
 * [Brett Leibowitz](people/brett-leibowitz.md) - bal246 - [http://bal246.s3-website-us-east-1.amazonaws.com/grading.html](http://bal246.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Daren Liu](people/daren-liu.md) - drl232 - [https://s3.us-east-2.amazonaws.com/drl232/grading.html](https://s3.us-east-2.amazonaws.com/drl232/grading.html)
 * [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)
+* [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com](http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html)
