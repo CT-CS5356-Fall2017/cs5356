@@ -1,6 +1,6 @@
 Yiyuan Feng
 ------------
 
-![](photos/Yiyuan-Feng.jpg)
+![](photos/yiyuan-feng.jpg)
 
 * [Github](https://github.com/Yiyuan7)
