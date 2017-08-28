@@ -40,6 +40,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+[Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html) 
 
 Copyright & License
 -------------------
