@@ -62,6 +62,7 @@ People
 * [Mohit Chawla](people/mohit-chawla.md) - mc2683 - [http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html](http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Young Sang Choi](people/young-sang-choi.md) - yc2376 - [https://s3.amazonaws.com/youngsangchoi.com/grading.html](https://s3.amazonaws.com/youngsangchoi.com/grading.html) 
 * [Rom Cohen](people/rom-cohen.md) - rc783 - [http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html](http://cs5356-rc783.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Christy Cui](people/christy-cui.md) - hc935 - [http://aws-website-christycuicom-b7q9o.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-christycuicom-b7q9o.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html](https://s3.us-east-2.amazonaws.com/marikacusickbucket/graded.html)
 * [Jonathan Cutler](people/jonathan-cutler.md) - jlc553 - [https://s3.us-east-2.amazonaws.com/cs5356-jlc553/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-jlc553/grading.html)
 * [Junhsiang Liao](people/junhsiang-liao.md) - jl3744 - [http://jl3744.xyz.s3-website.us-east-2.am    azonaws.com](http://jl3744.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
