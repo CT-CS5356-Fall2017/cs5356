@@ -113,6 +113,7 @@ People
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Kriti Singh](people/kriti-singh.md) - ks2259 - [http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html](http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html)
+* [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [https://d39fj6c5o8il7v.cloudfront.net/grading.html](https://d39fj6c5o8il7v.cloudfront.net/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
 * [Poyen Tseng](people/poyen-tseng.md) - pt382 - [https://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html](http://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
