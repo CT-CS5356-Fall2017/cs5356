@@ -80,6 +80,7 @@ People
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Lingfeng Huang](people/lingfeng-huang.md) - lh635 - [http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html](http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Steven Jaroslawski](people/steven-jaroslawski.md) - sj393 - [http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html](http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Akshay Jha](people/akshayj.md) - aj545 - [https://s3.us-east-2.amazonaws.com/akshayjha/grading.html](https://s3.us-east-2.amazonaws.com/akshayjha/grading.html)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
 * [Han Jing](people/han-hjing.md) - hj378 - [https://s3.amazonaws.com/cs5356-hw1/grading.html](https://s3.amazonaws.com/cs5356-hw1/grading.html)
