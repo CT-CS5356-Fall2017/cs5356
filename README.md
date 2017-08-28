@@ -52,6 +52,7 @@ People
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)
 [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html) 
+* [Raviteja Arikati](people/raviteja-arikati.md) - ra597 - [http://ra597.s3-website.us-east-2.amazonaws.com/](http://ra597.s3-website.us-east-2.amazonaws.com/)
 * [Devon Bain](people/devon-bain.md) - dwb264 - [https://s3.us-east-2.amazonaws.com/dwb264/grading.html](https://s3.us-east-2.amazonaws.com/dwb264/grading.html)
 * [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html](https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html)
