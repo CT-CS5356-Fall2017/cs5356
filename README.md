@@ -151,6 +151,7 @@ People
 * [Yixin Ye](people/yixin-ye.md) - yy748 - [https://d2g8zevmbtf125.cloudfront.net/grading.html](https://d2g8zevmbtf125.cloudfront.net/grading.html)
 * [Samantha Yip](people/samantha-yip.md) - sty5 - [http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Jamie Yu](people/jamie-yu.md) - jky32 - [https://d1l2obcta6wa23.cloudfront.net/grading.html](https://d1l2obcta6wa23.cloudfront.net/grading.html)
+* [Tao Yuan](people/tao-yuan.md) - ty353 - [https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html (https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html](https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html)
 * [Weisi Zhang](people/weisi-zhang.md) - wz337 - [http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html](http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html)
