@@ -151,6 +151,7 @@ People
 * [Cameron Westbury](people/cameron-westbury.md) - chw68 - [http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Marco White](people/marco-white.md) - mtw79 - [http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Bradley Wise](people/bradley-wise.md) - bmw246 - [http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html](http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Robert Wolfe](people/robert-wolfe.md) - rjw253 - [https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html](https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html)
 * [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
 * [Chengsi Wu](people/chengsi-wu.md) - cw832 - [https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html](https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html)
 * [Howard Xing](people/howard-xing.md) - hx226 - [https://cornelltech.hxing.me/cs5356/hw01/grading.html](https://cornelltech.hxing.me/cs5356/hw01/grading.html?-user=github_CT_CS5356_Fall2017)
