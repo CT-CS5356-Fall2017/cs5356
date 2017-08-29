@@ -126,6 +126,7 @@ People
 * [Anmol Seth](people/anmol-seth.md) - as3664 - [http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html](http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Liran Sharir](people/liran-sharir.md) - ls873 - [https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html](https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html)
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Yuchen Shi](people/yuchen-shi.md) - ys838 - [https://s3.amazonaws.com/brienneoftarth.com/grading.html](https://s3.amazonaws.com/brienneoftarth.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Arpit Sheth](people/arpit-sheth.md) - as3668 - [http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html](http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Kriti Singh](people/kriti-singh.md) - ks2259 - [http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html](http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html)
