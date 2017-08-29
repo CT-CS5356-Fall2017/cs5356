@@ -1,5 +1,5 @@
-/Users/Fani/Downloads/Fani\ Maksakuli.jpg 
+![Fani's Picture](/Users/Fani/Downloads/Fani\ Maksakuli.jpg) 
 
-linkedIn: https://www.linkedin.com/in/fani-maksakuli-86a90619/
-github: https://github.com/FaniNM
+* [Github] (https://github.com/FaniNM)
+* [LinkedIn] (https://www.linkedin.com/in/fani-maksakuli-86a90619/)
 
