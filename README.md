@@ -106,6 +106,7 @@ People
 * [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com](http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Fani Maksakuli](people/fani-maksakuli.md) - fm399 -[http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html](http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
 * [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Andi Mitre](people/andi-mitre.md) - am2886 - [http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html](http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html)
