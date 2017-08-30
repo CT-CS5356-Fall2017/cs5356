@@ -172,6 +172,7 @@ People
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
 * [Disheng Zheng](people/disheng-zheng.md) - dz336 - [https://d1xje17jmpf57h.cloudfront.net/grading.html](https://d1xje17jmpf57h.cloudfront.net/grading.html)
+* [Hao Zheng](people/hao-zheng.md) - hz466 - [http://aws-website-hao-udg36.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-hao-udg36.s3-website-us-east-1.amazonaws.com/grading.html) 
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [https://s3.amazonaws.com/fredzhou/grading.html](https://s3.amazonaws.com/fredzhou/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
