@@ -179,6 +179,7 @@ People
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [https://s3.amazonaws.com/fredzhou/grading.html](https://s3.amazonaws.com/fredzhou/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
+* [Eyvind Niklasson](people/eyvind-niklasson.md) - een7 - [https://s3-us-west-2.amazonaws.com/asdfafkk2/grading.html]
 
 
 Copyright & License
