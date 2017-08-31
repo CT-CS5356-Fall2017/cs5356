@@ -105,7 +105,7 @@ People
 * [Ang Li](people/ang-li.md) - al2386 - [http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html](http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html)
 * [Jacob Lee](people/jacob-lee.md) - hl2278 - [https://s3.amazonaws.com/hl2278/grading.html](https://s3.amazonaws.com/hl2278/grading.html)
 * [Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
-* [Brett Leibowitz](people/brett-leibowitz.md) - bal246 - [http://bal246.s3-website-us-east-1.amazonaws.com/grading.html](http://bal246.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Brett Leibowitz](people/brett-leibowitz.md) - bal246 - [http://bal246.s3-website-us-east-1.amazonaws.com/grading.html](http://bal246.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/TonOfPrince/skeleton.svg?style=svg)](https://circleci.com/gh/TonOfPrince/skeleton)
 * [Daren Liu](people/daren-liu.md) - drl232 - [https://s3.us-east-2.amazonaws.com/drl232/grading.html](https://s3.us-east-2.amazonaws.com/drl232/grading.html)
 * [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)
 * [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html)
