@@ -33,6 +33,7 @@ We will be building an app that scans receipts, uses OCR to extract cost info, a
 Assignments
 ----------
 1. [Assignment 1](assignments/a1/a1.md)
+2. [Assignment 2](assignments/a2/a2.md)
 
 People
 ------
