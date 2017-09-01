@@ -86,7 +86,6 @@ People
 * [Yiyuan Feng](people/yiyuan-feng.md) - yf323 - [http://yeefeng.me.s3-website.us-east-2.amazonaws.com/grading.html](http://yeefeng.me.s3-website.us-east-2.amazonaws.com/grading.html)
 * [David Hachuel](people/david-hachuel.md) - dh649 - [http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/dhachuel/skeleton.svg?style=svg)](https://circleci.com/gh/dhachuel/skeleton)
 * [Xu Han](people/xu-han.md) - xh325 - [https://s3.us-east-2.amazonaws.com/leohuntnyc.com/grading.html](https://s3.us-east-2.amazonaws.com/leohuntnyc.com/grading.html)
->>>>>>> upstream/master
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/mikemike07/skeleton.svg?style=svg)](https://circleci.com/gh/mikemike07/skeleton)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-mdh267.s3-website-us-east-1.amazonaws.com/grading.html)
