@@ -95,7 +95,7 @@ People
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
 * [Han Jing](people/han-hjing.md) - hj378 - [https://s3.amazonaws.com/cs5356-hw1/grading.html](https://s3.amazonaws.com/cs5356-hw1/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Feston Kastrati](people/feston-kastrati.md) - fk257 - [https://s3.us-east-2.amazonaws.com/fk257/grading.html](https://s3.us-east-2.amazonaws.com/fk257/grading.html)
+* [Feston Kastrati](people/feston-kastrati.md) - fk257 - [https://s3.us-east-2.amazonaws.com/fk257/grading.html](https://s3.us-east-2.amazonaws.com/fk257/grading.html) [![CircleCI](https://circleci.com/gh/fk257/skeleton.svg?style=svg)](https://circleci.com/gh/fk257/skeleton)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-250-60.s3-website.us-east-2.amazonaws.com/grading.html)
 * [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Svava Kristinsdottir](people/svava-kristinsdottir.md) - gsk72 - [https://s3.us-east-2.amazonaws.com/gsk72/grading.html](https://s3.us-east-2.amazonaws.com/gsk72/grading.html)
