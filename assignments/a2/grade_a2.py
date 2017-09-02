@@ -66,7 +66,7 @@ def get_receipts_by_tag(tag):
 def test_netid():
     url = URL + "/netid"
     print("-"*80)
-    print(">>> Testing: 'GET /'")
+    print(">>> Testing: 'GET /netid'")
     try:
         r = requests.get(url)
     except requests.exceptions.ConnectionError:
