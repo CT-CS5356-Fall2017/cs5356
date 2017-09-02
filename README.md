@@ -171,7 +171,7 @@ People
 * [Tao Yuan](people/tao-yuan.md) - ty353 - [https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html](https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [https://s3.amazonaws.com/jzy.io/grading.html](https://s3.amazonaws.com/jzy.io/grading.html)
 * [Renee Zacharowicz](people/renee-zacharowicz.md) - rz336 - [https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html](https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html)
-* [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html](https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html)
+* [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html](https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html) [![CircleCI](https://circleci.com/gh/PGhzhang/skeleton.svg?style=svg)](https://circleci.com/gh/PGhzhang/skeleton)
 * [Weisi Zhang](people/weisi-zhang.md) - wz337 - [http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html](http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)(https://circleci.com/gh/RongxinZhang/skeleton.svg?style=svg)](https://circleci.com/gh/RongxinZhang/skeleton)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
