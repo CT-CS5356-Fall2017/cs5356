@@ -158,7 +158,7 @@ People
 * [Marco White](people/marco-white.md) - mtw79 - [http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Bradley Wise](people/bradley-wise.md) - bmw246 - [http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html](http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Robert Wolfe](people/robert-wolfe.md) - rjw253 - [https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html](https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html)
-* [Jared Wong](people/jared-wong.md) - jmw535 - [http://c2-34-204-166-154.compute-1.amazonaws.com:8080](http://c2-34-204-166-154.compute-1.amazonaws.com:8080) ![CircleCI](https://circleci.com/gh/techlover10/5356-api.svg?style=svg&circle-token=32d1b52e2d9babfead10e45184377e1fc8803234)
+* [Jared Wong](people/jared-wong.md) - jmw535 - [http://ec2-34-204-166-154.compute-1.amazonaws.com:8080](http://ec2-34-204-166-154.compute-1.amazonaws.com:8080) ![CircleCI](https://circleci.com/gh/techlover10/5356-api.svg?style=svg&circle-token=32d1b52e2d9babfead10e45184377e1fc8803234)
 * [Chengsi Wu](people/chengsi-wu.md) - cw832 - [https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html](https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html)
 * [Howard Xing](people/howard-xing.md) - hx226 - [https://cornelltech.hxing.me/cs5356/hw01/grading.html](https://cornelltech.hxing.me/cs5356/hw01/grading.html?-user=github_CT_CS5356_Fall2017)
 * [Yuan Xuan](people/yuan-xuan.md) - yx424 - [http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html](http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html)
