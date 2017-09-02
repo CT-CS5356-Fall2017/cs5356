@@ -115,7 +115,7 @@ def test_tag_association():
                   "Probably there are other erros above.".format(t))
             return -1
         rid_tag = sorted([int(t['id']) for t in r])
-        if rid_tag == _rids:
+        if rid_tag != _rids:
             print("ERROR: Returned receipts for tag={} is incorrect.\n"
                   "Expected: {}\n"
                   "Found: {}".format(t, _rids, rid_tag))
