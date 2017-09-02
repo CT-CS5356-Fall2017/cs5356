@@ -37,5 +37,6 @@ if [ "$ret" == "$netid" ]; then
     echo "Congrats! Everything works fine."
 else
     echo "The netid in the server ($ret) and in the github ($netid) does not match"
+    exit -1
 fi
 set +e
