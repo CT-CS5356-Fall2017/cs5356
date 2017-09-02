@@ -108,13 +108,14 @@ def test_tag_association():
 
     # Fetch the receitps based on each tag, and verify the association
     for t, _rids in tag_assoc.items():
+        _rids.sort()
         r = get_receipts_by_tag(t)
         if r == -1:
             print("ERROR: Get receipts for tag ({}) failed. Stopping!"
                   "Probably there are other erros above.".format(t))
             return -1
-        rid_tag = [int(t['id']) for t in r]
-        if sorted(rid_tag) == sorted(_rids):
+        rid_tag = sorted([int(t['id']) for t in r])
+        if rid_tag == _rids:
             print("ERROR: Returned receipts for tag={} is incorrect.\n"
                   "Expected: {}\n"
                   "Found: {}".format(t, _rids, rid_tag))
