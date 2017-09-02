@@ -8,7 +8,7 @@ Logistics
 ### Office Hours
 
 * [Adam](/people/adam-fleming.md): Weds after class 'till no questions left
-* [Rahul](/people/rahul-chatterjee.md): Weds 12:30pm-2:30pm
+* [Rahul](/people/rahul-chatterjee.md): Weds 12:30pm-2:30pm  *(Aug 29, Tue, 11:00am-1:00pm, No Office hour on Aug 30, Wed)*
 
 ### Grading
 
