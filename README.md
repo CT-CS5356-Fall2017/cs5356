@@ -110,7 +110,7 @@ People
 * [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)
 * [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com](http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html) [![CircleCI](https://circleci.com/gh/ym224/CS5356_Assignment2.svg?style=svg)](https://circleci.com/gh/ym224/CS5356_Assignment2)
+* [Yunie Mao](people/yunie-mao.md) - ym224 - [http://ec2-34-205-90-110.compute-1.amazonaws.com](http://ec2-34-205-90-110.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/ym224/CS5356_Assignment2.svg?style=svg)](https://circleci.com/gh/ym224/CS5356_Assignment2)
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356jm.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Fani Maksakuli](people/fani-maksakuli.md) - fm399 - [http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html](http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
