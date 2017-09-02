@@ -81,7 +81,7 @@ People
 * [Debarun Dhar](people/debarun-dhar.md) - dd599 - [http://dd599.s3-website-us-east-1.amazonaws.com/grading.html](http://dd599.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Jessie Gao](people/jessie-gao.md) - jg2238 - [https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html](https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://erg53.s3-website-us-east-1.amazonaws.com/grading.html](http://erg53.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/sddioulde/skeleton.svg?style=svg)](https://circleci.com/gh/sddioulde/skeleton)
 * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278 - [https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html](https://s3.us-east-2.amazonaws.com/ctcs53561/grading.html)
 * [I Huang](people/i-huang.md) - ih265 - [http://ih265.s3-website-us-east-1.amazonaws.com/grading.html](http://ih265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zheyuan Gu](people/zheyuan-gu.md) - zg245 - [http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html)
