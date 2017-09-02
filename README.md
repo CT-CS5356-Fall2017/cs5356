@@ -107,7 +107,7 @@ People
 * [Steve Lee](people/steve-lee.md) - sl2933 - [https://d2j3x2nftyl48h.cloudfront.net/grading.html](https://d2j3x2nftyl48h.cloudfront.net/grading.html)
 * [Brett Leibowitz](people/brett-leibowitz.md) - bal246 - [http://bal246.s3-website-us-east-1.amazonaws.com/grading.html](http://bal246.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/TonOfPrince/skeleton.svg?style=svg)](https://circleci.com/gh/TonOfPrince/skeleton)
 * [Daren Liu](people/daren-liu.md) - drl232 - [https://s3.us-east-2.amazonaws.com/drl232/grading.html](https://s3.us-east-2.amazonaws.com/drl232/grading.html)
-* [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)
+* [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)[![CircleCI](https://circleci.com/gh/LuXiaohang/skeleton.svg?style=svg)](https://circleci.com/gh/LuXiaohang/skeleton)
 * [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com](http://www.lixuanmao.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html](https://s3.amazonaws.com/aws-website-cs-ym-s5i92/grading.html)
