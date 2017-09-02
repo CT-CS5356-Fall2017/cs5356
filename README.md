@@ -63,7 +63,7 @@ People
 =======
 * [Romoli Bakshi](people/romoli-bakshi.md) - rb636 - [https://s3.us-east-2.amazonaws.com/cs5356-rb636/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-rb636/grading.html)
 >>>>>>> 025603c5a8b62c1e1e01c51178bc8d42ed18b3fd
-* [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/obanko01/skeleton/tree/apiv1.svg?style=svg)](https://circleci.com/gh/obanko01/skeleton/tree/apiv1)
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html](https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html)
 * [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html](https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html)
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
