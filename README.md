@@ -142,7 +142,7 @@ People
 * [Kriti Singh](people/kriti-singh.md) - ks2259 - [http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html](http://ks2259.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Eva Stern-Rodriguez](people/eva-stern-rodriguez.md) - ers324 - [https://dznspwk6yr8lj.cloudfront.net/grading.html](https://dznspwk6yr8lj.cloudfront.net/grading.html)
 * [Ray Su](people/ray-su.md) - zs349 - [ http://cs5356.zs349.s3-website.us-east-2.amazonaws.com/grading.html]( http://cs5356.zs349.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Ran Sun](people/rainie-sun.md) - rs2468 - [https://s3.us-east-2.amazonaws.com/sunran.site/grading.html](https://s3.us-east-2.amazonaws.com/sunran.site/grading.html)
+* [Ran Sun](people/rainie-sun.md) - rs2468 - [https://s3.us-east-2.amazonaws.com/sunran.site/grading.html](https://s3.us-east-2.amazonaws.com/sunran.site/grading.html)[![CircleCI](https://circleci.com/gh/JossSun/skeleton.svg?style=svg)](https://circleci.com/gh/JossSun/skeleton)
 * [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [https://d39fj6c5o8il7v.cloudfront.net/grading.html](https://d39fj6c5o8il7v.cloudfront.net/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) [![CircleCI](https://circleci.com/gh/ike35/skeleton.svg?style=svg)](https://circleci.com/gh/ike35/skeleton)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
