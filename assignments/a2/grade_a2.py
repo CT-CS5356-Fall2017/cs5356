@@ -64,7 +64,7 @@ def get_receipts_by_tag(tag):
 
 
 def test_netid():
-    url = URL + "/"
+    url = URL + "/netid"
     print("-"*80)
     print(">>> Testing: 'GET /'")
     try:
