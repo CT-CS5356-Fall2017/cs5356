@@ -101,7 +101,7 @@ People
 * [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html](http://sk2998.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Svava Kristinsdottir](people/svava-kristinsdottir.md) - gsk72 - [https://s3.us-east-2.amazonaws.com/gsk72/grading.html](https://s3.us-east-2.amazonaws.com/gsk72/grading.html)
 * [Vincent Kuo](people/vincent-kuo.md) - ck728 - [http://ck728.s3-website.us-east-2.amazonaws.com/grading.html](http://ck728.s3-website.us-east-2.amazonaws.com/grading.html)
-* [An Le](people/an-le.md) - aql6 - [https://s3-us-west-2.amazonaws.com/anle1/grading.html](https://s3-us-west-2.amazonaws.com/anle1/grading.html) [![CircleCI](https://circleci.com/gh/anle1991/CS5356-Skeleton.svg?style=svg)](https://circleci.com/gh/anle1991/CS5356-Skeleton)
+* [An Le](people/an-le.md) - aql6 - [http://34.212.113.32:8080](http://34.212.113.32:8080) [![CircleCI](https://circleci.com/gh/anle1991/CS5356-Skeleton.svg?style=svg)](https://circleci.com/gh/anle1991/CS5356-Skeleton)
 * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83 - [http://sarahlecam.com/grading.html](http://sarahlecam.com/grading.html)
 * [Ang Li](people/ang-li.md) - al2386 - [http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html](http://cs5356al2386.s3-website-us-west-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/leonmz/skeleton.svg?style=svg)](https://circleci.com/gh/leonmz/skeleton)
 * [Jacob Lee](people/jacob-lee.md) - hl2278 - [https://s3.amazonaws.com/hl2278/grading.html](https://s3.amazonaws.com/hl2278/grading.html)
