@@ -52,7 +52,7 @@ People
 <!-- Please keep in Alpha order -->
 
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html](http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/lukeahn/skeleton.svg?style=svg)](https://circleci.com/gh/lukeahn/skeleton)
 * [Tanuj Ahuja](people/Tanuj-Ahuja.md) - ta364 - [https://s3.us-east-2.amazonaws.com/ta364/grading.html](https://s3.us-east-2.amazonaws.com/ta364/grading.html)
