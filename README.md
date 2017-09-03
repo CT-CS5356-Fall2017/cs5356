@@ -80,10 +80,9 @@ People
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html](http://yuhuidai95.com.s3-website.us-east-2.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/YuhuiDai/skeleton.svg?style=svg)](https://circleci.com/gh/YuhuiDai/skeleton)
 * [Will Davis](people/will-davis.md) - twd38 - [https://s3.us-east-2.amazonaws.com/www.twd38.website/grading.html](https://s3.us-east-2.amazonaws.com/www.twd38.website/grading.html)
 * [Debarun Dhar](people/debarun-dhar.md) - dd599 - [http://dd599.s3-website-us-east-1.amazonaws.com/grading.html](http://dd599.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Jessie Gao](people/jessie-gao.md) - jg2238 - [https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html](https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html)[![CircleCI](https://circleci.com/gh/JessieJingxuGao/skeleton.svg?style=svg)](https://circleci.com/gh/JessieJingxuGao/skeleton)
+* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/sddioulde/skeleton.svg?style=svg)](https://circleci.com/gh/sddioulde/skeleton)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://erg53.s3-website-us-east-1.amazonaws.com/grading.html](http://erg53.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Zheyuan Gu](people/zheyuan-gu.md) - zg245 - [http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-guccigu-59k8u.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html](http://sdd65.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Yiyuan Feng](people/yiyuan-feng.md) - yf323 - [http://yeefeng.me.s3-website.us-east-2.amazonaws.com/grading.html](http://yeefeng.me.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/Yiyuan7/skeleton.svg?style=svg)](https://circleci.com/gh/Yiyuan7/skeleton)
 * [David Hachuel](people/david-hachuel.md) - dh649 - [http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-startup-systems-dh-ns6pf.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/dhachuel/skeleton.svg?style=svg&circle-token=a4f530a9090ad12cdf99965817cef1b9db2c2fbb)](https://circleci.com/gh/dhachuel/skeleton)
 * [Xu Han](people/xu-han.md) - xh325 - [https://s3.us-east-2.amazonaws.com/leohuntnyc.com/grading.html](https://s3.us-east-2.amazonaws.com/leohuntnyc.com/grading.html)
@@ -182,7 +181,6 @@ People
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [https://s3.amazonaws.com/fredzhou/grading.html](https://s3.amazonaws.com/fredzhou/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
-
 
 Copyright & License
 -------------------
