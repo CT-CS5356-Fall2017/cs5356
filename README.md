@@ -147,7 +147,7 @@ People
 * [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [https://d39fj6c5o8il7v.cloudfront.net/grading.html](https://d39fj6c5o8il7v.cloudfront.net/grading.html)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) [![CircleCI](https://circleci.com/gh/ike35/skeleton.svg?style=svg)](https://circleci.com/gh/ike35/skeleton)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
-* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [https://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html](http://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [https://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html](http://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/pytseng/skeleton.svg?style=svg)](https://circleci.com/gh/pytseng/skeleton)
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html](https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
