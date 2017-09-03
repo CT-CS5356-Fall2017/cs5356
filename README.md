@@ -154,7 +154,7 @@ People
 * [Xu Wang](people/xu-wang.md) - xw477 - [http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html](http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Linglong Wei](people/linglong-wei.md) - lw567 - [https://s3.us-east-2.amazonaws.com/laurawei001.com/grading.html](https://s3.us-east-2.amazonaws.com/laurawei001.com/grading.html)
-* [Cameron Westbury](people/cameron-westbury.md) - chw68 - [http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Cameron Westbury](people/cameron-westbury.md) - chw68 - [http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/cwestbury/skeleton.svg?style=svg)](https://circleci.com/gh/cwestbury/skeleton)
 * [Marco White](people/marco-white.md) - mtw79 - [http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-mtw-0ko1q.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Bradley Wise](people/bradley-wise.md) - bmw246 - [http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html](http://bmwisest.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Robert Wolfe](people/robert-wolfe.md) - rjw253 - [https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html](https://s3.us-east-2.amazonaws.com/ohsuhdude.com/grading.html)
