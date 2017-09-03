@@ -168,7 +168,7 @@ People
 * [Zongcheng Yang](people/zongcheng-yang.md) - zy338 - [https://s3.amazonaws.com/aws-website-gradinghtml-sbgux/grading.html](https://s3.amazonaws.com/aws-website-gradinghtml-sbgux/grading.html)
 * [Yixin Ye](people/yixin-ye.md) - yy748 - [https://d2g8zevmbtf125.cloudfront.net/grading.html](https://d2g8zevmbtf125.cloudfront.net/grading.html)
 * [Samantha Yip](people/samantha-yip.md) - sty5 - [http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Jamie Yu](people/jamie-yu.md) - jky32 - [https://d1l2obcta6wa23.cloudfront.net/grading.html](https://d1l2obcta6wa23.cloudfront.net/grading.html)
+* [Jamie Yu](people/jamie-yu.md) - jky32 - [https://d1l2obcta6wa23.cloudfront.net/grading.html](https://d1l2obcta6wa23.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/jamiekimyu/skeleton.svg?style=svg)](https://circleci.com/gh/jamiekimyu/skeleton)
 * [Tao Yuan](people/tao-yuan.md) - ty353 - [https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html](https://s3.amazonaws.com/taoyuanbayernstar.com/grading.html)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [http://cs5356-a2.jzy.io](http://cs5356-a2.jzy.io)[![CircleCI](https://circleci.com/gh/zenyui/cs5356-a2/tree/master.svg?style=svg&circle-token=49df7ca1f811e8e6a4a917e3cc0937a7d25e3d28)](https://circleci.com/gh/zenyui/cs5356-a2/tree/master)
 * [Renee Zacharowicz](people/renee-zacharowicz.md) - rz336 - [https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html](https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html)
