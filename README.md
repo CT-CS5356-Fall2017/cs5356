@@ -135,7 +135,7 @@ People
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
 * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md) - vr328 - [https://s3.us-east-2.amazonaws.com/startupsystkmsvicente/grading.html](https://s3.us-east-2.amazonaws.com/startupsystkmsvicente/grading.html) [![CircleCI](https://circleci.com/gh/vrotmanh/skeleton.svg?style=svg)](https://circleci.com/gh/vrotmanh/skeleton)
 * [Anmol Seth](people/anmol-seth.md) - as3664 - [http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html](http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Liran Sharir](people/liran-sharir.md) - ls873 - [https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html](https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html)
+* [Liran Sharir](people/liran-sharir.md) - ls873 - [https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html](https://s3.us-east-2.amazonaws.com/liran-sharir/grading.html) [![CircleCI](https://circleci.com/gh/lsharir/skeleton.svg?style=svg)](https://circleci.com/gh/lsharir/skeleton)
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Yuchen Shi](people/yuchen-shi.md) - ys838 - [https://s3.amazonaws.com/brienneoftarth.com/grading.html](https://s3.amazonaws.com/brienneoftarth.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
