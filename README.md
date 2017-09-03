@@ -93,7 +93,7 @@ People
 * [Lingfeng Huang](people/lingfeng-huang.md) - lh635 - [http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html](http://hlingfeng.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Steven Jaroslawski](people/steven-jaroslawski.md) - sj393 - [http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html](http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Akshay Jha](people/akshayj.md) - aj545 - [https://s3.us-east-2.amazonaws.com/akshayjha/grading.html](https://s3.us-east-2.amazonaws.com/akshayjha/grading.html)
-* [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
+* [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)[![CircleCI](https://circleci.com/gh/ZivJia/skeleton.svg?style=svg)](https://circleci.com/gh/ZivJia/skeleton)
 * [Han Jing](people/han-hjing.md) - hj378 - [https://s3.amazonaws.com/cs5356-hw1/grading.html](https://s3.amazonaws.com/cs5356-hw1/grading.html)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://emk269.xyz.s3-website.us-east-2.amazonaws.com](http://emk269.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Feston Kastrati](people/feston-kastrati.md) - fk257 - [http://ec2-13-59-77-36.us-east-2.compute.amazonaws.com](http://ec2-13-59-77-36.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/fk257/skeleton.svg?style=svg)](https://circleci.com/gh/fk257/skeleton)
