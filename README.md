@@ -50,6 +50,7 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
+
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html](http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
