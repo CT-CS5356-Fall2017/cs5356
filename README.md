@@ -163,7 +163,7 @@ People
 * [Chengsi Wu](people/chengsi-wu.md) - cw832 - [https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html](https://s3.us-east-2.amazonaws.com/wuchengsi/grading.html)
 * [Howard Xing](people/howard-xing.md) - hx226 - [https://cornelltech.hxing.me/cs5356/hw01/grading.html](https://cornelltech.hxing.me/cs5356/hw01/grading.html?-user=github_CT_CS5356_Fall2017)
 * [Yuan Xuan](people/yuan-xuan.md) - yx424 - [http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html](http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/Daraxuxuxu/skeleton.svg?style=svg)](https://circleci.com/gh/Daraxuxuxu/skeleton)
+* [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/Daraxuxuxu/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/Daraxuxuxu/skeleton/tree/master)
 * [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html)
 * [Zongcheng Yang](people/zongcheng-yang.md) - zy338 - [https://s3.amazonaws.com/aws-website-gradinghtml-sbgux/grading.html](https://s3.amazonaws.com/aws-website-gradinghtml-sbgux/grading.html)
 * [Yixin Ye](people/yixin-ye.md) - yy748 - [https://d2g8zevmbtf125.cloudfront.net/grading.html](https://d2g8zevmbtf125.cloudfront.net/grading.html)
