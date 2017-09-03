@@ -50,8 +50,6 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) 
-
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html](http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
@@ -146,7 +144,7 @@ People
 * [Ray Su](people/ray-su.md) - zs349 - [ http://cs5356.zs349.s3-website.us-east-2.amazonaws.com/grading.html]( http://cs5356.zs349.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Ran Sun](people/rainie-sun.md) - rs2468 - [https://s3.us-east-2.amazonaws.com/sunran.site/grading.html](https://s3.us-east-2.amazonaws.com/sunran.site/grading.html)[![CircleCI](https://circleci.com/gh/JossSun/skeleton.svg?style=svg)](https://circleci.com/gh/JossSun/skeleton)
 * [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [https://d39fj6c5o8il7v.cloudfront.net/grading.html](https://d39fj6c5o8il7v.cloudfront.net/grading.html)
-* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [https://s3.amazonaws.com/iketsai/grading.html](https://s3.amazonaws.com/iketsai/grading.html) [![CircleCI](https://circleci.com/gh/ike35/skeleton.svg?style=svg)](https://circleci.com/gh/ike35/skeleton)
+* [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [http://52.14.132.80:8080/](http://52.14.132.80:8080/) [![CircleCI](https://circleci.com/gh/ike35/skeleton.svg?style=svg)](https://circleci.com/gh/ike35/skeleton)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [https://d2qc19kp2h2thv.cloudfront.net/grading.html](https://d2qc19kp2h2thv.cloudfront.net/grading.html)
 * [Poyen Tseng](people/poyen-tseng.md) - pt382 - [https://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html](http://pytseng.xyz.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html](https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html)
