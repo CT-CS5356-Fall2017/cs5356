@@ -121,7 +121,7 @@ People
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html) 
 =======
 * [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html)
-* [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
+* [Ephraim Montag](people/ephraim-montag.md) - em789 - [http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/](http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/emontag/skeleton.svg?style=svg)](https://circleci.com/gh/emontag/skeleton)
 * [Kirollos Morkos](people/kirollos-morkos.md) - krm257 - [http://kirollosmorkos.com/grading.html](http://kirollosmorkos.com/grading.html)
 * [Derek Netto](people/derek-netto.md) - dfn22 - [https://s3.amazonaws.com/dfn22.com/grading.html](https://s3.amazonaws.com/dfn22.com/grading.html)
 * [Eric Nguyen](people/Eric-Nguyen.md) - en274 - [https://dlv8dwufxo01j.cloudfront.net/grading.html](https://dlv8dwufxo01j.cloudfront.net/grading.html)
