@@ -117,7 +117,7 @@ People
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
 * [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Andi Mitre](people/andi-mitre.md) - am2886 - [http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html](http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/moyk/skeleton.svg?style=svg)](https://circleci.com/gh/moyk/skeleton) 
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/aleotheoreo/skeleton.svg?style=svg)](https://circleci.com/gh/aleotheoreo/skeleton)
 * [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html)
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
