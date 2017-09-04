@@ -65,7 +65,7 @@ People
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html](https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Devon Bain](people/devon-bain.md) - dwb264 - [https://s3.us-east-2.amazonaws.com/dwb264/grading.html](https://s3.us-east-2.amazonaws.com/dwb264/grading.html)
+* [Devon Bain](people/devon-bain.md) - dwb264 - [http://ec2-13-59-53-125.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-53-125.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/dwb264/skeleton.svg?style=svg)](https://circleci.com/gh/dwb264/skeleton)
 * [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html](https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html)
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Mikaela Brown](people/mikaela-brown.md) - mb2587 - [https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html](https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html)
