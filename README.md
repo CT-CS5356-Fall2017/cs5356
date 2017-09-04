@@ -180,7 +180,7 @@ People
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [https://s3.amazonaws.com/fredzhou/grading.html](https://s3.amazonaws.com/fredzhou/grading.html)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)
-* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
+* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [http://ec2-34-206-3-145.compute-1.amazonaws.com:8080](http://ec2-34-206-3-145.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/jimzhu1993/skeleton.svg?style=svg)](https://circleci.com/gh/jimzhu1993/skeleton)
 
 
 Copyright & License
