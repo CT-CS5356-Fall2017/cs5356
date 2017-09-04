@@ -136,7 +136,7 @@ People
 * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md) - vr328 - [http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com](http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/vrotmanh/skeleton.svg?style=svg)](https://circleci.com/gh/vrotmanh/skeleton)
 * [Anmol Seth](people/anmol-seth.md) - as3664 - [http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html](http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Liran Sharir](people/liran-sharir.md) - ls873 - [http://ec2-13-58-102-215.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-102-215.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/lsharir/skeleton.svg?style=svg)](https://circleci.com/gh/lsharir/skeleton)
-* [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://ec2-52-3-250-208.compute-1.amazonaws.com:8080/netid](https://circleci.com/gh/mshatkhin23)
+* [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://ec2-52-3-250-208.compute-1.amazonaws.com:8080](https://circleci.com/gh/mshatkhin23)
 * [Yuchen Shi](people/yuchen-shi.md) - ys838 - [https://s3.amazonaws.com/brienneoftarth.com/grading.html](https://s3.amazonaws.com/brienneoftarth.com/grading.html)
 * [Xialin Shen](people/spark-shen.md) - xs293 - [http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html](http://cs5356-xs293.s3-website-us-west-2.amazonaws.com/grading.html)
 * [Arpit Sheth](people/arpit-sheth.md) - as3668 - [http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html](http://cornelltech-cs5356-arpitsheth.s3-website.us-east-2.amazonaws.com/grading.html)
