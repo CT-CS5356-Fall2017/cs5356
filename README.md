@@ -83,7 +83,7 @@ People
 * [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html](https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html) 
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [https://daqmewr4vl42v.cloudfront.net/grading.html](https://daqmewr4vl42v.cloudfront.net/grading.html)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
-* [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [https://s3.amazonaws.com/zivcornell.com/grading.html](https://s3.amazonaws.com/zivcornell.com/grading.html)
+* [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [http://ec2-54-208-181-210.compute-1.amazonaws.com:8080](http://ec2-54-208-181-210.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/ZivJia/skeleton.svg?style=svg)](https://circleci.com/gh/ZivJia/skeleton)
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html](https://s3-us-west-2.amazonaws.com/zhizhimontova.com/grading.html)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
 
