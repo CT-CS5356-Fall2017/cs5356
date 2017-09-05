@@ -119,8 +119,13 @@ People
 * [Andi Mitre](people/andi-mitre.md) - am2886 - [http://ec2-54-234-72-129.compute-1.amazonaws.com](http://ec2-54-234-72-129.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/andimitre/skeleton.svg?style=svg)](https://circleci.com/gh/andimitre/skeleton)
 * [Yian Mo](people/yian-mo.md) - ym443 - [http://ec2-13-58-78-137.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-78-137.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/moyk/skeleton.svg?style=svg)](https://circleci.com/gh/moyk/skeleton) 
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/aleotheoreo/skeleton.svg?style=svg)](https://circleci.com/gh/aleotheoreo/skeleton)
+<<<<<<< HEAD
+* [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [http://ec2-54-166-199-118.compute-1.amazonaws.com:8080/netid](http://ec2-54-166-199-118.compute-1.amazonaws.com:8080/netid) [![CircleCI](https://circleci.com/gh/dm458/skeleton.svg?style=svg)](https://circleci.com/gh/dm458/skeleton)
+* [Ephraim Montag](people/ephraim-montag.md) - em789 - [http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/](http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/emontag/skeleton.svg?style=svg)](https://circleci.com/gh/emontag/skeleton)
+=======
 * [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [http://ec2-54-166-199-118.compute-1.amazonaws.com:8080](http://ec2-54-166-199-118.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/dm458/skeleton.svg?style=svg)](https://circleci.com/gh/dm458/skeleton)
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
+>>>>>>> upstream/master
 * [Kirollos Morkos](people/kirollos-morkos.md) - krm257 - [http://kirollosmorkos.com/grading.html](http://kirollosmorkos.com/grading.html)
 * [Derek Netto](people/derek-netto.md) - dfn22 - [https://s3.amazonaws.com/dfn22.com/grading.html](https://s3.amazonaws.com/dfn22.com/grading.html)
 * [Eric Nguyen](people/Eric-Nguyen.md) - en274 - [https://dlv8dwufxo01j.cloudfront.net/grading.html](https://dlv8dwufxo01j.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/exnx/skeleton.svg?style=svg)](https://circleci.com/gh/exnx/skeleton)
