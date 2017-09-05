@@ -50,7 +50,6 @@ People
 
 #### Students
 <!-- Please keep in Alpha order -->
-<<<<<<< HEAD
 
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/joeabisleiman/skeleton.svg?style=svg)](https://circleci.com/gh/joeabisleiman/skeleton)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
@@ -59,24 +58,12 @@ People
 * [Tanuj Ahuja](people/Tanuj-Ahuja.md) - ta364 - [https://s3.us-east-2.amazonaws.com/ta364/grading.html](https://s3.us-east-2.amazonaws.com/ta364/grading.html)
 * [Travis Allen](people/Travis-Allen.md) - twa24 - [http://cozycozart.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cozycozart.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Raviteja Arikati](people/raviteja-arikati.md) - ra597 - [http://ra597.s3-website.us-east-2.amazonaws.com/](http://ra597.s3-website.us-east-2.amazonaws.com/)
-* [Huajun Bai](people/huajun-bai.md) - hb364 - [https://s3.us-east-2.amazonaws.com/cs5356a1/grading.html](https://s3.us-east-2.amazonaws.com/cs5356a1/grading.html) [![CircleCI](https://circleci.com/gh/baihuajun24/skeleton.svg?style=svg)](https://circleci.com/gh/baihuajun24/skeleton)
+* [Huajun Bai](people/huajun-bai.md) - hb364 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/baihuajun24/skeleton.svg?style=svg)](https://circleci.com/gh/baihuajun24/skeleton)
 * [Devon Bain](people/devon-bain.md) - dwb264 - [http://ec2-13-59-53-125.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-53-125.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/dwb264/skeleton.svg?style=svg)](https://circleci.com/gh/dwb264/skeleton)
 * [Romoli Bakshi](people/romoli-bakshi.md) - rb636 - [https://s3.us-east-2.amazonaws.com/cs5356-rb636/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-rb636/grading.html) [![CircleCI](https://circleci.com/gh/RomoliBakshi/skeleton.svg?style=svg)](https://circleci.com/gh/RomoliBakshi/skeleton)
 * [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/obanko01/skeleton/tree/apiv1.svg?style=svg)](https://circleci.com/gh/obanko01/skeleton/tree/apiv1)
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [http://ec2-52-202-201-59.compute-1.amazonaws.com:8080](http://ec2-52-202-201-59.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/MarcoBerlot/dev_skeleton.svg?style=svg)](https://circleci.com/gh/MarcoBerlot/dev_skeleton)
 * [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [http://ec2-13-59-91-251.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-91-251.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/sb2483/skeleton.svg?style=svg)](https://circleci.com/gh/sb2483/skeleton)
-=======
-* [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html](http://jas-startup-systems.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ka467.com.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)
-* [Raviteja Arikati](people/raviteja-arikati.md) - ra597 - [http://ra597.s3-website.us-east-2.amazonaws.com/](http://ra597.s3-website.us-east-2.amazonaws.com/)
-* [Huajun Bai](people/huajun-bai.md) - hb364 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/baihuajun24/skeleton.svg?style=svg)](https://circleci.com/gh/baihuajun24/skeleton)
-* [Devon Bain](people/devon-bain.md) - dwb264 - [https://s3.us-east-2.amazonaws.com/dwb264/grading.html](https://s3.us-east-2.amazonaws.com/dwb264/grading.html)
-* [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html)
-* [Marco Berlot](people/marco-berlot.md) - mb2589 - [https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html](https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html)
-* [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html](https://s3.us-east-2.amazonaws.com/sb2483.com/grading.html)
->>>>>>> 4aeb01ee7588d80bb3ea342efcf009da3c0651c4
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Mikaela Brown](people/mikaela-brown.md) - mb2587 - [https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html](https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html)
 * [Christopher Caulfield](people/christopher-caulfield.md) - ctc98 - [http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html](http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html)
