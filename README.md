@@ -70,6 +70,7 @@ People
 * [Mikaela Brown](people/mikaela-brown.md) - mb2587 - [https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html](https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html)
 >>>>>>> CT-CS5356-Fall2017/master
 * [Christopher Caulfield](people/christopher-caulfield.md) - ctc98 - [http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html](http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html)
+[![CircleCI](https://circleci.com/gh/ctcaulfield/photo_receipts.svg?style=svg)](https://circleci.com/gh/ctcaulfield/photo_receipts)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
 * [Mohit Chawla](people/mohit-chawla.md) - mc2683 - [http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html](http://mohitchawla.s3-website-us-west-2.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/mohit-chawla/skeleton.svg?style=svg)](https://circleci.com/gh/mohit-chawla/skeleton)
