@@ -53,7 +53,7 @@ People
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html](http://sa2265.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-97-123.us-east-2.compute.amazonaws.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Raviteja Arikati](people/raviteja-arikati.md) - ra597 - [http://ra597.s3-website.us-east-2.amazonaws.com/](http://ra597.s3-website.us-east-2.amazonaws.com/)
-* [Huajun Bai](people/huajun-bai.md) - hb364 - [https://s3.us-east-2.amazonaws.com/cs5356a1/grading.html](https://s3.us-east-2.amazonaws.com/cs5356a1/grading.html) 
+* [Huajun Bai](people/huajun-bai.md) - hb364 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/baihuajun24/skeleton.svg?style=svg)](https://circleci.com/gh/baihuajun24/skeleton)
 * [Devon Bain](people/devon-bain.md) - dwb264 - [https://s3.us-east-2.amazonaws.com/dwb264/grading.html](https://s3.us-east-2.amazonaws.com/dwb264/grading.html)
 * [Oluseye Bankole](people/seye-bankole.md) - ob97 - [http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html](http://ec2-54-88-146-220.compute-1.amazonaws.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html](https://s3.us-east-2.amazonaws.com/marcoberlot.com/grading.html)
