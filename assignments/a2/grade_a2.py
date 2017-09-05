@@ -184,7 +184,12 @@ if __name__ == "__main__":
             r += test_circleCI(circleurl)
     else:
         URL = sys.argv[1]
+    URL = URL.rstrip('/')
     print("The url found: {}".format(URL))
+    if not URL.startswith('http'):
+        print("The url does not look like one (should start with http..).\n"
+              "May be you meant 'python {} -github {}".format(*sys.argv))
+        exit(-1)
     r += test_netid(netid)
     if r==0:
         r = test_tag_association()
