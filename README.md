@@ -121,7 +121,6 @@ People
 * [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html)
 <<<<<<< HEAD
-* [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html) 
 =======
 * [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html](https://s3.us-east-2.amazonaws.com/cs5356-dm458.com/grading.html)
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/](http://ec2-18-220-233-46.us-east-2.compute.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/emontag/skeleton.svg?style=svg)](https://circleci.com/gh/emontag/skeleton)
