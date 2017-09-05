@@ -130,14 +130,9 @@ People
 * [Neel Parekh](people/neel-parekh.md) - np423 - [http://np423.s3-website.us-east-2.amazonaws.com/grading.html](http://np423.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://18.221.55.69:8080](http://18.221.55.69:8080)[![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
 * [Vijay Pillai](people/vijay-pillai.md) - vp296 - [https://s3.amazonaws.com/bss-vp296/grading.html](https://s3.amazonaws.com/bss-vp296/grading.html)
-* [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [http://s3site.ryanramphal.com.s3-website-us-east-1.amazonaws.com/grading.html](http://s3site.ryanramphal.com.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/rramphal100/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/rramphal100/skeleton/tree/master)
-<<<<<<< HEAD
-* [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [https://s3.amazonaws.com/hr346/grading.html](https://s3.amazonaws.com/hr346/grading.html)
-* [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md) - vr328 - [https://s3.us-east-2.amazonaws.com/startupsystkmsvicente/grading.html](https://s3.us-east-2.amazonaws.com/startupsystkmsvicente/grading.html)
-=======
+* [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [http://ec2-54-163-121-191.compute-1.amazonaws.com:8080](http://ec2-54-163-121-191.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/rramphal100/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/rramphal100/skeleton/tree/master)
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [http://ec2-34-200-214-97.compute-1.amazonaws.com](http://ec2-34-200-214-97.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/hathaitornr/skeleton.svg?style=svg)](https://circleci.com/gh/hathaitornr/skeleton)
 * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md) - vr328 - [http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com](http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/vrotmanh/skeleton.svg?style=svg)](https://circleci.com/gh/vrotmanh/skeleton)
->>>>>>> upstream/master
 * [Anmol Seth](people/anmol-seth.md) - as3664 - [http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html](http://www.as3664.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Liran Sharir](people/liran-sharir.md) - ls873 - [http://ec2-13-58-102-215.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-102-215.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/lsharir/skeleton.svg?style=svg)](https://circleci.com/gh/lsharir/skeleton)
 * [Maksimilian Shatkhin](people/max-shatkhin.md) - ms3448 - [http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html](http://cs5356-ms.us.s3-website-us-east-1.amazonaws.com/grading.html)
