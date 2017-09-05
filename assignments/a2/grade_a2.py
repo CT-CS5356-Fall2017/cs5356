@@ -184,6 +184,7 @@ if __name__ == "__main__":
             r += test_circleCI(circleurl)
     else:
         URL = sys.argv[1]
+    URL = URL.rstrip('/')
     print("The url found: {}".format(URL))
     r += test_netid(netid)
     if r==0:
