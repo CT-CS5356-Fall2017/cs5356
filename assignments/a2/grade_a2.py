@@ -106,9 +106,7 @@ def test_tag_association():
         for _rid in _rids:
             put_tags(_rid, t)
 
-
     # Fetch the receitps based on each tag, and verify the association
-
     for t, _rids in tag_assoc.items():
         _rids.sort()
         r = get_receipts_by_tag(t)
