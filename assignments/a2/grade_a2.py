@@ -13,7 +13,7 @@ except ImportError:
 
 
 def random_tag(n=4):
-    return ''.join(random.choice(string.ascii_uppercase + string.digits)
+    return ''.join(random.choice(string.ascii_uppercase + string.digits) 
                    for _ in range(4))
 
 
@@ -90,7 +90,7 @@ def test_tag_association():
     
     # Randomly generate two tags
     tags = [random_tag() for i in range(2)]
-    
+
     a = list(range(3))
     random.shuffle(a)
     tag_assoc = {
@@ -100,13 +100,15 @@ def test_tag_association():
         # add another tag to remaining receipt
         tags[1]: [rids[a[2]]]
     }
-    
+
     # PUT the tags accordingly
     for t, _rids in tag_assoc.items():
         for _rid in _rids:
             put_tags(_rid, t)
 
-# Fetch the receitps based on each tag, and verify the association
+
+    # Fetch the receitps based on each tag, and verify the association
+
     for t, _rids in tag_assoc.items():
         _rids.sort()
         r = get_receipts_by_tag(t)
