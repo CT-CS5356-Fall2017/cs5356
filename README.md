@@ -180,7 +180,7 @@ People
 * [Hao Zheng](people/hao-zheng.md) - hz466 - [http://aws-website-hao-udg36.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-hao-udg36.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [http://ec2-13-58-124-181.us-east-2.compute.amazonaws.com](http://ec2-13-58-124-181.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/sunsshadow/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/sunsshadow/skeleton/tree/master)
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [https://s3.amazonaws.com/fredzhou/grading.html](https://s3.amazonaws.com/fredzhou/grading.html)
-* [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html](https://s3.us-east-2.amazonaws.com/ruihaozhu/grading.html)[![CircleCI](https://circleci.com/gh/rzhu9/skeleton.svg?style=svg)](https://circleci.com/gh/rzhu9/skeleton)
+* [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [http://ec2-13-59-181-128.us-east-2.compute.amazonaws.com:8080/](http://ec2-13-59-181-128.us-east-2.compute.amazonaws.com:8080/)[![CircleCI](https://circleci.com/gh/rzhu9/skeleton.svg?style=svg)](https://circleci.com/gh/rzhu9/skeleton)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://s3.amazonaws.com/cs5356-yz2329/grading.html](https://s3.amazonaws.com/cs5356-yz2329/grading.html)
 
 
