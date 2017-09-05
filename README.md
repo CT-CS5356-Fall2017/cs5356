@@ -65,8 +65,12 @@ People
 * [Marco Berlot](people/marco-berlot.md) - mb2589 - [http://ec2-52-202-201-59.compute-1.amazonaws.com:8080](http://ec2-52-202-201-59.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/MarcoBerlot/dev_skeleton.svg?style=svg)](https://circleci.com/gh/MarcoBerlot/dev_skeleton)
 * [Stephen Bongner](people/stephen-bongner.md) - sb2483 - [http://ec2-13-59-91-251.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-91-251.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/sb2483/skeleton.svg?style=svg)](https://circleci.com/gh/sb2483/skeleton)
 * [Cameron Boroumand](people/cameron-boroumand.md) - cb596 - [http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html](http://cameronboroumand.com.s3-website.us-east-2.amazonaws.com/grading.html)
+<<<<<<< HEAD
+=======
 * [Mikaela Brown](people/mikaela-brown.md) - mb2587 - [https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html](https://s3.amazonaws.com/aws-website-mb-u6ygo/grading.html)
+>>>>>>> CT-CS5356-Fall2017/master
 * [Christopher Caulfield](people/christopher-caulfield.md) - ctc98 - [http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html](http://www.caulfield.io.s3-website-us-east-1.amazonaws.com/grading.html)
+[![CircleCI](https://circleci.com/gh/ctcaulfield/photo_receipts.svg?style=svg)](https://circleci.com/gh/ctcaulfield/photo_receipts)
 * [Gaurav Chaturvedi](people/gaurav-chaturvedi.md) - gkc24 - [http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html](http://gkchat.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Yuan Chang](people/yuan-chang.md) - yc2378 - [https://s3.amazonaws.com/yuanchang.com/grading.html](https://s3.amazonaws.com/yuanchang.com/grading.html)
 * [Mohit Chawla](people/mohit-chawla.md) - mc2683 - [http://ec2-35-165-244-172.us-west-2.compute.amazonaws.com:8080](http://ec2-35-165-244-172.us-west-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/mohit-chawla/skeleton.svg?style=svg)](https://circleci.com/gh/mohit-chawla/skeleton)
@@ -115,6 +119,11 @@ People
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://ec2-18-221-72-155.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-72-155.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/jmagid15/skeleton.svg?style=svg)](https://circleci.com/gh/jmagid15/skeleton)
 * [Fani Maksakuli](people/fani-maksakuli.md) - fm399 - [http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html](http://fanisbucket.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
+<<<<<<< HEAD
+* [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html)
+* [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
+=======
 * [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-yuxue2017.com.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/Detective2016/skeleton.svg?style=svg)](https://circleci.com/gh/Detective2016/skeleton)
 * [Andi Mitre](people/andi-mitre.md) - am2886 - [http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html](http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/moyk/skeleton.svg?style=svg)](https://circleci.com/gh/moyk/skeleton) 
@@ -125,6 +134,7 @@ People
 * [Derek Netto](people/derek-netto.md) - dfn22 - [https://s3.amazonaws.com/dfn22.com/grading.html](https://s3.amazonaws.com/dfn22.com/grading.html)
 * [Eric Nguyen](people/Eric-Nguyen.md) - en274 - [https://dlv8dwufxo01j.cloudfront.net/grading.html](https://dlv8dwufxo01j.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/exnx/skeleton.svg?style=svg)](https://circleci.com/gh/exnx/skeleton)
 * [Zihan Ni](people/zihan-ni.md) - zn43 - [http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html](http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/zn8ae/skeleton.svg?style=svg&circle-token=8ec8ca5548679380e84a17b564544ba059220b5b)](https://circleci.com/gh/zn8ae/skeleton)
+>>>>>>> CT-CS5356-Fall2017/master
 * [Han Nie](people/han-nie.md) - hn329 - [https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html](https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html)
 * [Advika Nigam](people/advika-nigam.md) - an556 - [http://an556.s3-website-us-east-1.amazonaws.com/grading.html](http://an556.s3-website-us-east-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/advikanigam/skeleton.svg?style=svg)](https://circleci.com/gh/advikanigam/skeleton)
 * [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [https://s3.amazonaws.com/nan42/grading.html](https://s3.amazonaws.com/nan42/grading.html)
@@ -151,6 +161,12 @@ People
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html](https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html) [![CircleCI](https://circleci.com/gh/kaa1el/skeleton.svg?style=svg)](https://circleci.com/gh/kaa1el/skeleton)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-13-58-231-195.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-231-195.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/kellywang95/skeleton.svg?style=svg)](https://circleci.com/gh/kellywang95/skeleton)
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
+<<<<<<< HEAD
+* [Xu Wang](people/xu-wang.md) - xw477 - [http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html](http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Cameron Westbury](people/cameron-westbury.md) - chw68 - [http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html)
+* [Jared Wong](people/jared-wong.md) - jmw535 - [https://dxf941vjbdgze.cloudfront.net/grading.html](https://dxf941vjbdgze.cloudfront.net/grading.html)
+=======
 * [Vinson Wang](people/vinson-wang.md) - xw466 - [http://vinsonsdomain.com.s3-website-us-east-1.amazonaws.com/grading.html](http://vinsonsdomain.com.s3-website-us-east-1.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/vinsonwxy/skeleton.svg?style=svg)](https://circleci.com/gh/vinsonwxy/skeleton)
 * [Xu Wang](people/xu-wang.md) - xw477 - [http://ec2-52-14-183-61.us-east-2.compute.amazonaws.com](http://ec2-52-14-183-61.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/xuwanggr/skeleton.svg?style=svg)](https://circleci.com/gh/xuwanggr/skeleton)
 * [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
@@ -162,6 +178,7 @@ People
 * [Jared Wong](people/jared-wong.md) - jmw535 - [http://ec2-34-204-166-154.compute-1.amazonaws.com:8080](http://ec2-34-204-166-154.compute-1.amazonaws.com:8080) ![CircleCI](https://circleci.com/gh/techlover10/5356-api.svg?style=svg&circle-token=32d1b52e2d9babfead10e45184377e1fc8803234)
 * [Chengsi Wu](people/chengsi-wu.md) - cw832 - [http://ec2-13-58-101-138.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-101-138.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/Alanlovecoding/skeleton.svg?style=svg)](https://circleci.com/gh/Alanlovecoding/skeleton)
 * [Howard Xing](people/howard-xing.md) - hx226 - [https://cornelltech.hxing.me/cs5356/hw01/grading.html](https://cornelltech.hxing.me/cs5356/hw01/grading.html?-user=github_CT_CS5356_Fall2017)
+>>>>>>> CT-CS5356-Fall2017/master
 * [Yuan Xuan](people/yuan-xuan.md) - yx424 - [http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html](http://www.tonyxuan26.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html](http://daraxu.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html)
