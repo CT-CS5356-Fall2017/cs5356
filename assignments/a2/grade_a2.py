@@ -2,6 +2,7 @@ from __future__ import print_function
 import random
 import string
 import json, sys
+import re
 try:
     import requests
 except ImportError:
@@ -11,19 +12,12 @@ except ImportError:
           "And then rerun this file. $ python grade_a2.py <url>")
     exit(-1)
 
+URL = None
 
 def random_tag(n=4):
     return ''.join(random.choice(string.ascii_uppercase + string.digits) 
                    for _ in range(4))
 
-
-if len(sys.argv)<2 or not sys.argv[1].startswith('http'):
-    print("Expect a url as an argument. Please run as follows:\n"
-          "$ python {} <your-url>\n".format(sys.argv[0])
-          )
-    exit(-1)
-
-URL = sys.argv[1]
 
 def get_receipts():
     url = URL + '/receipts'
@@ -63,7 +57,7 @@ def get_receipts_by_tag(tag):
     return r.json()
 
 
-def test_netid():
+def test_netid(netid):
     url = URL + "/netid"
     print("-"*80)
     print(">>> Testing: 'GET /netid'")
@@ -76,7 +70,14 @@ def test_netid():
     if not r.ok:
         print("ERROR: Failed while GETting {}".format(url))
         return -1
-    print("NetId found: {}".format(r.text))
+    if not netid:
+        print("NetId found: {} (unverified)".format(r.text))
+    else:
+        if netid in r.text:
+            print("Netid ({}) matched from the url={}!".format(netid, url))
+        else:
+            print("Your supplied netid={!r} not found at url={}".format(netid, url))
+            return -1
     return 0
 
 
@@ -130,9 +131,69 @@ def test_get_receipts():
     json.dump(r, sys.stderr, indent=2, sort_keys=True)
 
 
+def extract_netid_and_url(line):
+    regex = r'\* \[.*\]\(.*\) - (?P<netid>\w+) \- \[.+\]\((?P<url>http.+)\)\s*\[\!\[CircleCI\]\((?P<circleurl>.*)\)\]\(.*\)\s*'
+    m = re.match(regex, line)
+    if not m:
+        print(line)
+        exit(-1)
+    return m.group('netid', 'url', 'circleurl')
+
+
+def test_circleCI(url):
+    r = requests.get(url)
+    assert r.ok
+    if 'PASSED' in r.text:
+        print("CircleCI passed!")
+        return 0
+    else:
+        print("CircleCI failed.")
+        return -1
+
+
+def get_github_student_url(netid):
+    """
+    Obtain the student list from the github page. 
+    """
+    url = 'https://raw.githubusercontent.com/CT-CS5356-Fall2017/cs5356/master/README.md'
+    r = requests.get(url)
+    assert r.ok
+    text = r.text
+    for l in text.split('\n'):
+        if netid in l:
+            return extract_netid_and_url(l)
+    return None, None, None
+
+
 if __name__ == "__main__":
-    r = test_netid()
+    USAGE = """
+    $ python {0} -github <netid>    # To test the final submission
+    or 
+    $ python {0} <url>   # For just testing the url you created is working or not.
+    """.format(sys.argv[0])
+    netid=None
+    r  = 0
+    if len(sys.argv)<2:
+        print(USAGE)
+        exit(-1)
+    if len(sys.argv)>2 and sys.argv[1] == '-github':
+        netid, URL, circleurl = get_github_student_url(sys.argv[2])
+        if not circleurl:
+            print("Could not find circleurl={!r}".format(circleurl))
+        else:
+            r += test_circleCI(circleurl)
+    else:
+        URL = sys.argv[1]
+    URL = URL.rstrip('/')
+    print("The url found: {}".format(URL))
+    if not URL.startswith('http'):
+        print("The url does not look like one (should start with http..).\n"
+              "May be you meant 'python {} -github {}".format(*sys.argv))
+        exit(-1)
+    r += test_netid(netid)
     if r==0:
         r = test_tag_association()
     if r==0:
         print("\nGreat everything worked!")
+    else:
+        print("Something is not right. See above")
