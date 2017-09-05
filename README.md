@@ -109,11 +109,7 @@ People
 * [Brett Leibowitz](people/brett-leibowitz.md) - bal246 - [http://ec2-54-191-182-237.us-west-2.compute.amazonaws.com](http://ec2-54-191-182-237.us-west-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/TonOfPrince/skeleton.svg?style=svg)](https://circleci.com/gh/TonOfPrince/skeleton)
 * [Daren Liu](people/daren-liu.md) - drl232 - [https://s3.us-east-2.amazonaws.com/drl232/grading.html](https://s3.us-east-2.amazonaws.com/drl232/grading.html)
 * [Xiaohang Lu](people/xiaohang-lu.md) - xl672 - [https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html](https://s3.us-east-2.amazonaws.com/morning-shawn.com/grading.html)[![CircleCI](https://circleci.com/gh/LuXiaohang/skeleton.svg?style=svg)](https://circleci.com/gh/LuXiaohang/skeleton)
-<<<<<<< HEAD
-* [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html)
-=======
 * [Yingxiang Lu](people/yingxiang-lu.md) - yl2749 - [http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html](http://aaronlyx.com.s3-website.us-east-2.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/yl4bg/skeleton.svg?style=svg)](https://circleci.com/gh/yl4bg/skeleton)
->>>>>>> 877dc273c63224dddc4d578944627590a5bc990a
 * [Lixuan Mao](people/lixuan-mao.md) - lm769 - [http://ec2-18-221-74-142.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-74-142.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/thumlx12/skeleton.svg?style=svg)](https://circleci.com/gh/thumlx12/skeleton)
 * [Yunie Mao](people/yunie-mao.md) - ym224 - [http://ec2-34-205-90-110.compute-1.amazonaws.com](http://ec2-34-205-90-110.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/ym224/CS5356_Assignment2.svg?style=svg)](https://circleci.com/gh/ym224/CS5356_Assignment2)
 * [Jake Magid](people/jake-magid.md) - jm2644 - [http://ec2-18-221-72-155.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-72-155.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/jmagid15/skeleton.svg?style=svg)](https://circleci.com/gh/jmagid15/skeleton)
@@ -121,11 +117,7 @@ People
 * [Thomas Matecki](people/thomas-matecki.md) - tpm93 - [https://s3.amazonaws.com/cs5356-tpm93/grading.html](https://s3.amazonaws.com/cs5356-tpm93/grading.html)
 * [Yuxue Mei](people/yuxue-mei.md) - ym434 - [http://ec2-13-59-14-93.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-14-93.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/Detective2016/skeleton.svg?style=svg)](https://circleci.com/gh/Detective2016/skeleton)
 * [Andi Mitre](people/andi-mitre.md) - am2886 - [http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html](http://startup-sys-andi.s3-website-us-east-1.amazonaws.com/grading.html)
-<<<<<<< HEAD
-* [Yian Mo](people/yian-mo.md) - ym443 - [http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html](http://yian.ml.s3-website.us-east-2.amazonaws.com/grading.html)[![CircleCI](https://circleci.com/gh/moyk/skeleton.svg?style=svg)](https://circleci.com/gh/moyk/skeleton)
-=======
 * [Yian Mo](people/yian-mo.md) - ym443 - [http://ec2-13-58-78-137.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-78-137.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/moyk/skeleton.svg?style=svg)](https://circleci.com/gh/moyk/skeleton)
->>>>>>> 877dc273c63224dddc4d578944627590a5bc990a
 * [Aleo Mok](people/aleo-mok.md) - anm232 - [http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-anm-7v1s6.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/aleotheoreo/skeleton.svg?style=svg)](https://circleci.com/gh/aleotheoreo/skeleton)
 * [Darya Moldavskaya](people/darya-moldavskaya.md) - dm458 - [http://ec2-54-166-199-118.compute-1.amazonaws.com:8080](http://ec2-54-166-199-118.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/dm458/skeleton.svg?style=svg)](https://circleci.com/gh/dm458/skeleton)
 * [Ephraim Montag](people/ephraim-montag.md) - em789 - [https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html](https://s3.us-east-2.amazonaws.com/emontag.xyz/grading.html)
