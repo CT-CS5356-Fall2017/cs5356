@@ -88,7 +88,7 @@ def test_tag_association():
     # Post three receipts
     rids = [int(post_receipts()) for i in range(3)]
     test_get_receipts()
-
+    
     # Randomly generate two tags
     tags = [random_tag() for i in range(2)]
 

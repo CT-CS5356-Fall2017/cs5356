@@ -172,7 +172,7 @@ People
 * [Tao Yuan](people/tao-yuan.md) - ty353 - [http://ec2-52-90-200-233.compute-1.amazonaws.com:8080](http://ec2-52-90-200-233.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/bayernstar/skeleton.svg?style=svg)](https://circleci.com/gh/bayernstar/skeleton)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [http://cs5356-a2.jzy.io](http://cs5356-a2.jzy.io)[![CircleCI](https://circleci.com/gh/zenyui/cs5356-a2/tree/master.svg?style=svg&circle-token=49df7ca1f811e8e6a4a917e3cc0937a7d25e3d28)](https://circleci.com/gh/zenyui/cs5356-a2/tree/master)
 * [Renee Zacharowicz](people/renee-zacharowicz.md) - rz336 - [https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html](https://s3.us-east-2.amazonaws.com/estherai.xyz/grading.html)
-* [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html](https://s3.us-east-2.amazonaws.com/ppppppppppppg.com/grading.html) [![CircleCI](https://circleci.com/gh/PGhzhang/skeleton.svg?style=svg)](https://circleci.com/gh/PGhzhang/skeleton)
+* [Hanyu Zhang](people/hanyu-zhang.md) - hz464 - [http://ec2-52-14-85-143.us-east-2.compute.amazonaws.com:8080](http://ec2-52-14-85-143.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/PGhzhang/skeleton.svg?style=svg)](https://circleci.com/gh/PGhzhang/skeleton)
 * [Weisi Zhang](people/weisi-zhang.md) - wz337 - [http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html](http://weisizhang-ej31m.com.s3-website-us-east-1.amazonaws.com/grading.html)
 * [Rongxin Zhang](people/rongxin-zhang.md) - rz345 - [http://ec2-18-220-239-208.us-east-2.compute.amazonaws.com:8080](http://ec2-18-220-239-208.us-east-2.compute.amazonaws.com:8080)(https://circleci.com/gh/RongxinZhang/skeleton.svg?style=svg)](https://circleci.com/gh/RongxinZhang/skeleton)
 * [Zhan Zhang](people/zhan-zhang.md) - zz524 - [https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html](https://s3.us-east-2.amazonaws.com/zhanzhang/grading.html)
@@ -194,4 +194,3 @@ All source code is licensed under the [MIT License](MIT-LICENSE.txt).
 
 All content is licensed under the [Creative Commons Attribution 4.0 International License](CC-BY-4.0-LICENSE.txt).
 
-<a href='https://creativecommons.org/licenses/by/4.0'>![](https://i.creativecommons.org/l/by/4.0/88x31.png)</a>
