@@ -151,7 +151,7 @@ People
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html](https://s3.amazonaws.com/aws-website-chenkaiwangcsassignment-soqe8/grading.html)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-kellywang-666.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
-* [Vinson Wang](people/vinson-wang.md) - xw466 - [ec2-54-86-146-210.compute-1.amazonaws.com:8080](ec2-54-86-146-210.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/vinsonwxy/skeleton.svg?style=svg)](https://circleci.com/gh/vinsonwxy/skeleton)
+* [Vinson Wang](people/vinson-wang.md) - xw466 - [http://ec2-54-86-146-210.compute-1.amazonaws.com:8080](http://ec2-54-86-146-210.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/vinsonwxy/skeleton.svg?style=svg)](https://circleci.com/gh/vinsonwxy/skeleton)
 * [Xu Wang](people/xu-wang.md) - xw477 - [http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html](http://xuwang.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Chang Wei](people/chang-wei.md) - cw829 - [http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html](http://andywei.com.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Linglong Wei](people/linglong-wei.md) - lw567 - [https://s3.us-east-2.amazonaws.com/laurawei001.com/grading.html](https://s3.us-east-2.amazonaws.com/laurawei001.com/grading.html)
