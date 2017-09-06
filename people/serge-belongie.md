@@ -1,3 +1,0 @@
-Serge Belongie
---------------
-
