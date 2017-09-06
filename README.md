@@ -32,8 +32,20 @@ We will be building an app that scans receipts, uses OCR to extract cost info, a
 
 Assignments
 ----------
-1. [Assignment 1](assignments/a1/a1.md) (10 Points)
-2. [Assignment 2](assignments/a2/a2.md) (40 Points)
+Normal deadlines are 11:59 pm of the day of deadline.
+For all assignments we will allow late submission upto the end of the week (**Friday 6 pm**) for 25% of penalty. 
+That means Assignment 2 can be submitted till Friday EOD (**6pm**) but you will start from -10. 
+No submission will be accepted after Friday 6pm.
+(Future dates are tentative.)
+
+
+|Assignments | Points | Deadline | Late Deadline |
+|------------|--------|----------|---------|
+|[Assignment 1](assignments/a1/a1.md) | 10 | Aug 29 | Sep 1 |
+|[Assignment 2](assignments/a2/a2.md) | 40 | Sep 5  | Sep 8 |
+| Assignment 3 | TBD | Sep 12 | Sep 15 |
+| Assignment 4 | TBD | Sep 26 | Sep 29 |
+
 
 People
 ------
