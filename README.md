@@ -124,19 +124,11 @@ People
 * [Kirollos Morkos](people/kirollos-morkos.md) - krm257 - [http://kirollosmorkos.com/grading.html](http://kirollosmorkos.com/grading.html)
 * [Derek Netto](people/derek-netto.md) - dfn22 - [https://s3.amazonaws.com/dfn22.com/grading.html](https://s3.amazonaws.com/dfn22.com/grading.html)
 * [Eric Nguyen](people/Eric-Nguyen.md) - en274 - [https://dlv8dwufxo01j.cloudfront.net/grading.html](https://dlv8dwufxo01j.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/exnx/skeleton.svg?style=svg)](https://circleci.com/gh/exnx/skeleton)
-<<<<<<< HEAD
-* [Zihan Ni](people/zihan-ni.md) - zn43 - [http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html](http://zn43cornell.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/zn8ae/skeleton.svg?style=svg&circle-token=8ec8ca5548679380e84a17b564544ba059220b5b)](https://circleci.com/gh/zn8ae/skeleton)
-* [Han Nie](people/han-nie.md) - hn329 - [https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html](https://s3.us-east-2.amazonaws.com/flyingcow323.com/grading.html)
-* [Advika Nigam](people/advika-nigam.md) - an556 - [http://an556.s3-website-us-east-1.amazonaws.com/grading.html](http://an556.s3-website-us-east-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/advikanigam/skeleton.svg?style=svg)](https://circleci.com/gh/advikanigam/skeleton)
-* [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [https://s3.amazonaws.com/nan42/grading.html](https://s3.amazonaws.com/nan42/grading.html)
-* [Neel Parekh](people/neel-parekh.md) - np423 - [http://np423.s3-website.us-east-2.amazonaws.com/grading.html](http://np423.s3-website.us-east-2.amazonaws.com/grading.html)s
-=======
 * [Zihan Ni](people/zihan-ni.md) - zn43 - [http://ec2-34-204-180-236.compute-1.amazonaws.com:8080](http://ec2-34-204-180-236.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/zn8ae/skeleton.svg?style=svg&circle-token=8ec8ca5548679380e84a17b564544ba059220b5b)](https://circleci.com/gh/zn8ae/skeleton)
 * [Han Nie](people/han-nie.md) - hn329 - [ec2-52-14-214-184.us-east-2.compute.amazonaws.com](ec2-52-14-214-184.us-east-2.compute.amazonaws.com)[![CircleCI](https://circleci.com/gh/flyingcow1/skeleton.svg?style=svg)](https://circleci.com/gh/flyingcow1/skeleton)
 * [Advika Nigam](people/advika-nigam.md) - an556 - [http://ec2-52-214-104-147.eu-west-1.compute.amazonaws.com:8080](http://ec2-52-214-104-147.eu-west-1.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/advikanigam/assignment-2.svg?style=svg)](https://circleci.com/gh/advikanigam/assignment-2)
 * [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [ec2-34-204-175-71.compute-1.amazonaws.com](ec2-34-204-175-71.compute-1.amazonaws.com)[![CircleCI](https://circleci.com/gh/nnisa/skeleton.svg?style=svg)](https://circleci.com/gh/nnisa/skeleton)
 * [Neel Parekh](people/neel-parekh.md) - np423 - [http://np423.s3-website.us-east-2.amazonaws.com/grading.html](http://np423.s3-website.us-east-2.amazonaws.com/grading.html)
->>>>>>> upstream/master
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://18.221.55.69:8080](http://18.221.55.69:8080)[![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
 * [Vijay Pillai](people/vijay-pillai.md) - vp296 - [https://s3.amazonaws.com/bss-vp296/grading.html](https://s3.amazonaws.com/bss-vp296/grading.html)
 * [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [http://ec2-54-163-121-191.compute-1.amazonaws.com:8080](http://ec2-54-163-121-191.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/rramphal100/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/rramphal100/skeleton/tree/master)
