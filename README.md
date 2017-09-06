@@ -39,7 +39,7 @@ People
 * [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
-[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
+[Luna Yang](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
 
 Copyright & License
 -------------------
