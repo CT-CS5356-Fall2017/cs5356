@@ -130,7 +130,8 @@ People
 * [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [ec2-34-204-175-71.compute-1.amazonaws.com](ec2-34-204-175-71.compute-1.amazonaws.com)[![CircleCI](https://circleci.com/gh/nnisa/skeleton.svg?style=svg)](https://circleci.com/gh/nnisa/skeleton)
 * [Neel Parekh](people/neel-parekh.md) - np423 - [http://np423.s3-website.us-east-2.amazonaws.com/grading.html](http://np423.s3-website.us-east-2.amazonaws.com/grading.html)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://18.221.55.69:8080](http://18.221.55.69:8080)[![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
-* [Vijay Pillai](people/vijay-pillai.md) - vp296 - [https://s3.amazonaws.com/bss-vp296/grading.html](https://s3.amazonaws.com/bss-vp296/grading.html)
+* [Vijay Pillai](people/vijay-pillai.md) - vp296 - [http://ec2-54-89-97-105.compute-1.amazonaws.com:8080](http://ec2-54-89-97-105.compute-1.amazonaws.com:8080)
+[![CircleCI](https://circleci.com/gh/Vijay-P/skeleton.svg?style=svg)](https://circleci.com/gh/Vijay-P/skeleton)
 * [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [http://ec2-54-163-121-191.compute-1.amazonaws.com:8080](http://ec2-54-163-121-191.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/rramphal100/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/rramphal100/skeleton/tree/master)
 * [Hathaitorn Rojnirun](people/hathaitorn-rojnirun.md) - hr346 - [http://ec2-34-200-214-97.compute-1.amazonaws.com](http://ec2-34-200-214-97.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/hathaitornr/skeleton.svg?style=svg)](https://circleci.com/gh/hathaitornr/skeleton)
 * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md) - vr328 - [http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com](http://ec2-18-221-15-138.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/vrotmanh/skeleton.svg?style=svg)](https://circleci.com/gh/vrotmanh/skeleton)
@@ -182,7 +183,6 @@ People
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [http://ec2-54-236-42-100.compute-1.amazonaws.com:8080/](http://ec2-54-236-42-100.compute-1.amazonaws.com:8080/)[![CircleCI](https://circleci.com/gh/fredzhou93/skeleton.svg?style=svg)](https://circleci.com/gh/fredzhou93/skeleton)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [http://ec2-13-59-181-128.us-east-2.compute.amazonaws.com:8080/](http://ec2-13-59-181-128.us-east-2.compute.amazonaws.com:8080/)[![CircleCI](https://circleci.com/gh/rzhu9/skeleton.svg?style=svg)](https://circleci.com/gh/rzhu9/skeleton)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [http://ec2-34-206-3-145.compute-1.amazonaws.com:8080](http://ec2-34-206-3-145.compute-1.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/jimzhu1993/skeleton.svg?style=svg)](https://circleci.com/gh/jimzhu1993/skeleton)
-
 
 
 
