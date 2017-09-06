@@ -16,7 +16,7 @@ Lectures
 
 1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
 2.  30-Sep: [Backend Services, CI, Docker, Launch](lectures/lecture-02.md)
-3.  06-Sep: Frontend
+3.  06-Sep: [Frontend](lectures/lecture-03.md)
 4.  13-Sep: *No Class*
 5.  20-Sep: Block Storage, Lambda, API's
 6.  27-Sep: TBD
