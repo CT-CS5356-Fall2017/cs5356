@@ -39,7 +39,7 @@ People
 * [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
-* [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)(https://circleci.com/gh/yl89757jj/skeleton)]
+* [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
 
 Copyright & License
 -------------------
