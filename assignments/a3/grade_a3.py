@@ -65,8 +65,10 @@ def add_tag(e, driver):
     """ Adds a random tag to te element e """
     tag = random_tag(8)
     e.find_elements_by_class_name('add-tag').click()
-    driver.find_element_by_class('tag-input').send_keys(tag)
-    driver.find_elements_by_class_name('save-tag').click()
+    driver.find_element_by_class('tag-input')\
+          .send_keys(tag)\
+          .send_keys(Keys.ENTER)
+    # driver.find_elements_by_class_name('save-tag').click()
     return tag
 
 def set_up(url):
