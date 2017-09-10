@@ -38,8 +38,8 @@ def get_all_receipts(driver):
     """
     for rs in driver.find_element_by_id('receiptList')\
                     .find_elements_by_class_name('receipt'):
-        m = rs.find_element_by_class('merchant').text
-        a = rs.find_element_by_class('amount').text
+        m = rs.find_element_by_class_name('merchant').text
+        a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
         created = rs.find(class_='created').text
         yield {
@@ -65,7 +65,7 @@ def add_tag(e, driver):
     """ Adds a random tag to te element e """
     tag = random_tag(8)
     e.find_elements_by_class_name('add-tag').click()
-    driver.find_element_by_class('tag-input')\
+    driver.find_element_by_class_name('tag-input')\
           .send_keys(tag)\
           .send_keys(Keys.ENTER)
     # driver.find_elements_by_class_name('save-tag').click()
