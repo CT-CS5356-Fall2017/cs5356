@@ -1,9 +1,9 @@
-import unittest
 import sys
 import requests
 import random
 import string
 import re
+import time
 
 try:
     from selenium import webdriver
@@ -24,10 +24,10 @@ def random_tag(n=4):
                    for _ in range(n))
 
 
-def get_tags(e):
+def get_tags(receipt_e):
     return [
         t.text
-        for t in e.find_elements_by_class_name('tagValue')
+        for t in receipt_e.find_elements_by_class_name('tagValue')
     ]
 
 
@@ -41,12 +41,12 @@ def get_all_receipts(driver):
         m = rs.find_element_by_class_name('merchant').text
         a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
-        created = rs.find(class_='created').text
+        # created = rs.find_element_by_class_name('created').text
         yield {
             'merchant': m,
             'amount': a,
             'tags': tags,
-            'created': created
+            # 'created': created
         }
     
 
@@ -54,9 +54,9 @@ def add_receipts(driver):
     e = driver.find_element_by_id('add-receipt')
     e.click()
     m = 'M__' + random_tag(3)
-    a = random.random() * 100
-    driver.find_element_by_id('merchant').send_keys(m)
-    driver.find_element_by_id('amount').send_keys(a)
+    a = int(random.random() * 10000)/100
+    driver.find_element_by_id('merchant').send_keys(str(m))
+    driver.find_element_by_id('amount').send_keys(str(a))
     driver.find_element_by_id('save-receipt').click()
     return m, a
 
@@ -64,17 +64,19 @@ def add_receipts(driver):
 def add_tag(e, driver):
     """ Adds a random tag to te element e """
     tag = random_tag(8)
-    e.find_elements_by_class_name('add-tag').click()
-    driver.find_element_by_class_name('tag-input')\
-          .send_keys(tag)\
+    e.find_element_by_class_name('add-tag').click()
+    
+    driver.find_element_by_class_name('tag_input')\
+          .send_keys(tag)
+    driver.find_element_by_class_name('tag_input')\
           .send_keys(Keys.ENTER)
     # driver.find_elements_by_class_name('save-tag').click()
     return tag
 
 def set_up(url):
     driver = webdriver.Firefox()
+    driver.implicitly_wait(1)
     driver.get(url)
-    driver.implicitly_wait(5)
     return driver
 
 def test_add_receipts(driver):
@@ -89,18 +91,26 @@ def test_add_receipts(driver):
     driver = driver
     receipts = list(get_all_receipts(driver))
     m, a = add_receipts(driver)
+    driver.refresh()
+
     new_receipts = list(get_all_receipts(driver))
     assert len(receipts) + 1 == len(new_receipts)
     found = False
     for rs in new_receipts:
-        if rs['merchant'] == m and rs['amount'] == a:
+        if str(rs['merchant']) == str(m) and str(rs['amount']) == str(a):
             found = True
             break
+        else:
+            print("Found (but not testing):", rs)
     if not found:
         raise AssertionError(
             "I don't see the receipt I just inserted with \n"
-            "merchant={} and amount={}".format(m, a)
+            "merchant={!r} and amount={!r}".format(m, a)
         )
+    else:
+        print("Success!!!")
+        print('<>'*40 + '\n')
+
 
 def test_add_tag(driver):
     """
@@ -112,14 +122,20 @@ def test_add_tag(driver):
     print("-"*80)
 
     receipts = driver.find_elements_by_class_name('receipt')
-    e = random.choice(receipts)
+    i = random.choice(range(len(receipts)))
+    e = receipts[i]
     # Click on the add-tag element
     tags = get_tags(e)
     tag = add_tag(e, driver)
-    new_tags = (e)
+    driver.refresh()
+    receipts = driver.find_elements_by_class_name('receipt')
+    e = receipts[i]
+    new_tags = get_tags(e)
     added_tags_ = list(set(new_tags) - set(tags))
     assert len(added_tags_) == 1
     assert added_tags_[0] == tag
+    print("Success!!!")
+    print('<>'*40 + '\n')
 
 
 def test_del_tag(driver):
@@ -131,16 +147,25 @@ def test_del_tag(driver):
     print("-"*80)
 
     receipts = driver.find_elements_by_class_name('receipt')
-    e = random.choice(receipts)
+    e = random.choice(receipts)   # A random receipt is selected
     # Click on the add-tag element
     tags = get_tags(e)
-    e_tags = random.choice(e.find_elements_by_class_name('tagPill'))
-    tag = e_tags.find_elements_by_class_name('tagValue').text
-    e_tags.find_elements_by_class_name('del-tag').click()
+    if not tags:
+        add_tag(e, driver)
+        tags = get_tags(e)
+    e_tag = random.choice(e.find_elements_by_class_name('tagValue'))
+    tag = e_tag.text
+    e_tag.click(); time.sleep(1)
+
     new_tags = get_tags(e)
     removed_tag_ = list(set(tags) - set(new_tags))
-    assert len(removed_tag_) == 1
-    assert removed_tag_[0] == tag
+    if len(removed_tag_) != 1 or removed_tag_[0] != tag:
+        print(""" Removed tags: {} (Should be only [{}])".format(removed_tag_, tag) 
+This error might not be your fault. Either my code, or the Selenium driver is buggy.
+We will fix it, but in the mean time make sure the deletion works on UI. """)
+    else:
+        print("Success!!!")
+        print('<>'*40 + '\n')
 
 
 def test_no_duplicate_tag(driver):
@@ -200,7 +225,7 @@ if __name__ == "__main__":
         test_add_tag(driver)
         test_del_tag(driver)
         test_no_duplicate_tag(driver)
-    except Exception as e:
+    except ImportError as e:
         print("=======")
         print("Error:", e)
         print("=======\n")
@@ -208,7 +233,7 @@ if __name__ == "__main__":
               "is working. If yes, and check the IDs and class names in your html\n"
               "file matches what is dictated in teh README file. I will add the\n"
               "meaning of the error. \n")
-        print("Element not visible. Your server might be too slow. Find the line\n"
+        print("\"Element not visible\": Your server might be too slow. Find the line\n"
               "'implicitly_wait' in the auto-grader and change the wait time from\n"
               " 5 sec to something more like 15 or 20.")
 
