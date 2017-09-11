@@ -61,8 +61,6 @@ People
 
 
 #### Students
-* [Luna Yang](people/luna-yang.md) - ly354 - [http://18.221.59.99:8080/](http://18.221.59.99:8080)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
-
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/joeabisleiman/skeleton.svg?style=svg)](https://circleci.com/gh/joeabisleiman/skeleton)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://ec2-54-209-250-89.compute-1.amazonaws.com:8080](http://ec2-54-209-250-89.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
