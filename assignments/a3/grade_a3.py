@@ -17,7 +17,7 @@ How to install this driver can be found https://selenium-python.readthedocs.io/i
 For Linux and Mac, you can just unzip and copy the driver into /usr/local/bin/. 
 For Windows, you can follow the instructions in the page.
 """)
-
+    exit(-1)
 
 def random_tag(n=4):
     return ''.join(random.choice(string.ascii_uppercase + string.digits) 
@@ -147,7 +147,8 @@ def test_del_tag(driver):
     print("-"*80)
 
     receipts = driver.find_elements_by_class_name('receipt')
-    e = random.choice(receipts)   # A random receipt is selected
+    i = random.randint(0, len(receipts)-1)
+    e = receipts[i]   # A random receipt is selected
     # Click on the add-tag element
     tags = get_tags(e)
     if not tags:
@@ -157,6 +158,8 @@ def test_del_tag(driver):
     tag = e_tag.text
     e_tag.click(); time.sleep(1)
 
+    receipts = driver.find_elements_by_class_name('receipt')
+    e = receipts[i]
     new_tags = get_tags(e)
     removed_tag_ = list(set(tags) - set(new_tags))
     if len(removed_tag_) != 1 or removed_tag_[0] != tag:
