@@ -19,6 +19,7 @@ For Windows, you can follow the instructions in the page.
 """)
     exit(-1)
 
+DEBUG = 0
 def random_tag(n=4):
     return ''.join(random.choice(string.ascii_uppercase + string.digits) 
                    for _ in range(n))
@@ -36,8 +37,7 @@ def get_all_receipts(driver):
     Parse all the receipts in a page
     $($('#receiptList')[0], '.receipt')
     """
-    for rs in driver.find_element_by_id('receiptList')\
-                    .find_elements_by_class_name('receipt'):
+    for rs in driver.find_elements_by_css_selector('#receiptList > .receipt'):
         m = rs.find_element_by_class_name('merchant').text
         a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
@@ -89,28 +89,35 @@ def test_add_receipts(driver):
     print("-"*80)
 
     driver = driver
-    receipts = list(get_all_receipts(driver))
+    time.sleep(1)
+    old_receipts = list(get_all_receipts(driver))
     m, a = add_receipts(driver)
-    driver.refresh()
 
+    if DEBUG>=2:
+        driver.refresh()
+    time.sleep(1)
     new_receipts = list(get_all_receipts(driver))
-    assert len(receipts) + 1 == len(new_receipts)
+    if len(old_receipts) + 1 != len(new_receipts):
+        print("old_receipts={}\n>> new_receipts={}"
+              .format(old_receipts, new_receipts))
+        return -1
     found = False
     for rs in new_receipts:
         if str(rs['merchant']) == str(m) and str(rs['amount']) == str(a):
             found = True
             break
-        else:
+        elif DEBUG:
             print("Found (but not testing):", rs)
+
     if not found:
-        raise AssertionError(
-            "I don't see the receipt I just inserted with \n"
+        print(
+            "ERROR: I don't see the receipt I just inserted with \n"
             "merchant={!r} and amount={!r}".format(m, a)
         )
-    else:
-        print("Success!!!")
-        print('<>'*40 + '\n')
-
+        return -1
+    print("Success!!!")
+    print('<>'*40 + '\n')
+    return 0
 
 def test_add_tag(driver):
     """
@@ -121,21 +128,35 @@ def test_add_tag(driver):
     print("Test: Adding a tag")
     print("-"*80)
 
+    time.sleep(1)
+    # Get all receipts
     receipts = driver.find_elements_by_class_name('receipt')
-    i = random.choice(range(len(receipts)))
+
+    # Choose a receipt randomly to add tag 
+    i = random.randint(0, len(receipts)-1)
     e = receipts[i]
+
     # Click on the add-tag element
-    tags = get_tags(e)
+    old_tags = get_tags(e)
     tag = add_tag(e, driver)
-    driver.refresh()
+    if DEBUG>=2:
+        driver.refresh()   # Probably don't require
+
+    time.sleep(1)
+    # Fetch the new receipts again
     receipts = driver.find_elements_by_class_name('receipt')
     e = receipts[i]
+
     new_tags = get_tags(e)
-    added_tags_ = list(set(new_tags) - set(tags))
-    assert len(added_tags_) == 1
-    assert added_tags_[0] == tag
+    added_tags_ = list(set(new_tags) - set(old_tags))
+    if len(added_tags_) != 1 or tag not in added_tags_[0]:
+        print("""
+ERROR: The number of newly added tags did not match.
+Expected: {!r},           Found: {!r}""".format([tag], added_tags_))
+        return -1
     print("Success!!!")
     print('<>'*40 + '\n')
+    return 0
 
 
 def test_del_tag(driver):
@@ -145,40 +166,50 @@ def test_del_tag(driver):
     print("-"*80)
     print("Test: Deleting a tag")
     print("-"*80)
-
+    # Select a random receipt
     receipts = driver.find_elements_by_class_name('receipt')
-    i = random.randint(0, len(receipts)-1)
-    e = receipts[i]   # A random receipt is selected
+    index_of_random_receipt = random.randint(0, len(receipts)-1)
+    e = receipts[index_of_random_receipt]
+
     # Click on the add-tag element
     tags = get_tags(e)
     if not tags:
         add_tag(e, driver)
         tags = get_tags(e)
+
     e_tag = random.choice(e.find_elements_by_class_name('tagValue'))
     tag = e_tag.text
     e_tag.click(); time.sleep(1)
 
+    # Receipts DOM might have been deleted or re-drawn, pull it again
     receipts = driver.find_elements_by_class_name('receipt')
-    e = receipts[i]
+    e = receipts[index_of_random_receipt]
     new_tags = get_tags(e)
     removed_tag_ = list(set(tags) - set(new_tags))
     if len(removed_tag_) != 1 or removed_tag_[0] != tag:
-        print(""" Removed tags: {} (Should be only [{}])".format(removed_tag_, tag) 
-This error might not be your fault. Either my code, or the Selenium driver is buggy.
-We will fix it, but in the mean time make sure the deletion works on UI. """)
+        print(""" Removed tags: {} (Should be only [{}])"
+        """.format(removed_tag_, tag))
+        print("""This error might not be your fault. Either my code, or 
+        the Selenium driver is buggy.  Report this problem to us. We will 
+        fix it, but in the mean time make sure the deletion works on UI.""")
+        return -1
     else:
         print("Success!!!")
         print('<>'*40 + '\n')
-
+        return 0
 
 def test_no_duplicate_tag(driver):
     """
     Tests that no duplicate tags are present in any of the receipt rows.
     """
-    for rs in driver.find_elements_by_class_name('receipt'):
+    for i,rs in enumerate(driver.find_elements_by_class_name('receipt')):
         l = list(get_tags(rs))
-        assert len(l) == len(set(l))
-
+        if len(l) != len(set(l)):
+            print("There are duplicate tags in the {}-th receipt line"\
+                  .format(i))
+            print("Found tag: {!r}".format(l))
+            return -1
+    return 0
 
 def tearDown(driver):
     driver.quit()
@@ -223,12 +254,16 @@ if __name__ == "__main__":
     else:
         url = sys.argv[1]
     driver = set_up(url)
+    r = 0
     try:
-        test_add_receipts(driver)
-        test_add_tag(driver)
-        test_del_tag(driver)
-        test_no_duplicate_tag(driver)
-    except ImportError as e:
+        # r += 1 + test_add_receipts(driver)
+        if (r>=0):
+            r += 1 + test_add_tag(driver)
+        if (r>0):
+            r += 1 + test_del_tag(driver)
+        if (r>0):
+            r += 1 + test_no_duplicate_tag(driver)
+    except (AssertionError, ImportError) as e:
         print("=======")
         print("Error:", e)
         print("=======\n")
