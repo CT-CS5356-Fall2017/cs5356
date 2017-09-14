@@ -256,7 +256,7 @@ if __name__ == "__main__":
     driver = set_up(url)
     r = 0
     try:
-        # r += 1 + test_add_receipts(driver)
+        r += 1 + test_add_receipts(driver)
         if (r>=0):
             r += 1 + test_add_tag(driver)
         if (r>0):
