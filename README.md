@@ -32,8 +32,20 @@ We will be building an app that scans receipts, uses OCR to extract cost info, a
 
 Assignments
 ----------
-1. [Assignment 1](assignments/a1/a1.md) (10 Points)
-2. [Assignment 2](assignments/a2/a2.md) (40 Points)
+Normal deadlines are 11:59 pm of the day of deadline.
+For all assignments we will allow late submission upto the end of the week (**Friday 6 pm**) for 25% of penalty. 
+That means Assignment 2 can be submitted till Friday EOD (**6pm**) but you will start from -10. 
+No submission will be accepted after Friday 6pm.
+(Future dates are tentative.)
+
+
+|Assignments | Points | Deadline | Late Deadline |
+|------------|--------|----------|---------|
+|[Assignment 1](assignments/a1/a1.md) | 10 | Aug 29 | Sep 1 |
+|[Assignment 2](assignments/a2/a2.md) | 40 | Sep 5  | Sep 8 |
+|[Assignment 3](assignments/a3/a3.md) | 20 | Sep 19 | Sep 22 |
+| Assignment 4 | TBD | Sep 26 | Sep 29 |
+
 
 People
 ------
@@ -49,8 +61,6 @@ People
 
 
 #### Students
-<!-- Please keep in Alpha order -->
-
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/joeabisleiman/skeleton.svg?style=svg)](https://circleci.com/gh/joeabisleiman/skeleton)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://ec2-54-209-250-89.compute-1.amazonaws.com:8080](http://ec2-54-209-250-89.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
@@ -75,12 +85,12 @@ People
 * [Christy Cui](people/christy-cui.md) - hc935 - [http://ec2-34-231-243-40.compute-1.amazonaws.com:8080](http://ec2-34-231-243-40.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/christycui/skeleton.svg?style=svg)](https://circleci.com/gh/christycui/skeleton)
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [http://ec2-13-59-58-183.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-58-183.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/marikacusick/skeleton.svg?style=svg)](https://circleci.com/gh/marikacusick/skeleton)
 * [Jonathan Cutler](people/jonathan-cutler.md) - jlc553 - [http://ec2-52-14-73-100.us-east-2.compute.amazonaws.com](http://ec2-52-14-73-100.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/jonleecutler/skeleton.svg?style=svg)](https://circleci.com/gh/jonleecutler/skeleton)
-* [Junhsiang Liao](people/junhsiang-liao.md) - jl3744 - [http://ec2-18-220-242-51.us-east-2.compute.amazonaws.com](http://ec2-18-220-242-51.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/joe83830/skeleton.svg?style=svg)](https://circleci.com/gh/joe83830/skeleton)
-* [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://ec2-13-58-164-217.us-east-2.compute.amazonaws.com](http://ec2-13-58-164-217.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/dqlsll123/skeleton.svg?style=svg)](https://circleci.com/gh/dqlsll123/skeleton)
+* [Junhsiang Liao](people/junhsiang-liao.md) - jl3744 - [http://ec2-18-220-45-252.us-east-2.compute.amazonaws.com/](http://ec2-18-220-45-252.us-east-2.compute.amazonaws.com/) [![CircleCI](https://circleci.com/gh/joe83830/skeleton.svg?style=svg)](https://circleci.com/gh/joe83830/skeleton)
+* [Huafeng Dai](people/huafeng-dai.md) - hd338 - [http://ec2-13-59-113-23.us-east-2.compute.amazonaws.com](http://ec2-13-59-113-23.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/dqlsll123/skeleton.svg?style=svg)](https://circleci.com/gh/dqlsll123/skeleton)
 * [Yuhui Dai](people/yuhui-dai.md) - yd229 - [http://18.221.58.242:8080](http://18.221.58.242:8080) [![CircleCI](https://circleci.com/gh/YuhuiDai/skeleton.svg?style=svg)](https://circleci.com/gh/YuhuiDai/skeleton)
 * [Will Davis](people/will-davis.md) - twd38 - [http://ec2-18-221-30-4.us-east-2.compute.amazonaws.com/](http://ec2-18-221-30-4.us-east-2.compute.amazonaws.com/) [![CircleCI](https://circleci.com/gh/twd38/skeleton.svg?style=svg)](https://circleci.com/gh/twd38/skeleton)
 * [Debarun Dhar](people/debarun-dhar.md) - dd599 - [http://ec2-54-219-137-23.us-west-1.compute.amazonaws.com:8080](http://ec2-54-219-137-23.us-west-1.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/debarundhar/skeleton.svg?style=svg)](https://circleci.com/gh/debarundhar/skeleton)
-* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://ec2-54-152-190-159.compute-1.amazonaws.com](http://ec2-54-152-190-159.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/sddioulde/skeleton.svg?style=svg)](https://circleci.com/gh/sddioulde/skeleton)
+* [Saliou Diallo](people/saliou-diallo.md) - sdd65 - [http://ec2-52-3-227-123.compute-1.amazonaws.com](http://ec2-52-3-227-123.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/sddioulde/skeleton.svg?style=svg)](https://circleci.com/gh/sddioulde/skeleton)
 * [Jessie Gao](people/jessie-gao.md) - jg2238 - [https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html](https://s3-us-west-2.amazonaws.com/jessiegao-cs5356.com/grading.html) [![CircleCI](https://circleci.com/gh/JessieJingxuGao/skeleton.svg?style=svg)](https://circleci.com/gh/JessieJingxuGao/skeleton)
 * [Ethan Green](people/ethan-green.md) - erg53 - [http://ec2-54-165-103-98.compute-1.amazonaws.com](http://ec2-54-165-103-98.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/ergreen/skeleton.svg?style=svg)](https://circleci.com/gh/ergreen/skeleton)
 * [Zheyuan Gu](people/zheyuan-gu.md) - zg245 - [http://ec2-13-59-141-58.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-141-58.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/GoodGucciGu/skeleton.svg?style=svg)](https://circleci.com/gh/GoodGucciGu/skeleton)
@@ -91,12 +101,12 @@ People
 * [I Huang](people/i-huang.md) - ih265 - [http://18.221.26.91:8080](http://18.221.26.91:8080) [![CircleCI](https://circleci.com/gh/mikemike07/skeleton.svg?style=svg)](https://circleci.com/gh/mikemike07/skeleton)
 * [Matthew Hsu](people/matthew-hsu.md) - mdh267 - [http://ec2-34-207-97-214.compute-1.amazonaws.com:8080](http://ec2-34-207-97-214.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/mahsu/cs5356-a2.svg?style=svg)](https://circleci.com/gh/mahsu/cs5356-a2)
 * [Lingfeng Huang](people/lingfeng-huang.md) - lh635 - [http://ec2-18-220-219-147.us-east-2.compute.amazonaws.com:8080](http://ec2-18-220-219-147.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/lhuang58/skeleton.svg?style=svg)](https://circleci.com/gh/lhuang58/skeleton)
-* [Steven Jaroslawski](people/steven-jaroslawski.md) - sj393 - [http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html](http://stevenjaroslawski.com.s3-website.us-east-2.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/sjaroslawski/skeleton.svg?style=svg)](https://circleci.com/gh/sjaroslawski/skeleton)
+* [Steven Jaroslawski](people/steven-jaroslawski.md) - sj393 - [http://ec2-13-59-164-165.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-164-165.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/sjaroslawski/skeleton.svg?style=svg)](https://circleci.com/gh/sjaroslawski/skeleton)
 * [Akshay Jha](people/akshayj.md) - aj545 - [http://ec2-34-201-136-118.compute-1.amazonaws.com:8080](http://ec2-34-201-136-118.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/Akshay666/skeleton.svg?style=svg)](https://circleci.com/gh/Akshay666/skeleton)
 * [Zhiyuan Jia](people/zhiyuan-jia.md) - zj74 - [http://ec2-54-208-181-210.compute-1.amazonaws.com:8080](http://ec2-54-208-181-210.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/ZivJia/skeleton.svg?style=svg)](https://circleci.com/gh/ZivJia/skeleton)
 * [Han Jing](people/han-hjing.md) - hj378 - [http://ec2-18-221-21-194.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-21-194.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/hanjing5/skeleton.svg?style=svg)](https://circleci.com/gh/hanjing5/skeleton)
 * [Evan Kaplan](people/evan-kaplan.md) - emk269 - [http://ec2-13-59-101-142.us-east-2.compute.amazonaws.com](http://ec2-13-59-101-142.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/ekaplan6/skeleton.svg?style=svg)](https://circleci.com/gh/ekaplan6/skeleton)
-* [Feston Kastrati](people/feston-kastrati.md) - fk257 - [http://ec2-13-59-77-36.us-east-2.compute.amazonaws.com](http://ec2-13-59-77-36.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/fk257/skeleton.svg?style=svg)](https://circleci.com/gh/fk257/skeleton)
+* [Feston Kastrati](people/feston-kastrati.md) - fk257 - [http://ec2-18-220-217-211.us-east-2.compute.amazonaws.com](http://ec2-18-220-217-211.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/fk257/skeleton.svg?style=svg)](https://circleci.com/gh/fk257/skeleton)
 * [Daniel Kim](people/daniel-kim.md) - dk768 - [http://ec2-18-220-143-53.us-east-2.compute.amazonaws.com:8080/netid](http://ec2-18-220-143-53.us-east-2.compute.amazonaws.com:8080/netid) [![CircleCI](https://circleci.com/gh/dkijc/skeleton.svg?style=svg)](https://circleci.com/gh/dkijc/skeleton)
 * [SaranKumar Krishnasamy](people/saran-krish.md) - sk2998 - [http://ec2-18-221-35-176.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-35-176.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/sarankrish/skeleton.svg?style=svg)](https://circleci.com/gh/sarankrish/skeleton)
 * [Svava Kristinsdottir](people/svava-kristinsdottir.md) - gsk72 - [https://s3.us-east-2.amazonaws.com/gsk72/grading.html](https://s3.us-east-2.amazonaws.com/gsk72/grading.html)
@@ -129,7 +139,7 @@ People
 * [Advika Nigam](people/advika-nigam.md) - an556 - [http://ec2-52-214-104-147.eu-west-1.compute.amazonaws.com:8080](http://ec2-52-214-104-147.eu-west-1.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/advikanigam/assignment-2.svg?style=svg)](https://circleci.com/gh/advikanigam/assignment-2)
 * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7 - [http://34.204.204.144:8080/](http://34.204.204.144:8080/) [![CircleCI](https://circleci.com/gh/eyvindn/skeleton.svg?style=svg)](https://circleci.com/gh/eyvindn/skeleton)
 * [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [ec2-34-204-175-71.compute-1.amazonaws.com](ec2-34-204-175-71.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/nnisa/skeleton.svg?style=svg)](https://circleci.com/gh/nnisa/skeleton)
-* [Neel Parekh](people/neel-parekh.md) - np423 - [http://ec2-18-220-32-47.us-east-2.compute.amazonaws.com](http://ec2-18-220-32-47.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/neelparekh/skeleton.svg?style=svg)](https://circleci.com/gh/neelparekh/skeleton)
+* [Neel Parekh](people/neel-parekh.md) - np423 - [http://ec2-18-221-53-154.us-east-2.compute.amazonaws.com](http://ec2-18-221-53-154.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/neelparekh/skeleton.svg?style=svg)](https://circleci.com/gh/neelparekh/skeleton)
 * [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://18.221.55.69:8080](http://18.221.55.69:8080) [![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
 * [Vijay Pillai](people/vijay-pillai.md) - vp296 - [http://ec2-54-89-97-105.compute-1.amazonaws.com:8080](http://ec2-54-89-97-105.compute-1.amazonaws.com:8080)
 [![CircleCI](https://circleci.com/gh/Vijay-P/skeleton.svg?style=svg)](https://circleci.com/gh/Vijay-P/skeleton)
@@ -149,12 +159,12 @@ People
 * [Rohun Tripathi](people/rohun-tripathi.md) - rt443 - [http://ec2-52-14-39-42.us-east-2.compute.amazonaws.com:8080](http://ec2-52-14-39-42.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/rohun-tripathi/skeleton.svg?style=svg)](https://circleci.com/gh/rohun-tripathi/skeleton)
 * [Pei-Hsuan Tsai](people/peihsuan-tsai.md) - pt379 - [http://52.14.132.80:8080/](http://52.14.132.80:8080/) [![CircleCI](https://circleci.com/gh/ike35/skeleton.svg?style=svg)](https://circleci.com/gh/ike35/skeleton)
 * [Emily Tseng](people/emily-tseng.md) - et397 - [http://ec2-54-82-243-98.compute-1.amazonaws.com](http://ec2-54-82-243-98.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/emtseng/cs5356-f17.svg?style=svg)](https://circleci.com/gh/emtseng/cs5356-f17)
-* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [http://ec2-52-15-200-86.us-east-2.compute.amazonaws.com](http://ec2-52-15-200-86.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/pytseng/skeleton.svg?style=svg)](https://circleci.com/gh/pytseng/skeleton)
+* [Poyen Tseng](people/poyen-tseng.md) - pt382 - [http://ec2-52-15-200-86.us-east-2.compute.amazonaws.com:8080](http://ec2-52-15-200-86.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/pytseng/skeleton.svg?style=svg)](https://circleci.com/gh/pytseng/skeleton)
 * [Chenkai Wang](people/chenkai-wang.md) - cw824 - [http://34.205.172.66:8080/](http://34.205.172.66:8080/) [![CircleCI](https://circleci.com/gh/kaa1el/skeleton.svg?style=svg)](https://circleci.com/gh/kaa1el/skeleton)
 * [Chenyang Wang](people/chenyang-wang.md) - cw823 - [http://ec2-13-58-231-195.us-east-2.compute.amazonaws.com:8080](http://ec2-13-58-231-195.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/kellywang95/skeleton.svg?style=svg)](https://circleci.com/gh/kellywang95/skeleton)
-* [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html](https://s3.amazonaws.com/aws-website-cs-fall-xl4ky/grading.html)
-* [Vinson Wang](people/vinson-wang.md) - xw466 - [http://ec2-54-86-146-210.compute-1.amazonaws.com:8080](http://ec2-54-86-146-210.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/vinsonwxy/skeleton.svg?style=svg)](https://circleci.com/gh/vinsonwxy/skeleton)
-* [Xu Wang](people/xu-wang.md) - xw477 - [http://ec2-52-14-183-61.us-east-2.compute.amazonaws.com](http://ec2-52-14-183-61.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/xuwanggr/skeleton.svg?style=svg)](https://circleci.com/gh/xuwanggr/skeleton)
+* [Jialiang Wang](people/jialiang-wang.md) - jw2476 - [http://ec2-54-173-111-55.compute-1.amazonaws.com](http://ec2-54-173-111-55.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/wangvincentt/skeleton.svg?style=svg)](https://circleci.com/gh/wangvincentt/skeleton)
+* [Vinson Wang](people/vinson-wang.md) - xw466 - [http://ec2-54-196-195-89.compute-1.amazonaws.com](http://ec2-54-196-195-89.compute-1.amazonaws.com)[![CircleCI](https://circleci.com/gh/vinsonwxy/skeleton.svg?style=svg)](https://circleci.com/gh/vinsonwxy/skeleton)
+* [Xu Wang](people/xu-wang.md) - xw477 - [http://ec2-52-15-106-121.us-east-2.compute.amazonaws.com](http://ec2-52-15-106-121.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/xuwanggr/skeleton.svg?style=svg)](https://circleci.com/gh/xuwanggr/skeleton)
 * [Chang Wei](people/chang-wei.md) - cw829 - [http://ec2-54-174-33-38.compute-1.amazonaws.com](http://ec2-54-174-33-38.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/Pod5GS/skeleton.svg?style=svg)](https://circleci.com/gh/Pod5GS/skeleton)
 * [Linglong Wei](people/linglong-wei.md) - lw567 - [http://ec2-52-14-135-141.us-east-2.compute.amazonaws.com:8080](http://ec2-52-14-135-141.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/laurawei/skeleton.svg?style=svg)](https://circleci.com/gh/laurawei/skeleton)
 * [Cameron Westbury](people/cameron-westbury.md) - chw68 - [http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html](http://ec2-18-220-232-148.s3-website.us-east-2.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/cwestbury/skeleton.svg?style=svg)](https://circleci.com/gh/cwestbury/skeleton)
@@ -166,11 +176,11 @@ People
 * [Howard Xing](people/howard-xing.md) - hx226 - [http://cs5356.hxing.me:8080](http://cs5356.hxing.me:8080) [![CircleCI](https://circleci.com/gh/hxing9974/skeleton.svg?style=svg)](https://circleci.com/gh/hxing9974/skeleton)
 * [Yuan Xuan](people/yuan-xuan.md) - yx424 - [http://18.220.146.65:80](http://18.220.146.65:80) [![CircleCI](https://circleci.com/gh/Yuan-T-Xuan/skeleton.svg?style=svg)](https://circleci.com/gh/Yuan-T-Xuan/skeleton)
 * [Dexing Xu](people/daraxu.md) - dx49 - [http://ec2-52-201-252-47.compute-1.amazonaws.com:8080](http://ec2-52-201-252-47.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/Daraxuxuxu/skeleton.svg?style=svg&circle-token=09ec97a5089b95d6066ece339b1f2385c6e9aa0a)](https://circleci.com/gh/Daraxuxuxu/skeleton)
-* [Luna Yang](people/luna-yang.md) - ly354 - [https://dx8718kn683b6.cloudfront.net/grading.html](https://dx8718kn683b6.cloudfront.net/grading.html) [![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
+* [Luna Yang](people/luna-yang.md) - ly354 - [http://18.221.59.99:8080/](http://18.221.59.99:8080/)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
 * [Zongcheng Yang](people/zongcheng-yang.md) - zy338 - [http://52.14.125.122:8080/](http://52.14.125.122:8080/) [![CircleCI](https://circleci.com/gh/zongchengyang/skeleton.svg?style=svg)](https://circleci.com/gh/zongchengyang/skeleton)
 * [Yixin Ye](people/yixin-ye.md) - yy748 - [http://34.205.92.145:8080/](http://34.205.92.145:8080/) [![CircleCI](https://circleci.com/gh/yeyixin1993/skeleton.svg?style=svg&circle-token=b5ff5ad3ea31b30866e9f9cbdcfc0198c807f082)](https://circleci.com/gh/yeyixin1993/skeleton)
 * [Samantha Yip](people/samantha-yip.md) - sty5 - [http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html](http://aws-website-sty-mksjo.s3-website-us-east-1.amazonaws.com/grading.html) [![CircleCI](https://circleci.com/gh/Samanthayip/skeleton.svg?style=svg)](https://circleci.com/gh/Samanthayip/skeleton)
-* [Jamie Yu](people/jamie-yu.md) - jky32 - [https://http://18.221.12.241:8080](https://http://18.221.12.241:8080) [![CircleCI](https://circleci.com/gh/jamiekimyu/skeleton.svg?style=svg)](https://circleci.com/gh/jamiekimyu/skeleton)
+* [Jamie Yu](people/jamie-yu.md) - jky32 - [http://18.221.12.241:8080](http://18.221.12.241:8080) [![CircleCI](https://circleci.com/gh/jamiekimyu/skeleton.svg?style=svg)](https://circleci.com/gh/jamiekimyu/skeleton)
 * [Tao Yuan](people/tao-yuan.md) - ty353 - [http://ec2-52-90-200-233.compute-1.amazonaws.com:8080](http://ec2-52-90-200-233.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/bayernstar/skeleton.svg?style=svg)](https://circleci.com/gh/bayernstar/skeleton)
 * [Zen Yui](people/zen-yui.md) - jzy6 - [http://cs5356-a2.jzy.io](http://cs5356-a2.jzy.io) [![CircleCI](https://circleci.com/gh/zenyui/cs5356-a2/tree/master.svg?style=svg&circle-token=49df7ca1f811e8e6a4a917e3cc0937a7d25e3d28)](https://circleci.com/gh/zenyui/cs5356-a2/tree/master)
 * [Renee Zacharowicz](people/renee-zacharowicz.md) - rz336 - [http://ec2-13-59-84-149.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-84-149.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/Estheray/skeleton.svg?style=svg)](https://circleci.com/gh/Estheray/skeleton)
