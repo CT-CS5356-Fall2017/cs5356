@@ -66,9 +66,9 @@ def add_tag(e, driver):
     tag = random_tag(8)
     e.find_element_by_class_name('add-tag').click()
     
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(tag)
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(Keys.ENTER)
     # driver.find_elements_by_class_name('save-tag').click()
     return tag
