@@ -66,9 +66,9 @@ def add_tag(e, driver):
     tag = random_tag(8)
     e.find_element_by_class_name('add-tag').click()
     
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(tag)
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(Keys.ENTER)
     # driver.find_elements_by_class_name('save-tag').click()
     return tag
@@ -189,9 +189,10 @@ def test_del_tag(driver):
     if len(removed_tag_) != 1 or removed_tag_[0] != tag:
         print(""" Removed tags: {} (Should be only [{}])"
         """.format(removed_tag_, tag))
-        print("""This error might not be your fault. Either my code, or 
-        the Selenium driver is buggy.  Report this problem to us. We will 
-        fix it, but in the mean time make sure the deletion works on UI.""")
+        print("""This error might not be your fault. Either my code or the Selenium driver is
+buggy.  Report this problem to us. We will fix it, but in the mean time make
+sure the deletion works on UI, and no more errors are reported before this line.
+        """)
         return -1
     else:
         print("Success!!!")
@@ -267,10 +268,10 @@ if __name__ == "__main__":
         print("=======")
         print("Error:", e)
         print("=======\n")
-        print("Something went wrong. Test the test by manually and see if it\n"
-              "is working. If yes, and check the IDs and class names in your html\n"
-              "file matches what is dictated in teh README file. I will add the\n"
-              "meaning of the error. \n")
+        print("Something went wrong. Test the each of the tests manually and make sure it\n"
+              "is working. If yes, check the IDs and class names in your html\n"
+              "file matches what is dictated in the README file.\n\n"
+              "Meaning of some of the common errors. \n")
         print("\"Element not visible\": Your server might be too slow. Find the line\n"
               "'implicitly_wait' in the auto-grader and change the wait time from\n"
               " 5 sec to something more like 15 or 20.")
