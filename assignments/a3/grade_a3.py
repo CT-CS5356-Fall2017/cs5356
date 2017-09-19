@@ -19,7 +19,7 @@ For Windows, you can follow the instructions in the page.
 """)
     exit(-1)
 
-DEBUG = 0
+DEBUG = 1
 def random_tag(n=4):
     return ''.join(random.choice(string.ascii_uppercase + string.digits) 
                    for _ in range(n))
@@ -61,7 +61,7 @@ def add_receipts(driver):
     return m, a
 
 
-def add_tag(e, driver):
+def add_tag(e):
     """ Adds a random tag to te element e """
     tag = random_tag(8)
     e.find_element_by_class_name('add-tag').click()
@@ -102,12 +102,15 @@ def test_add_receipts(driver):
               .format(old_receipts, new_receipts))
         return -1
     found = False
-    for rs in new_receipts:
+    if DEBUG:
+        print("#receipts-old: {}, #receipts-new: {}"
+              .format(len(old_receipts), len(new_receipts)))
+    for i, rs in enumerate(new_receipts):
         if str(rs['merchant']) == str(m) and str(rs['amount']) == str(a):
             found = True
             break
         elif DEBUG:
-            print("Found (but not testing):", rs)
+            print("{}. Found (but not testing): {}".format(i, rs))
 
     if not found:
         print(
@@ -138,11 +141,11 @@ def test_add_tag(driver):
 
     # Click on the add-tag element
     old_tags = get_tags(e)
-    tag = add_tag(e, driver)
+    tag = add_tag(e)
     if DEBUG>=2:
         driver.refresh()   # Probably don't require
 
-    time.sleep(1)
+    time.sleep(4)
     # Fetch the new receipts again
     receipts = driver.find_elements_by_class_name('receipt')
     e = receipts[i]
@@ -174,7 +177,7 @@ def test_del_tag(driver):
     # Click on the add-tag element
     tags = get_tags(e)
     if not tags:
-        add_tag(e, driver)
+        add_tag(e)
         tags = get_tags(e)
 
     e_tag = random.choice(e.find_elements_by_class_name('tagValue'))
