@@ -178,8 +178,11 @@ def test_del_tag(driver):
     tags = get_tags(e)
     if not tags:
         add_tag(e)
+        receipts = driver.find_elements_by_class_name('receipt')
+        e = receipts[index_of_random_receipt]
         tags = get_tags(e)
 
+    time.sleep(1)
     e_tag = random.choice(e.find_elements_by_class_name('tagValue'))
     tag = e_tag.text
     e_tag.click(); time.sleep(1)
@@ -206,6 +209,10 @@ def test_no_duplicate_tag(driver):
     """
     Tests that no duplicate tags are present in any of the receipt rows.
     """
+    print("-"*80)
+    print("Test: Duplicate tag in any receipt")
+    print("-"*80)
+    
     for i,rs in enumerate(driver.find_elements_by_class_name('receipt')):
         l = list(get_tags(rs))
         if len(l) != len(set(l)):
@@ -213,6 +220,8 @@ def test_no_duplicate_tag(driver):
                   .format(i))
             print("Found tag: {!r}".format(l))
             return -1
+    print("Success!!!")
+    print('<>'*40 + '\n')
     return 0
 
 def tearDown(driver):
