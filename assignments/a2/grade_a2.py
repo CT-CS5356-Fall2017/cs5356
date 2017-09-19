@@ -122,7 +122,22 @@ def test_tag_association():
                   "Found: {}".format(t, _rids, rid_tag))
             return -1
     print("Test: Tag_Association passed successfully.")
+    print("Testing tag deletion")
+    for t, _rids in tag_assoc.items():
+        put_tags(_rids[0], t)
+    
+    for t, _rids in tag_assoc.items():
+        r = get_receipts_by_tag(t)
+        rid_tag = [int(t['id']) for t in r]
+        if _rids[0] in rid_tag:
+            print("ERROR: Returned receipts for tag={} is incorrect.\n"
+                  "Expected: {}\n"
+                  "Found: {}".format(t, _rids[1:], rid_tag))
+            return -1
+    print("Test: Tag deletion also worked!! Hurray!")
+
     return 0
+
 
 def test_get_receipts():
     print("-"*80)
@@ -184,7 +199,12 @@ if __name__ == "__main__":
             r += test_circleCI(circleurl)
     else:
         URL = sys.argv[1]
+    URL = URL.rstrip('/')
     print("The url found: {}".format(URL))
+    if not URL.startswith('http'):
+        print("The url does not look like one (should start with http..).\n"
+              "May be you meant 'python {} -github {}".format(*sys.argv))
+        exit(-1)
     r += test_netid(netid)
     if r==0:
         r = test_tag_association()
