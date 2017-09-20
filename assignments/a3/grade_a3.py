@@ -263,7 +263,7 @@ if __name__ == "__main__":
         print(USAGE)
         exit(-1)
     if len(sys.argv)>2 and sys.argv[1] == '-github':
-        netid, URL, circleurl = get_github_student_url(sys.argv[2])
+        netid, url, circleurl = get_github_student_url(sys.argv[2])
     else:
         url = sys.argv[1]
     driver = set_up(url)
