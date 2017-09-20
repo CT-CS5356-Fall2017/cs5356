@@ -122,7 +122,22 @@ def test_tag_association():
                   "Found: {}".format(t, _rids, rid_tag))
             return -1
     print("Test: Tag_Association passed successfully.")
+    print("Testing tag deletion")
+    for t, _rids in tag_assoc.items():
+        put_tags(_rids[0], t)
+    
+    for t, _rids in tag_assoc.items():
+        r = get_receipts_by_tag(t)
+        rid_tag = [int(t['id']) for t in r]
+        if _rids[0] in rid_tag:
+            print("ERROR: Returned receipts for tag={} is incorrect.\n"
+                  "Expected: {}\n"
+                  "Found: {}".format(t, _rids[1:], rid_tag))
+            return -1
+    print("Test: Tag deletion also worked!! Hurray!")
+
     return 0
+
 
 def test_get_receipts():
     print("-"*80)
