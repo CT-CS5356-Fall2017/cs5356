@@ -4,3 +4,5 @@ projects/
 old/
 sol/
 *~
+__pycache__/
+geckodriver.log
