@@ -19,7 +19,7 @@ For Windows, you can follow the instructions in the page.
 """)
     exit(-1)
 
-DEBUG = 0
+DEBUG = 1
 def random_tag(n=4):
     return ''.join(random.choice(string.ascii_uppercase + string.digits) 
                    for _ in range(n))
@@ -37,7 +37,7 @@ def get_all_receipts(driver):
     Parse all the receipts in a page
     $($('#receiptList')[0], '.receipt')
     """
-    for rs in driver.find_elements_by_css_selector('#receiptList > .receipt'):
+    for rs in driver.find_elements_by_css_selector('#receiptList .receipt'):
         m = rs.find_element_by_class_name('merchant').text
         a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
@@ -61,14 +61,14 @@ def add_receipts(driver):
     return m, a
 
 
-def add_tag(e, driver):
+def add_tag(e):
     """ Adds a random tag to te element e """
     tag = random_tag(8)
     e.find_element_by_class_name('add-tag').click()
     
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(tag)
-    driver.find_element_by_class_name('tag_input')\
+    e.find_element_by_class_name('tag_input')\
           .send_keys(Keys.ENTER)
     # driver.find_elements_by_class_name('save-tag').click()
     return tag
@@ -102,12 +102,15 @@ def test_add_receipts(driver):
               .format(old_receipts, new_receipts))
         return -1
     found = False
-    for rs in new_receipts:
+    if DEBUG:
+        print("#receipts-old: {}, #receipts-new: {}"
+              .format(len(old_receipts), len(new_receipts)))
+    for i, rs in enumerate(new_receipts):
         if str(rs['merchant']) == str(m) and str(rs['amount']) == str(a):
             found = True
             break
         elif DEBUG:
-            print("Found (but not testing):", rs)
+            print("{}. Found (but not testing): {}".format(i, rs))
 
     if not found:
         print(
@@ -138,11 +141,11 @@ def test_add_tag(driver):
 
     # Click on the add-tag element
     old_tags = get_tags(e)
-    tag = add_tag(e, driver)
+    tag = add_tag(e)
     if DEBUG>=2:
         driver.refresh()   # Probably don't require
 
-    time.sleep(1)
+    time.sleep(4)
     # Fetch the new receipts again
     receipts = driver.find_elements_by_class_name('receipt')
     e = receipts[i]
@@ -174,9 +177,12 @@ def test_del_tag(driver):
     # Click on the add-tag element
     tags = get_tags(e)
     if not tags:
-        add_tag(e, driver)
+        add_tag(e)
+        receipts = driver.find_elements_by_class_name('receipt')
+        e = receipts[index_of_random_receipt]
         tags = get_tags(e)
 
+    time.sleep(1)
     e_tag = random.choice(e.find_elements_by_class_name('tagValue'))
     tag = e_tag.text
     e_tag.click(); time.sleep(1)
@@ -189,9 +195,10 @@ def test_del_tag(driver):
     if len(removed_tag_) != 1 or removed_tag_[0] != tag:
         print(""" Removed tags: {} (Should be only [{}])"
         """.format(removed_tag_, tag))
-        print("""This error might not be your fault. Either my code, or 
-        the Selenium driver is buggy.  Report this problem to us. We will 
-        fix it, but in the mean time make sure the deletion works on UI.""")
+        print("""This error might not be your fault. Either my code or the Selenium driver is
+buggy.  Report this problem to us. We will fix it, but in the mean time make
+sure the deletion works on UI, and no more errors are reported before this line.
+        """)
         return -1
     else:
         print("Success!!!")
@@ -202,6 +209,10 @@ def test_no_duplicate_tag(driver):
     """
     Tests that no duplicate tags are present in any of the receipt rows.
     """
+    print("-"*80)
+    print("Test: Duplicate tag in any receipt")
+    print("-"*80)
+    
     for i,rs in enumerate(driver.find_elements_by_class_name('receipt')):
         l = list(get_tags(rs))
         if len(l) != len(set(l)):
@@ -209,6 +220,8 @@ def test_no_duplicate_tag(driver):
                   .format(i))
             print("Found tag: {!r}".format(l))
             return -1
+    print("Success!!!")
+    print('<>'*40 + '\n')
     return 0
 
 def tearDown(driver):
@@ -250,7 +263,7 @@ if __name__ == "__main__":
         print(USAGE)
         exit(-1)
     if len(sys.argv)>2 and sys.argv[1] == '-github':
-        netid, URL, circleurl = get_github_student_url(sys.argv[2])
+        netid, url, circleurl = get_github_student_url(sys.argv[2])
     else:
         url = sys.argv[1]
     driver = set_up(url)
@@ -267,10 +280,10 @@ if __name__ == "__main__":
         print("=======")
         print("Error:", e)
         print("=======\n")
-        print("Something went wrong. Test the test by manually and see if it\n"
-              "is working. If yes, and check the IDs and class names in your html\n"
-              "file matches what is dictated in teh README file. I will add the\n"
-              "meaning of the error. \n")
+        print("Something went wrong. Test the each of the tests manually and make sure it\n"
+              "is working. If yes, check the IDs and class names in your html\n"
+              "file matches what is dictated in the README file.\n\n"
+              "Meaning of some of the common errors. \n")
         print("\"Element not visible\": Your server might be too slow. Find the line\n"
               "'implicitly_wait' in the auto-grader and change the wait time from\n"
               " 5 sec to something more like 15 or 20.")
