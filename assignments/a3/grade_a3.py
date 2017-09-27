@@ -37,7 +37,7 @@ def get_all_receipts(driver):
     Parse all the receipts in a page
     $($('#receiptList')[0], '.receipt')
     """
-    for rs in driver.find_elements_by_css_selector('#receiptList > .receipt'):
+    for rs in driver.find_elements_by_css_selector('#receiptList .receipt'):
         m = rs.find_element_by_class_name('merchant').text
         a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
