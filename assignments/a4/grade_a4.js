@@ -134,10 +134,16 @@ async function test_del_tag(page) {
     var rcpts = await page.$$('.receipt');
     var i = Math.floor(Math.random() * rcpts.length);
     var new_tags = await page.evaluate(get_tags, i);
+    var t = 0;
     while (new_tags.length == 0) {
+        t += 1;
         await page.evaluate(add_tag, i, 't_' + rand_string(4));
         new_tags = await page.evaluate(get_tags, i);
 	console.log("Tags before deletion:", new_tags);
+        if (t>5) {
+            console.log( "Could not add tag. Del tag will fail.");
+            break;
+        }
     }
     // Delete tag experiment
     var deleted_tag = await page.evaluate(del_tag, i);
