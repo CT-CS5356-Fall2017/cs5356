@@ -76,7 +76,6 @@ function del_tag(i) {
 
 /* Tests if the additional element is in the updated_list */
 function test_addition(original_list, updated_list, expected, thing='', ret_log={}) {
-
     // Compute the set of 'diffs' (those in the updated list, but not in original list)
     let diffs = _.map(updated_list, JSON.stringify);
     original_list.forEach(orig => {
@@ -267,6 +266,9 @@ var test_func_list = {
 }
 
 async function runTest(url, tests=[], headless=true) {
+    // const url_hash = crypto.createHash('md5').update('asdfasdf')
+    //       .digest('hex').substring(0, 8);
+    // console.log(path.join('/tmp/', url_hash));
     const browser = await puppeteer.launch({
         headless: headless,
         slowMo: 100,
