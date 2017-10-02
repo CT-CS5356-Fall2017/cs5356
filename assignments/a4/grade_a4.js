@@ -132,12 +132,19 @@ function get_tags(i) {
 
 async function test_del_tag(page) {
     var rcpts = await page.$$('.receipt');
+    if (rcpts.length == 0) {
+        return {
+            test : "<--- Running del_tag test --->",
+            msg : 'There is no receipt to add tag. Please add a receipt first.',
+            failed: 1
+        }
     var i = Math.floor(Math.random() * rcpts.length);
     var new_tags = await page.evaluate(get_tags, i);
     var t = 0;
     while (new_tags.length == 0) {
         t += 1;
         await page.evaluate(add_tag, i, 't_' + rand_string(4));
+        
         new_tags = await page.evaluate(get_tags, i);
 	console.log("Tags before deletion:", new_tags);
         if (t>5) {
@@ -290,7 +297,7 @@ async function runTest(url, tests=[], headless=true) {
         var console_logs = [];
         page.on('console', msg => console_logs.push(msg));
 
-        await page.waitForSelector('.receipt');
+        await page.waitForSelector('#add-receipt');
         var ret_log = {};
         for(var i=0; i<tests.length; i++) {
             var k = tests[i];
