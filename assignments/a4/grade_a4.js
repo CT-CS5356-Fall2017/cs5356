@@ -138,6 +138,7 @@ async function test_del_tag(page) {
             msg : 'There is no receipt to add tag. Please add a receipt first.',
             failed: 1
         }
+    }
     var i = Math.floor(Math.random() * rcpts.length);
     var new_tags = await page.evaluate(get_tags, i);
     var t = 0;
