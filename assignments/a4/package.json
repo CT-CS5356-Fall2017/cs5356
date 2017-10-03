@@ -6,6 +6,7 @@
   "dependencies": {
     "command-line-args": "^4.0.7",
     "express": "^4.16.1",
+    "lodash": "^4.17.4",
     "morgan": "^1.9.0",
     "nodemon": "^1.12.1",
     "npm": "^5.4.2",

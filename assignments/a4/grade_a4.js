@@ -1,6 +1,7 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
+const _ = require('lodash');
 const crypto = require('crypto');
 const path    = require('path');
 
@@ -13,15 +14,12 @@ const video_url = [
     'receipt_vid.y4m',
     'cappones.y4m'
 ];
-const receipt_texts = [
-    [{"merchant":"Main", "amount": "29.01", "tags": []},
-     {"merchant":"Main Street Restaurant", "amount": "29.01", "tags": []},
-    ],
-    [{"merchant":"Cappones", "amount": "28.86", "tags": []},
-     {"merchant":"Cappones Salumeria ", "amount": "28.86", "tags": []}
-    ]
+
+const receipt_matchers = [
+    rcpt_json => /"Main/.test(rcpt_json) && /29\.01/.test(rcpt_json),
+    rcpt_json => /"Cappones/.test(rcpt_json) && /28\.86/.test(rcpt_json)
 ]
-const video_idx = 0; // Math.floor(Math.random() * 2);
+const video_idx = Math.floor(Math.random() * 2);
 
 function rand_string(n) {
     var text = "";
@@ -70,44 +68,45 @@ function del_tag(i) {
     const e_press = jQuery.Event("keypress", {which: 13, keyCode: 13});
     const tags = $('.tagValue', rcpt_elem);
     const j = Math.floor(Math.random() * tags.length);
-    const tag_val = $(tags[j]).text();
+    const tag_val = $(tags[j]).text().trim();
     $(tags[j]).click();
     return tag_val;
 }
 
 
-function test_addition(oldl, newl, addition_set, thing='', ret_log={}) {
-    /* Tests if the additional element is in the newl */
-    let failed = 0;
-    if (newl.length != oldl.length + 1) {
-        ret_log['msg'] += "Number of added " + thing + " did not match. ";
-        console.log(JSON.stringify(oldl));
-        console.log(JSON.stringify(newl));
-        failed = 1;
-        ret_log['failed'] = failed;
+/* Tests if the additional element is in the updated_list */
+function test_addition(original_list, updated_list, expected, thing='', ret_log={}) {
+    // Compute the set of 'diffs' (those in the updated list, but not in original list)
+    let diffs = _.map(updated_list, JSON.stringify);
+    original_list.forEach(orig => {
+      let idx = _.indexOf(diffs, JSON.stringify(orig));
+       _.pullAt(diffs, idx);
+    });
+
+    if (diffs.length !== 1) {
+        ret_log['msg'] += `Expected 1 ${thing} to be added. Got ${diffs.length} additions`;
+        ret_log['failed'] = 1;
         return ret_log;
     }
-    let found = 0;
-    let i;
-    const addition_set_string = addition_set.map(x => JSON.stringify(x))
-    
-    for(i=0; failed == 0 && i<newl.length; i++) {
-        if (addition_set_string.includes(JSON.stringify(newl[i]))) {
-            found = 1; break;
-        } else {
-            // console.log([newl[i], addition_set_string].map(JSON.stringify))
-        }
+
+    let matches = function(comparable, expected) {
+       if(_.isFunction(expected))
+         return expected(comparable);
+       return _.trim(comparable) == _.trim(JSON.stringify(expected));
     }
-    if (found == 0) {
-        failed = 1;
-        ret_log['msg'] += "Could not find the " + thing + " just added."
-        console.dir(newl);
+
+    if(matches(diffs[0], expected)) {
+        ret_log['msg'] = "Test passed!!";
+        ret_log['failed'] = 0;
     } else {
-        ret_log['msg'] = "Test passed!!"
+        ret_log['msg'] += "Could not find the " + thing + " just added."
+        ret_log['msg'] += `\nexpected: ${JSON.stringify(expected)}\n got: ${diffs[0]}`;
+        ret_log['failed'] = 1;
     }
-    ret_log['failed'] = failed;
+
     return ret_log;
 }
+
     
 async function test_add_receipt(page) {
     const curr_rcpts = await page.evaluate(get_receipts);
@@ -120,14 +119,14 @@ async function test_add_receipt(page) {
             'added_receipt': added_rcpt
         }
     }
-    ret_log = test_addition(curr_rcpts, new_rcpts, [added_rcpt], 'receipt', ret_log);
+    ret_log = test_addition(curr_rcpts, new_rcpts, added_rcpt, 'receipt', ret_log);
     return ret_log;
 }
 
 function get_tags(i) {
     const rcpt_elem = document.querySelectorAll('#receiptList .receipt')[i];
     const anchors = Array.from(rcpt_elem.querySelectorAll('.tags .tagValue'));
-    return anchors.map(anchor => anchor.textContent);
+    return anchors.map(anchor => anchor.textContent.trim());
 }
 
 async function test_del_tag(page) {
@@ -164,11 +163,7 @@ async function test_del_tag(page) {
         }
     }
 
-    ret_log = test_addition(
-        tags_after_deletion, new_tags, [deleted_tag], 
-        'tag', ret_log
-    )
-    return ret_log;
+    return test_addition(tags_after_deletion, new_tags, deleted_tag, 'tag', ret_log)
 }
 
 async function test_add_tag(page) {
@@ -189,11 +184,11 @@ async function test_add_tag(page) {
     const old_tags = await page.evaluate(get_tags, i);
     await page.evaluate(add_tag, i, tag.tag);
     const new_tags = await page.evaluate(get_tags, i);
-    var x_mark = ' x';
+    // var x_mark = ' x';
     // if (!new_tags[0].endsWith(' x'))
     //     x_mark = '';
     ret_log = test_addition(
-        old_tags, new_tags, [tag.tag, tag.tag + x_mark], 
+        old_tags, new_tags, tag.tag, // TODO: Add a regex here.
         'tag', ret_log
     ) 
     
@@ -214,28 +209,25 @@ function take_snap() {
     });
 }
 
-async function test_snap(page) { 
-    const added_rcpt = receipt_texts[video_idx];
+async function test_snap(page) {
+    const receipt_matcher = receipt_matchers[video_idx];
     var ret_log = {
         test : "<--- Running snap_receipt test --->",
         msg : '',
         action: {
-            'snap_receipt_from_video': path.join(__dirname, video_url[video_idx]),
-            'expected_receipt_any_of': added_rcpt
+            'snap_receipt_from_video': video_url[video_idx],
+            'expected_receipt': receipt_matcher
         }
     }
-    const curr_rcpts = await page.evaluate(get_receipts);
-    // await page.evaluate(take_snap);
+    const original_receipts = await page.evaluate(get_receipts);
     await page.click('#start-camera')
-    console.log("Started the work...");
+    console.log("Camera started and waiting for server to respond");
     await page.click('#take-pic');
     try {
-        await page.waitForFunction('$("#merchant").val() != ""', 
-                                   {timeout: 10000})
+        await page.waitForFunction('$("#merchant").val() != ""', {timeout: 10000})
     } catch (e) {
-        ret_log['msg'] = "I could not take a snap of the receipt. " + 
-            "Common issue could be due to `takePhoto`. Use `grabFrame` instead.\n" +
-            "Also, see the 'browser_console_logs' below for more information.";
+        ret_log['msg'] = "Clicking on 'take-pic' never exposed a non-empty 'merchant' input box. " +
+            "Common cause is using `takePhoto()` - use `grabFrame()` instead";
         ret_log['failed'] = 1;
         return ret_log;
     }
@@ -243,11 +235,9 @@ async function test_snap(page) {
     await page.waitForSelector('#save-receipt', {visible: true}).then(
         () => page.click('#save-receipt')
     );
+
     const new_rcpts = await page.evaluate(get_receipts);
-    ret_log = test_addition(
-        curr_rcpts, new_rcpts, added_rcpt,
-        'receipt', ret_log
-    );
+    ret_log = test_addition( original_receipts, new_rcpts, receipt_matcher, 'receipt', ret_log);
     return ret_log;
 }
 
@@ -280,19 +270,19 @@ async function runTest(url, tests=[], headless=true) {
     //       .digest('hex').substring(0, 8);
     // console.log(path.join('/tmp/', url_hash));
     const browser = await puppeteer.launch({
-        headless: headless, 
+        headless: headless,
         slowMo: 100,
         userDataDir: path.join('/tmp/test/'), 
         args: [
-            '--unsafely-treat-insecure-origin-as-secure='+url,
             '--use-fake-device-for-media-stream',
             '--use-fake-ui-for-media-stream',
+            '--unsafely-treat-insecure-origin-as-secure='+url,
             '--use-file-for-fake-video-capture=' + video_url[video_idx],
         ]
     });
     try {
         browser.version().then(msg => console.log(msg));
-        
+
         const page = await browser.newPage();
         await page.goto(url, {waitUntil: 'networkidle'});
         var console_logs = [];
