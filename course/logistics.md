@@ -8,11 +8,11 @@ Logistics
 ### Office Hours
 
 * [Adam](/people/adam-fleming.md): Weds after class 'till no questions left
-* [Rahul](/people/rahul-chatterjee.md): Friday 11am - 1pm and Tuesday 2pm - 3.30pm (by appointment). I am not available on Sept 26 (Tue).
+* [Rahul](/people/rahul-chatterjee.md): Friday 11am - 1pm and Tuesday 2pm - 3.30pm. Both times are by appointment only. I am not available on Sept 26 (Tue).
 
 ### Grading
 
-Course grading is based on completion of weekly Homework assignments as well as completion of the class project.  A grading rubric for the course project will be availble after the 3rd class. 
+Course grading is based on completion of weekly Homework assignments.  A grading rubric for the course project will be availble after the 3rd class. 
 
 ### Attendance
 
