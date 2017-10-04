@@ -83,10 +83,8 @@ People
 * [Young Sang Choi](people/young-sang-choi.md) - yc2376 - [http://ec2-34-236-9-144.compute-1.amazonaws.com:8080/](http://ec2-34-236-9-144.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/ysc321/skeleton.svg?style=svg)](https://circleci.com/gh/ysc321/skeleton)
 * [Rom Cohen](people/rom-cohen.md) - rc783 - [http://ec2-13-59-20-128.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-20-128.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/romCohen/skeleton.svg?style=svg)](https://circleci.com/gh/romCohen/skeleton)
 * [Christy Cui](people/christy-cui.md) - hc935 - [http://ec2-52-23-157-171.compute-1.amazonaws.com:8080/](http://ec2-52-23-157-171.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/christycui/skeleton.svg?style=svg)](https://circleci.com/gh/christycui/skeleton)
-<<<<<<< HEAD
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [http://ec2-52-15-221-191.us-east-2.compute.amazonaws.com:8080](http://ec2-52-15-221-191.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/marikacusick/skeleton.svg?style=svg)](https://circleci.com/gh/marikacusick/skeleton)
 * [Jonathan Cutler](people/jonathan-cutler.md) - jlc553 - [http://ec2-18-221-140-92.us-east-2.compute.amazonaws.com](http://ec2-18-221-140-92.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/jonleecutler/skeleton.svg?style=svg)](https://circleci.com/gh/jonleecutler/skeleton)
-=======
 * [Marika Cusick](people/marika-cusick.md) - mmc265 - [http://ec2-13-59-58-183.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-58-183.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/marikacusick/skeleton.svg?style=svg)](https://circleci.com/gh/marikacusick/skeleton)
 * [Jonathan Cutler](people/jonathan-cutler.md) - jlc553 - [http://ec2-52-14-73-100.us-east-2.compute.amazonaws.com](http://ec2-52-14-73-100.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/jonleecutler/skeleton.svg?style=svg)](https://circleci.com/gh/jonleecutler/skeleton)
 >>>>>>> a8fbeaf8f026d376b1a24f28c50556b3433a2c47
