@@ -193,7 +193,7 @@ People
 * [Elena Zhizhimontova](people/elena-zhizhimontova.md) - ez256 - [http://ec2-13-59-241-147.us-east-2.compute.amazonaws.com](http://ec2-13-59-241-147.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/sunsshadow/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/sunsshadow/skeleton/tree/master)
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [http://ec2-34-202-164-8.compute-1.amazonaws.com:8080/](http://ec2-34-202-164-8.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/fredzhou93/skeleton.svg?style=svg)](https://circleci.com/gh/fredzhou93/skeleton)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [http://ec2-18-221-121-96.us-east-2.compute.amazonaws.com:8080/](http://ec2-18-221-121-96.us-east-2.compute.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/rzhu9/skeleton.svg?style=svg)](https://circleci.com/gh/rzhu9/skeleton)
-* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [http://ec2-34-204-197-164.compute-1.amazonaws.com:8080](http://ec2-34-204-197-164.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/jimzhu1993/skeleton.svg?style=svg)](https://circleci.com/gh/jimzhu1993/skeleton)
+* [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://startupsystem.zhuyuxiang.com:8080/](https://startupsystem.zhuyuxiang.com:8080/) [![CircleCI](https://circleci.com/gh/jimzhu1993/skeleton.svg?style=svg)](https://circleci.com/gh/jimzhu1993/skeleton)
 
 
 Copyright & License
