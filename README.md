@@ -62,7 +62,7 @@ People
 
 #### Students
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/joeabisleiman/skeleton.svg?style=svg)](https://circleci.com/gh/joeabisleiman/skeleton)
-* [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
+* [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-236-171-5.compute-1.amazonaws.com:8080](http://ec2-34-236-171-5.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
 * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265 - [http://ec2-54-209-250-89.compute-1.amazonaws.com:8080](http://ec2-54-209-250-89.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/asubhangi/skeleton.svg?style=svg)](https://circleci.com/gh/asubhangi/skeleton)
 * [Luke Ahn](people/luke-ahn.md) - la393 - [http://www.probiusflow.com:8080/](http://www.probiusflow.com:8080/) [![CircleCI](https://circleci.com/gh/lukeahn/skeleton.svg?style=svg)](https://circleci.com/gh/lukeahn/skeleton)
 * [Tanuj Ahuja](people/Tanuj-Ahuja.md) - ta364 - [http://ec2-18-221-82-58.us-east-2.compute.amazonaws.com:8080](http://ec2-18-221-82-58.us-east-2.compute.amazonaws.com:8080)[![CircleCI](https://circleci.com/gh/tanuj1234/skeleton.svg?style=svg)](https://circleci.com/gh/tanuj1234/skeleton)
