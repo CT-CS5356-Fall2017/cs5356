@@ -12,7 +12,7 @@ Logistics
 
 ### Grading
 
-Course grading is based on completion of weekly Homework assignments as well as completion of the class project.  A grading rubric for the course project will be availble after the 3rd class. 
+Course grading is based on completion of weekly Homework assignments.  A grading rubric for the course project will be availble after the 3rd class. 
 
 ### Attendance
 
