@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Assignment 4 Auto-grader</title>
+    <style>
+     mainbody: {
+         margin: 10px;
+     }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2> Auto-grader for Assignment 4 </h2>
+    <div class="jumbotron text">
+        Enter your URL and press submit. It will run the following tests.
+        <ul>
+            <li> Add receipt by entering the merchant name and amount. </li>
+            <li> Add receipt by takingthe receipt video.</li>
+            <li> Add a tag to a receipt. </li>
+            <li> Delete a tag froma a receipt. </li>
+        </ul>
+        If you get all <code> 'failed': 0 </code>, you are good.
+    </div>
+    <div class="col-md-3"></div>
+    <div class="form-group col-md-6">
+        <form action="/test" method="GET">
+            Enter your server URL <input type="text" class="form-control" type="URL" name="url" value=""><br>
+            <label style="padding:1em"> Tests:</label>
+            <label class="checkbox-inline">
+                <input name="tests" type="checkbox" value="add_receipt" checked>Add Receipt
+            </label>
+            <label class="checkbox-inline">
+                <input name="tests" type="checkbox" value="add_tag" checked>Add Tag
+            </label>
+            <label class="checkbox-inline">
+                <input name="tests" type="checkbox" value="del_tag" checked>Delete Tag
+            </label>
+            <label class="checkbox-inline">
+                <input name="tests" type="checkbox" value="add_receipt_by_snap" checked>Take Snap
+            </label>
+            <br/>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    </div>
+</body>
