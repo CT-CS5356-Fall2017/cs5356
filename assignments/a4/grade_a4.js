@@ -1,5 +1,6 @@
 'use strict';
 
+
 const puppeteer = require('puppeteer');
 const _ = require('lodash');
 const crypto = require('crypto');
@@ -144,7 +145,7 @@ async function test_del_tag(page) {
     while (new_tags.length == 0) {
         t += 1;
         await page.evaluate(add_tag, i, 't_' + rand_string(4));
-        
+
         new_tags = await page.evaluate(get_tags, i);
 	console.log("Tags before deletion:", new_tags);
         if (t>5) {
@@ -193,20 +194,6 @@ async function test_add_tag(page) {
     ) 
     
     return ret_log;
-}
-
-
-function take_snap() {
-    $('#start-camera').click(() => {
-        console.log("clicked...start camera...");
-        setTimeout(() => {
-            $('#take-pic').click(() => {
-                setTimeout(() => {
-                    $('#save-receipt').click();
-                }, 2);
-            }, 1);
-        });
-    });
 }
 
 async function test_snap(page) {
