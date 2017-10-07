@@ -39,7 +39,7 @@ People
 * [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 #### Students
-* [Luna Yang](people/luna-yang.md) - ly354 - [http://13.58.60.232:8080/](http://18.221.59.99:8080)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
+* [Luna Yang](people/luna-yang.md) - ly354 - [http://18.221.182.150:8080/](http://18.221.182.150:8080)[![CircleCI](https://circleci.com/gh/yl89757jj/skeleton.svg?style=svg)](https://circleci.com/gh/yl89757jj/skeleton)
 
 Copyright & License
 -------------------
