@@ -37,7 +37,7 @@ def get_all_receipts(driver):
     Parse all the receipts in a page
     $($('#receiptList')[0], '.receipt')
     """
-    for rs in driver.find_elements_by_css_selector('#receiptList > .receipt'):
+    for rs in driver.find_elements_by_css_selector('#receiptList .receipt'):
         m = rs.find_element_by_class_name('merchant').text
         a = rs.find_element_by_class_name('amount').text
         tags = get_tags(rs)
@@ -263,7 +263,7 @@ if __name__ == "__main__":
         print(USAGE)
         exit(-1)
     if len(sys.argv)>2 and sys.argv[1] == '-github':
-        netid, URL, circleurl = get_github_student_url(sys.argv[2])
+        netid, url, circleurl = get_github_student_url(sys.argv[2])
     else:
         url = sys.argv[1]
     driver = set_up(url)
