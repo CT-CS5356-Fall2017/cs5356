@@ -140,7 +140,7 @@ People
 * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7 - [http://34.204.204.144:8080/](http://34.204.204.144:8080/) [![CircleCI](https://circleci.com/gh/eyvindn/skeleton.svg?style=svg)](https://circleci.com/gh/eyvindn/skeleton)
 * [Noshin Anjum Nisa](people/noshin-anjum-nisa.md) - nan42 - [ec2-34-204-175-71.compute-1.amazonaws.com](ec2-34-204-175-71.compute-1.amazonaws.com) [![CircleCI](https://circleci.com/gh/nnisa/skeleton.svg?style=svg)](https://circleci.com/gh/nnisa/skeleton)
 * [Neel Parekh](people/neel-parekh.md) - np423 - [http://ec2-18-220-114-19.us-east-2.compute.amazonaws.com](http://ec2-18-220-114-19.us-east-2.compute.amazonaws.com) [![CircleCI](https://circleci.com/gh/neelparekh/skeleton.svg?style=svg)](https://circleci.com/gh/neelparekh/skeleton)
-* [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [http://18.221.55.69:8080](http://18.221.55.69:8080) [![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
+* [Fuyuzhen Peng](people/fuyuzhen-peng.md) - fp73 - [https://tompeng.me](https://tompeng.me) [![CircleCI](https://circleci.com/gh/pengfuyuzhen/skeleton.svg?style=svg)](https://circleci.com/gh/pengfuyuzhen/skeleton)
 * [Vijay Pillai](people/vijay-pillai.md) - vp296 - [http://ec2-54-89-97-105.compute-1.amazonaws.com:8080](http://ec2-54-89-97-105.compute-1.amazonaws.com:8080)
 [![CircleCI](https://circleci.com/gh/Vijay-P/skeleton.svg?style=svg)](https://circleci.com/gh/Vijay-P/skeleton)
 * [Ryan Ramphal](people/ryan-ramphal.md) - rdr233 - [https://ssa4.ryanramphal.com](https://ssa4.ryanramphal.com) [![CircleCI](https://circleci.com/gh/rramphal100/skeleton/tree/master.svg?style=svg)](https://circleci.com/gh/rramphal100/skeleton/tree/master)
