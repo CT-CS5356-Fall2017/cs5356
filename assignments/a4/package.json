@@ -1,0 +1,32 @@
+{
+  "name": "grading",
+  "version": "1.0.0",
+  "description": "Grading CS5356 - Fall2017",
+  "main": "index.js",
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "express": "^4.16.1",
+    "lodash": "^4.17.4",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "npm": "^5.4.2",
+    "puppeteer": "^0.11.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchatterjee/cs5356-grading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchatterjee/cs5356-grading/issues"
+  },
+  "homepage": "https://github.com/rchatterjee/cs5356-grading#readme"
+}
