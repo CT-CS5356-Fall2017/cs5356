@@ -13,8 +13,6 @@ Essentials
 Lectures
 --------
 
-10/18, 10/25, 11/1, 11/8, 11/15
-
 1.  18-Oct: GCP + Cloud Architecture
 2.  25-Oct: *No Class*
 3.  01-Nov: API
