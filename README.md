@@ -6,9 +6,9 @@ CS 5356: Building Startup Systems (Fall 2017)
 Essentials
 ----------
 
-* [Course Slack](https://ct-cs5356-fall2017.slack.com), [Sign-Up](https://ct-cs5356-fall2017.slack.com/signup)
 * [Course Description](course/description.md)
 * [Grading](course/grading.md)
+* [Course Slack](https://ct-cs5356-fall2017.slack.com)
 
 Lectures
 --------
