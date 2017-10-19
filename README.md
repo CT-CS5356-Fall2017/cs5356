@@ -46,6 +46,11 @@ People
 
 #### Teams
 
+* sugah_daddeez:
+  * [Zen Yui](people/zen-yui.md) - jzy6
+  * [Max Shatkhin](people/max-shatkhin.md) - ms3448
+  * [Thomas Matecki](people/thomas-matecki.md) - tpm93
+
 
 Copyright & License
 -------------------
