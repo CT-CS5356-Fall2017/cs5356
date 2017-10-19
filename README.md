@@ -45,7 +45,7 @@ People
 
 
 #### Teams
-[Christy Cui](people/christy-cui.md), [Daniel Kim](people/daniel-kim.md), [Ryan Ramphal](people/ryan-ramphal.md)
+* [Christy Cui](people/christy-cui.md), [Daniel Kim](people/daniel-kim.md), [Ryan Ramphal](people/ryan-ramphal.md)
 
 Copyright & License
 -------------------
