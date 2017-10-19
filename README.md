@@ -46,6 +46,11 @@ People
 
 #### Teams
 
+* Ghost Robots:
+  * [Devon Bain](people/devon-bain.md) - dwb264
+  * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
+  * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
+
 
 Copyright & License
 -------------------
