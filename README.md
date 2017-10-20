@@ -13,7 +13,7 @@ Essentials
 Lectures
 --------
 
-1.  18-Oct: GCP + Cloud Architecture
+1.  18-Oct: [GCP + Cloud Architecture](lectures/section_b/lecture_1.pdf)
 2.  25-Oct: *No Class*
 3.  01-Nov: API
 4.  08-Nov: Mobile Client
