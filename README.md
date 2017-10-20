@@ -45,7 +45,19 @@ People
 
 
 #### Teams
-* [Christy Cui](people/christy-cui.md), [Daniel Kim](people/daniel-kim.md), [Ryan Ramphal](people/ryan-ramphal.md)
+* sugah_daddeez:
+  * [Zen Yui](people/zen-yui.md) - jzy6
+  * [Max Shatkhin](people/max-shatkhin.md) - ms3448
+  * [Thomas Matecki](people/thomas-matecki.md) - tpm93
+* Ghost Robots:
+  * [Devon Bain](people/devon-bain.md) - dwb264
+  * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
+  * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
+* CuiKimRamphal
+  * [Christy Cui](people/christy-cui.md)
+  * [Daniel Kim](people/daniel-kim.md)
+  * [Ryan Ramphal](people/ryan-ramphal.md)
+
 
 Copyright & License
 -------------------
