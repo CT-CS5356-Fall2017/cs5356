@@ -193,6 +193,10 @@ People
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
+* this_team_is_on_fiyahhh
+  * [Yuhui Dai](people/yuhui-dai.md)
+  * [Matthew Hsu](people/matthew-hsu.md)
+  * [Aleo Mok](people/aleo-mok.md)
 >>>>>>> 7f97cac3d0f9e7fe8fab4f377ea475c9496c2a0d
 
 
