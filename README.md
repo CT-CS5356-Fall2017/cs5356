@@ -197,7 +197,7 @@ People
   * [Yuhui Dai](people/yuhui-dai.md)
   * [Matthew Hsu](people/matthew-hsu.md)
   * [Aleo Mok](people/aleo-mok.md)
->>>>>>> 7f97cac3d0f9e7fe8fab4f377ea475c9496c2a0d
+
 
 
 Copyright & License
