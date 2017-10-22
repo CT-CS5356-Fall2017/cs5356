@@ -57,6 +57,10 @@ People
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
+* this_team_is_on_fiyahhh
+  * [Yuhui Dai](people/yuihui-dai.md)
+  * [Matthew Hsu](people/matthew-hsu.md)
+  * [Aleo Mok](people/aleo-mok.md)
 
 
 Copyright & License
