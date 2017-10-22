@@ -6,46 +6,30 @@ CS 5356: Building Startup Systems (Fall 2017)
 Essentials
 ----------
 
-* [Course Slack](https://ct-cs5356-fall2017.slack.com), [Sign-Up](https://ct-cs5356-fall2017.slack.com/signup)
-* [Logistics, Location, Class, Office Hours](course/logistics.md)
-* [Syllabus](course/syllabus.md)
+* [Course Description](course/description.md)
+* [Grading](course/grading.md)
+* [Course Slack](https://ct-cs5356-fall2017.slack.com)
 
 Lectures
 --------
 
+1.  18-Oct: [GCP + Cloud Architecture](lectures/section_b/lecture_1.pdf)
+2.  25-Oct: *No Class*
+3.  01-Nov: API
+4.  08-Nov: Mobile Client
+6.  22-Nov: Block Storage, Serverless
+7.  27-Nov - 08-Dec: Project Grading
 
-1.  23-Aug: [Git, REST, HTTP, AWS](lectures/lecture-01.md)
-2.  30-Sep: [Backend Services, CI, Docker, Launch](lectures/lecture-02.md)
-3.  06-Sep: [Frontend](lectures/lecture-03.md)
-4.  13-Sep: *No Class*
-5.  20-Sep: Block Storage, Lambda, API's
-6.  27-Sep: TBD
-
-
-Project
+Office Hours
 --------
 
-We will be building an app that scans receipts, uses OCR to extract cost info, and organizes them.  The app will:
-* Support user account creation, login + logout
-* Use a restful API between client + server
-* Use Google Vison API for OCR
+* [Adam](/people/adam-fleming.md): Weds after class 'till no questions left
+* [Rahul](/people/rahul-chatterjee.md): Friday 11am - 1pm and Tuesday 2pm - 3.30pm. Both times are by appointment only. I am not available on Sept 26 (Tue).
 
-Assignments
-----------
-Normal deadlines are 11:59 pm of the day of deadline.
-For all assignments we will allow late submission upto the end of the week (**Friday 6 pm**) for 25% of penalty.
-That means Assignment 2 can be submitted till Friday EOD (**6pm**) but you will start from -10.
-No submission will be accepted after Friday 6pm.
-(Future dates are tentative.)
+Course Project
+--------
 
-
-|Assignments | Points | Deadline | Late Deadline |
-|------------|--------|----------|---------|
-|[Assignment 1](assignments/a1/a1.md) | 10 | Aug 29 | Sep 1 |
-|[Assignment 2](assignments/a2/a2.md) | 40 | Sep 5  | Sep 8 |
-|[Assignment 3](assignments/a3/a3.md) | 20 | Sep 19 | Sep 22 |
-|[Assignment 4](assignments/a4/a4.md) | 30 | Oct 6  | *No Late Subn* |
-
+We will be building a mobile app that connects "Man-in-Van" drivers with customers
 
 People
 ------
@@ -60,6 +44,7 @@ People
 * [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
 
 
+<<<<<<< HEAD
 #### Students
 * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68 - [http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080](http://ec2-13-59-90-238.us-east-2.compute.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/joeabisleiman/skeleton.svg?style=svg)](https://circleci.com/gh/joeabisleiman/skeleton)
 * [Kripa Agarwal](people/kripa-agarwal.md) - ka467 - [http://ec2-34-204-185-229.compute-1.amazonaws.com:8080](http://ec2-34-204-185-229.compute-1.amazonaws.com:8080) [![CircleCI](https://circleci.com/gh/coderKr/receipt-reader.svg?style=svg)](https://circleci.com/gh/coderKr/receipt-reader)
@@ -194,15 +179,27 @@ People
 * [Yuan Zhou](people/yuan-zhou.md) - yz2352 - [http://ec2-34-202-164-8.compute-1.amazonaws.com:8080/](http://ec2-34-202-164-8.compute-1.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/fredzhou93/skeleton.svg?style=svg)](https://circleci.com/gh/fredzhou93/skeleton)
 * [RuihaoZhu](people/ruihao-zhu.md) - rz347 - [http://ec2-18-221-121-96.us-east-2.compute.amazonaws.com:8080/](http://ec2-18-221-121-96.us-east-2.compute.amazonaws.com:8080/) [![CircleCI](https://circleci.com/gh/rzhu9/skeleton.svg?style=svg)](https://circleci.com/gh/rzhu9/skeleton)
 * [Yuxiang Zhu](people/yuxiang-zhu.md) - yz2329 - [https://startupsystem.zhuyuxiang.com:8080/](https://startupsystem.zhuyuxiang.com:8080/) [![CircleCI](https://circleci.com/gh/jimzhu1993/skeleton.svg?style=svg)](https://circleci.com/gh/jimzhu1993/skeleton)
+=======
+#### Teams
+* sugah_daddeez:
+  * [Zen Yui](people/zen-yui.md) - jzy6
+  * [Max Shatkhin](people/max-shatkhin.md) - ms3448
+  * [Thomas Matecki](people/thomas-matecki.md) - tpm93
+* Ghost Robots:
+  * [Devon Bain](people/devon-bain.md) - dwb264
+  * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
+  * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
+* CuiKimRamphal
+  * [Christy Cui](people/christy-cui.md)
+  * [Daniel Kim](people/daniel-kim.md)
+  * [Ryan Ramphal](people/ryan-ramphal.md)
+>>>>>>> 7f97cac3d0f9e7fe8fab4f377ea475c9496c2a0d
 
 
 Copyright & License
 -------------------
-
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
-
 All source code is licensed under the [MIT License](MIT-LICENSE.txt).
-
 All content is licensed under the [Creative Commons Attribution 4.0 International License](CC-BY-4.0-LICENSE.txt).
 
 <a href='https://creativecommons.org/licenses/by/4.0'>![](https://i.creativecommons.org/l/by/4.0/88x31.png)</a>
