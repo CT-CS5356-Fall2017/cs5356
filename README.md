@@ -69,6 +69,12 @@ People
   * [Kriti Singh](people/kriti-singh.md) - ks2259
   * [Mohit Chawla](people/mohit-chawla.md) - mc2683
   
+* this_team_is_on_fiyahhh
+  * [Yuhui Dai](people/yuihui-dai.md)
+  * [Matthew Hsu](people/matthew-hsu.md)
+  * [Aleo Mok](people/aleo-mok.md)
+
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
