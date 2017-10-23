@@ -57,6 +57,10 @@ People
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
+* The Munchies
+  * [Marco Berlot](people/marco-berlot.md)
+  * [Jake Magid](people/jake-magid.md)
+  * [Vicente Rotman Hinzpeter](people/rvicente-rotman-hinzpeter.md)
 
 
 Copyright & License
