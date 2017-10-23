@@ -43,7 +43,6 @@ People
 
 * [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
 
-
 #### Teams
 * sugah_daddeez:
   * [Zen Yui](people/zen-yui.md) - jzy6
@@ -53,11 +52,10 @@ People
   * [Devon Bain](people/devon-bain.md) - dwb264
   * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
   * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
-* CuiKimRamphal
+* R2DC
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
-
 
 Copyright & License
 -------------------
