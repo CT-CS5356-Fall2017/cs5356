@@ -60,7 +60,7 @@ People
 * The Munchies
   * [Marco Berlot](people/marco-berlot.md)
   * [Jake Magid](people/jake-magid.md)
-  * [Vicente Rotman Hinzpeter](people/rvicente-rotman-hinzpeter.md)
+  * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md)
 
 
 Copyright & License
