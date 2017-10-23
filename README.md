@@ -74,6 +74,11 @@ People
   * [Matthew Hsu](people/matthew-hsu.md)
   * [Aleo Mok](people/aleo-mok.md)
 
+* Marshmallow on fire
+  * [Kelly Wang](people/chenyang-wang.md)
+  * [Yian Mo](people/yian-mo.md)
+  * [Vinson Wang](people/vinson-wang.md)
+
 
 Copyright & License
 -------------------
