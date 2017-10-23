@@ -79,6 +79,11 @@ People
   * [Yian Mo](people/yian-mo.md)
   * [Vinson Wang](people/vinson-wang.md)
 
+* Despacitos
+  * [David Hachuel](people/david-hachuel.md)
+  * [Rom Cohen](people/rom-cohen.md)
+  * [Liran Sharir](people/liran-sharir.md)
+
 
 Copyright & License
 -------------------
