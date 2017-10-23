@@ -57,7 +57,10 @@ People
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
-
+* tyche:
+  * [Kripa Agarwal](people/kripa-agarwal.md) - ka467
+  * [Kriti Singh](people/kriti-singh.md) - ks2259
+  * [Mohit Chawla](people/mohit-chawla.md) - mc2683
 
 Copyright & License
 -------------------
