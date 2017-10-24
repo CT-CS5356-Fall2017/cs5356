@@ -88,6 +88,11 @@ People
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
 
+* Keep Calm and Nothing Else
+  * [Emily Tseng](people/emily-tseng.md)
+  * [Marco White](people/marco-white.md)
+  * [Luke Ahn](people/luke-ahn.md)
+
 * KVD
   * [Kirollos Morkos](people/kirollos-morkos.md) - krm257
   * [Vijay Pillai](people/vijay-pillai.md) - vp296
@@ -101,6 +106,7 @@ People
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
+
 
 Copyright & License
 -------------------
