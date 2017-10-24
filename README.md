@@ -88,6 +88,11 @@ People
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
 
+* Keep Calm and Nothing Else
+  * [Emily Tseng](people/emily-tseng.md)
+  * [Marco White](people/marco-white.md)
+  * [Luke Ahn](people/luke-ahn.md)
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
