@@ -88,6 +88,10 @@ People
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
 
+* Lit 
+  * [Han Jing](people/han-jing.md)
+  * [Noshin Nisa](people/noshin-anjum-nisa.md)
+
 * romadoe
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
   * [Advika Nigam](people/advika-nigam.md) - an556
