@@ -88,6 +88,11 @@ People
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
 
+* KVD
+  * [Kirollos Morkos](people/kirollos-morkos.md) - krm257
+  * [Vijay Pillai](people/vijay-pillai.md) - vp296
+  * [Derek Netto](people/derek-netto.md) - dfn22
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
