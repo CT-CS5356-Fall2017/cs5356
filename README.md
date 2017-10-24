@@ -88,6 +88,10 @@ People
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
 
+* Lit 
+  * [Han Jing](people/han-jing.md)
+  * [Noshin Nisa](people/noshin-anjum-nisa.md)
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
