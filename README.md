@@ -48,27 +48,27 @@ People
   * [Zen Yui](people/zen-yui.md) - jzy6
   * [Max Shatkhin](people/max-shatkhin.md) - ms3448
   * [Thomas Matecki](people/thomas-matecki.md) - tpm93
-  
+
 * Ghost Robots:
   * [Devon Bain](people/devon-bain.md) - dwb264
   * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
   * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
-  
+
 * R2DC
   * [Christy Cui](people/christy-cui.md)
   * [Daniel Kim](people/daniel-kim.md)
   * [Ryan Ramphal](people/ryan-ramphal.md)
-  
+
 * The Munchies
   * [Marco Berlot](people/marco-berlot.md)
   * [Jake Magid](people/jake-magid.md)
   * [Vicente Rotman Hinzpeter](people/vicente-rotman-hinzpeter.md)
-  
+
 * tyche:
   * [Kripa Agarwal](people/kripa-agarwal.md) - ka467
   * [Kriti Singh](people/kriti-singh.md) - ks2259
   * [Mohit Chawla](people/mohit-chawla.md) - mc2683
-  
+
 * this_team_is_on_fiyahhh
   * [Yuhui Dai](people/yuihui-dai.md)
   * [Matthew Hsu](people/matthew-hsu.md)
@@ -87,6 +87,11 @@ People
 * afroTruckers
   * [Oluseye Bankole](people/seye-bankole.md)
   * [Saliou Diallo](people/saliou-diallo.md)
+
+* KVD
+  * [Kirollos Morkos](people/kirollos-morkos.md) - krm257
+  * [Vijay Pillai](people/vijay-pillai.md) - vp296
+  * [Derek Netto](people/derek-netto.md) - dfn22
 
 * Lit 
   * [Han Jing](people/han-jing.md)
