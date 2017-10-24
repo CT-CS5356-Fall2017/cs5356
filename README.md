@@ -92,6 +92,11 @@ People
   * [Han Jing](people/han-jing.md)
   * [Noshin Nisa](people/noshin-anjum-nisa.md)
 
+* romadoe
+  * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
+  * [Advika Nigam](people/advika-nigam.md) - an556
+  * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
