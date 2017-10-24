@@ -84,6 +84,9 @@ People
   * [Rom Cohen](people/rom-cohen.md)
   * [Liran Sharir](people/liran-sharir.md)
 
+* afroTruckers
+  * [Oluseye Bankole](people/seye-bankole.md)
+  * [Saliou Diallo](people/saliou-diallo.md)
 
 Copyright & License
 -------------------
