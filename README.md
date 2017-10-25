@@ -43,6 +43,7 @@ People
 
 * [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
 
+
 #### Teams
 * sugah_daddeez:
   * [Zen Yui](people/zen-yui.md) - jzy6
@@ -98,7 +99,7 @@ People
   * [Vijay Pillai](people/vijay-pillai.md) - vp296
   * [Derek Netto](people/derek-netto.md) - dfn22
 
-* Lit 
+* Lit
   * [Han Jing](people/han-jing.md)
   * [Noshin Nisa](people/noshin-anjum-nisa.md)
   * [Jamie Yu](people/jamie-yu.md)
@@ -117,6 +118,10 @@ People
   * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83
   * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7
   * [Jared Wong](people/jared-wong.md) - jmw535
+
+* Mr. Lonely
+  * [Travis Allen](people/travis-allen.md) - twa24
+
 
 
 Copyright & License
