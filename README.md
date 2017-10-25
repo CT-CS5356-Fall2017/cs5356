@@ -108,6 +108,9 @@ People
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
 
+* Mr. Lonely
+  * [Travis Allen](people/travis-allen.md) - twa24
+
 
 
 Copyright & License
