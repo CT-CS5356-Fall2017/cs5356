@@ -107,6 +107,11 @@ People
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
+  
+* Menace to Sobriety
+  * [Stephen Bongner](people/stephen-bongner.md) - sb2483
+  * [Brett Leibowitz](people/brett-leibowitz.md) - bal246
+  * [Rongxin Zhang](people/rongxin-zhang.md) - rz345
 
 * The Eigenfaces (temporary name)
   * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83
