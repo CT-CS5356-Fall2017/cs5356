@@ -107,6 +107,11 @@ People
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
 
+* The Eigenfaces (temporary name)
+  * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83
+  * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7
+  * [Jared Wong](people/jared-wong.md) - jmw535
+
 
 Copyright & License
 -------------------
