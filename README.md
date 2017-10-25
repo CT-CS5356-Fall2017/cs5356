@@ -101,6 +101,7 @@ People
 * Lit 
   * [Han Jing](people/han-jing.md)
   * [Noshin Nisa](people/noshin-anjum-nisa.md)
+  * [Jamie Yu](people/jamie-yu.md)
 
 * romadoe
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
