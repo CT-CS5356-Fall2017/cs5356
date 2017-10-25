@@ -2,3 +2,10 @@
 projects/
 .idea/
 old/
+sol/
+*~
+__pycache__/
+geckodriver.log
+grading/
+node_modules/
+access.log
