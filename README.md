@@ -122,7 +122,9 @@ People
 * Mr. Lonely
   * [Travis Allen](people/travis-allen.md) - twa24
 
-
+* Impromptu
+  * [Anmol Seth](people/anmol-seth.md) - as3664
+  * [Vincent Wang](people/jialiang-wang.md) - jw2476
 
 Copyright & License
 -------------------
