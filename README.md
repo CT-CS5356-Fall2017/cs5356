@@ -125,6 +125,8 @@ People
 * Impromptu
   * [Anmol Seth](people/anmol-seth.md) - as3664
   * [Vincent Wang](people/jialiang-wang.md) - jw2476
+  * [Luna Yang](people/luna-yang.md) - ly354
+  
 
 Copyright & License
 -------------------
