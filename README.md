@@ -24,7 +24,7 @@ Office Hours
 --------
 
 * [Adam](/people/adam-fleming.md): Weds after class 'till no questions left
-* [Rahul](/people/rahul-chatterjee.md): Friday 11am - 1pm and Tuesday 2pm - 3.30pm. Both times are by appointment only. I am not available on Sept 26 (Tue).
+* [Rahul](/people/rahul-chatterjee.md): Ping me on slack to schedule a meeting
 
 Course Project
 --------
@@ -41,7 +41,7 @@ People
 
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
+* [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 
 #### Teams
