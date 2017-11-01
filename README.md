@@ -132,6 +132,10 @@ People
   * [Evan Kaplan](people/evan-kaplan.md) - emk269
   * [Ang Li](people/ang-li.md) - al2386
 
+* I Love Computer Science
+  * [Cameron Boroumand](people/cameron-boroumand.md) - cb596
+  * [Steven Jaroslawski](people/steven-jaroslawksi.md) - sj393
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
