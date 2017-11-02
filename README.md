@@ -15,9 +15,9 @@ Lectures
 
 1.  18-Oct: [GCP + Cloud Architecture](lectures/section_b/lecture_1.pdf)
 2.  25-Oct: *No Class*
-3.  01-Nov: API
-4.  08-Nov: Mobile Client
-6.  22-Nov: Block Storage, Serverless
+3.  01-Nov: [React Native](lectures/section_b/lecture_2.md)
+4.  08-Nov: TBD
+6.  22-Nov: *No Class*
 7.  27-Nov - 08-Dec: Project Grading
 
 Office Hours
@@ -108,13 +108,13 @@ People
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
-  
+
 * Menace to Sobriety
   * [Stephen Bongner](people/stephen-bongner.md) - sb2483
   * [Brett Leibowitz](people/brett-leibowitz.md) - bal246
   * [Rongxin Zhang](people/rongxin-zhang.md) - rz345
 
-* The Eigenfaces (temporary name)
+* The Eigenfaces
   * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83
   * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7
   * [Jared Wong](people/jared-wong.md) - jmw535
@@ -127,17 +127,15 @@ People
   * [Vincent Wang](people/jialiang-wang.md) - jw2476
   * [Luna Yang](people/luna-yang.md) - ly354
 
-  
 * The Greate Fire Wall
   * [Weisi Zhang](people/weisi-zhang.md) - wz337
   * [Evan Kaplan](people/evan-kaplan.md) - emk269
   * [Ang Li](people/ang-li.md) - al2386
-  
-* GOAT 
+
+* GOAT
   * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68
   * [Andi Mitre](people/andi-mitre.md) - am2886
   * [Feston Kastrati](people/feston-kastrati.md) - fk257
-
 
 * I Love Computer Science
   * [Cameron Boroumand](people/cameron-boroumand.md) - cb596
