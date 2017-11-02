@@ -41,7 +41,6 @@ People
 
 #### Teaching Assistants
 
-
 * [Rahul Chatterjee](people/rahul-chatterjee.md)
 
 
