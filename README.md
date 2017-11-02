@@ -132,6 +132,11 @@ People
   * [Weisi Zhang](people/weisi-zhang.md) - wz337
   * [Evan Kaplan](people/evan-kaplan.md) - emk269
   * [Ang Li](people/ang-li.md) - al2386
+  
+* GOAT 
+  * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68
+  * [Andi Mitre](people/andi-mitre.md) - am2886
+  * [Feston Kastrati](people/feston-kastrati.md) - fk257
 
 
 Copyright & License
