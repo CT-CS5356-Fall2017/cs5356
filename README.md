@@ -139,6 +139,10 @@ People
   * [Feston Kastrati](people/feston-kastrati.md) - fk257
 
 
+* I Love Computer Science
+  * [Cameron Boroumand](people/cameron-boroumand.md) - cb596
+  * [Steven Jaroslawski](people/steven-jaroslawksi.md) - sj393
+
 Copyright & License
 -------------------
 (c) 2017 [Cornell Tech](http://www.cs.cornell.edu), All Rights Reserved.
