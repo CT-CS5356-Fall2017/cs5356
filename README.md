@@ -125,11 +125,14 @@ People
 * Impromptu
   * [Anmol Seth](people/anmol-seth.md) - as3664
   * [Vincent Wang](people/jialiang-wang.md) - jw2476
+  * [Luna Yang](people/luna-yang.md) - ly354
+
   
 * The Greate Fire Wall
   * [Weisi Zhang](people/weisi-zhang.md) - wz337
   * [Evan Kaplan](people/evan-kaplan.md) - emk269
   * [Ang Li](people/ang-li.md) - al2386
+
 
 Copyright & License
 -------------------
