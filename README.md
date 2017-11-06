@@ -16,7 +16,8 @@ Lectures
 1.  18-Oct: [GCP + Cloud Architecture](lectures/section_b/lecture_1.pdf)
 2.  25-Oct: *No Class*
 3.  01-Nov: [React Native](lectures/section_b/lecture_2.md)
-4.  08-Nov: TBD
+4.  08-Nov: Python / BE Scripting
+5.  15-Nov: TBD
 6.  22-Nov: *No Class*
 7.  27-Nov - 08-Dec: Project Grading
 
