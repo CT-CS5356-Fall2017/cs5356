@@ -13,26 +13,40 @@ The buckets are:
 3. *Storage + Processing* (e.g. Database, Storage, Thumbnail Processing, etc)
 4. *DevOps* (e.g. Continuous Integration, Deployment, Logging and Monitoring)
 
-You can earn up to 3 points per bucket per project.
+You can earn a number of points per bucket per project based on your accomplishments 
+in that domain.
 
-* 1 point for a working basic system, aka a "Hello World"
-* 2 points for achieving a level of proficiency
-* 3 points for demonstrating advanced capabilities
-
-Bucket point examples:
 
 #### Mobile Client
 
-* 1 point for having a mobile app than makes API calls, 2 points for a well designed mobile app, 3 points for stunning UX with animated transitions
+* +1 point for having a mobile app than makes API calls
+* +1 point for a realistic worklflow that encompases all reasonable app features
+* +1 point for stunning UX with animated transitions or fantastic mapping features
+* +1 point for completion of BOTH driver and hailer sides of app (these can be one app with a bifurcated UX based on user-type)
 
 #### API
-
-* 1 point for having a running server application, 2 points for back-end logic beyond CRUD, 3 points for a load-balanced architecture with Swagger.io API documentation
+* +1 point for running server application
+* +1 point for database logic
+* +1 point for Swagger.io (or similar) self-generating API docs
+* +1 point for 3rd party API integration (e.g. sending SMS messages or Push Notifications)
 
 #### Storage
-
-* 1 point for having a database with a schema, 2 points for storing images with thumbnail processing, 3 points for additionally using a CDN to cache assets
+* +1 point for having a database with a reasonable schema 
+* +1 point for 2 or more collections or tables 
+* +1 point for driver / user selfie images, captured on device + stored in the cloud
 
 #### DevOps
+* +1 point for material tests and working CI
+* +1 point for automated deployment by the CI tool if tests pass
 
-* 1 point for material tests and working CI, 2 points for also setting up logging, 3 points for automated deployment by the CI tool
+
+## Grading
+13 pts - A+
+9-12 pts - A
+7-8 pts - A-
+6 pts - B+
+5 pts - B
+4 pts - B-
+3 pts - C
+1-2 pts - D
+
