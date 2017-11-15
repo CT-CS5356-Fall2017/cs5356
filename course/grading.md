@@ -8,10 +8,10 @@ There are 4 buckets you can earn points in, based on the *sophistication*, *qual
 
 The buckets are:
 
-1. *Mobile Client* written in Ionic or ReactJS Native
-2. *API* in any language you like
-3. *Storage + Processing* (e.g. Database, Storage, Thumbnail Processing, etc)
-4. *DevOps* (e.g. Continuous Integration, Deployment, Logging and Monitoring)
+1. *Mobile Client* 
+2. *API* 
+3. *Database* 
+4. *DevOps* 
 
 You can earn a number of points per bucket per project based on your accomplishments 
 in that domain.
@@ -30,7 +30,7 @@ in that domain.
 * +1 point for Swagger.io (or similar) self-generating API docs
 * +1 point for 3rd party API integration (e.g. sending SMS messages or Push Notifications)
 
-#### Storage
+#### Database
 * +1 point for having a database with a reasonable schema 
 * +1 point for 2 or more collections or tables 
 * +1 point for driver / user selfie images, captured on device + stored in the cloud
@@ -41,6 +41,7 @@ in that domain.
 
 
 ## Grading
+```
 13 pts - A+
 9-12 pts - A
 7-8 pts - A-
@@ -49,4 +50,4 @@ in that domain.
 4 pts - B-
 3 pts - C
 1-2 pts - D
-
+```
