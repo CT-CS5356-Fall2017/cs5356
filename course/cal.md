@@ -7,7 +7,7 @@ the functionalities they have implemented and claiming [points](./grading.md) fo
 
 ## First half (10:00 to  13:00)
 | # | Team name | members | slot |
-|-----------| --------| -----|
+|---|-------| --------| -----|
 |1  | `sugah_daddeez`| jzy6, ms3448, tpm93 | 10:00 - 10:15 |
 |2  | `Ghost Robots` | dwb264, zh278, sa2265 | 10:15 - 10:30|
 |3  | `R2DC`         | hc935, rdr233, dk768 | 10:30 - 10:45 | 
@@ -23,6 +23,8 @@ the functionalities they have implemented and claiming [points](./grading.md) fo
 
 
 ## Second half 14:00 - 16:30
+| # | Team name | members | slot |
+|---|-------| --------| -----|
 |12 | `Lit`          | Han Jing, nan42, jky32 | 14:00 - 14:15| 
 |13 | `romadoe`      | rb636,an556,jl3744 | 14:15 - 14:30|
 |14 | `Menace to Sobriety` | sb2483,bal246,rz345 |  14:30 - 14:45|
