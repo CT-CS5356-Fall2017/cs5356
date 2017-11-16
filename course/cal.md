@@ -1,7 +1,7 @@
 # Grading schedule
 The final grading of CS5356 (Advanced Startup Systems) will be done on **Dec 7, 2017** from 10:00 am till 4:30 pm. 
 Here is the schedule. Each team will get total **15 minutes** - 10 minutes to present all
-the functionalities they have implemented and claiming [points](./grading.md) for, and 5 minutes for Q&A. 
+the functionalities you have implemented and claiming [points](./grading.md) for, and 5 minutes for Q&A. 
 
 
 
