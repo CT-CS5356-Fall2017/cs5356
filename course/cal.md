@@ -1,16 +1,15 @@
 # Grading schedule
+The final grading of CS5356 (Advanced Startup Systems) will be done on **Dec 7, 2017** from 10:00 am till 4:30 pm. 
+Here is the schedule. Each team will get total **15 minutes** - 10 minutes to present all
+the functionalities they have implemented and claiming [points](./grading.md) for, and 5 minutes for Q&A. 
+
 
 
 ## First half (10:00 to  13:00)
-1. sugah_daddeez:  (10:00 - 10:15)
-  * [Zen Yui](people/zen-yui.md) - jzy6
-  * [Max Shatkhin](people/max-shatkhin.md) - ms3448
-  * [Thomas Matecki](people/thomas-matecki.md) - tpm93
-
-2. Ghost Robots: (10:15 - 10:30)
-  * [Devon Bain](people/devon-bain.md) - dwb264
-  * [Zeeshan Hanif](people/zeeshan-hanif.md) - zh278
-  * [Subhangi Agarwala](people/subhangi-agarwala.md) - sa2265
+| Team name | members | slot |
+|-----------| --------| -----|
+|sugah_daddeez| jzy6, ms3448, tpm93 | 10:00 - 10:15 |
+|Ghost Robots | dwb264, zh278, sa2265 | 10:15 - 10:30|
 
 3. R2DC (10:30 - 10:45)
   * [Christy Cui](people/christy-cui.md)
