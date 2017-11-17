@@ -19,7 +19,7 @@ Lectures
 4.  08-Nov: [Python + MongoDb](lectures/section_b/lecture_3.md)
 5.  15-Nov: Orchestration + Mid-Course Checkpoint
 6.  22-Nov: *No Class*
-7.  04-Dec - 08-Dec: Project Grading
+7.  07-Dec: [Project Grading](course/cal.md)
 
 Office Hours
 --------
