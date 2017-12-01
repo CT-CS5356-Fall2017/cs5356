@@ -32,7 +32,7 @@ the maximum points.
 ## Second half (14:00 - 16:30)
 | # | Team name | members | slot |
 |---|-------| --------| -----|
-|12 | `Lit`          | hj378, nan42, jky32 | 14:00 - 14:15| 
+|12 | N/A       | Available | 14:00 - 14:15| 
 |13 | `romadoe`      | rb636, an556, jl3744 | 14:15 - 14:30|
 |14 | `Menace to Sobriety` | sb2483, bal246, rz345 |  14:30 - 14:45|
 |15 | `The Eigenfaces` | sdl83, een7, jmw535 | 14:45 - 15:00|
