@@ -19,7 +19,7 @@ the maximum points.
 |2  | `Ghost Robots` | dwb264, zh278, sa2265 | 10:15 - 10:30|
 |3  | `R2DC`         | hc935, rdr233, dk768 | 10:30 - 10:45 | 
 |4  | `The Munchies` | mb2589, jm2644, vr328 | 10:45 - 11:00 | 
-|5  | `tyche`        |ka467, ks2259, mc2683 | 11:00 - 11:15|
+|5  | `romadoe`      | rb636, an556, jl3744 | 11:00 - 11:15|
 |-- | *Break*      | -- | *11:15 - 11:30* |
 |6  | `this_team_is_on_fiyahhh`| yd229, mdh267, anm232 | 11:30 - 11:45|
 |7  | `Marshmallow on fire` | ym443, cw823, xw466|11:45 - 12:00|
@@ -33,7 +33,7 @@ the maximum points.
 | # | Team name | members | slot |
 |---|-------| --------| -----|
 |12 | N/A       | Available | 14:00 - 14:15| 
-|13 | `romadoe`      | rb636, an556, jl3744 | 14:15 - 14:30|
+|13 | `tyche`        |ka467, ks2259, mc2683 | 14:15 - 14:30|
 |14 | `Menace to Sobriety` | sb2483, bal246, rz345 |  14:30 - 14:45|
 |15 | `The Eigenfaces` | sdl83, een7, jmw535 | 14:45 - 15:00|
 |16 | `Mr. Lonely`   | twa24 | 15:00 - 15:15|
