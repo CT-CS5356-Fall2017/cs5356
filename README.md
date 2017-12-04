@@ -15,16 +15,17 @@ Lectures
 
 1.  18-Oct: [GCP + Cloud Architecture](lectures/section_b/lecture_1.pdf)
 2.  25-Oct: *No Class*
-3.  01-Nov: API
-4.  08-Nov: Mobile Client
-6.  22-Nov: Block Storage, Serverless
-7.  27-Nov - 08-Dec: Project Grading
+3.  01-Nov: [React Native](lectures/section_b/lecture_2.md)
+4.  08-Nov: [Python + MongoDb](lectures/section_b/lecture_3.md)
+5.  15-Nov: Orchestration + Mid-Course Checkpoint
+6.  22-Nov: *No Class*
+7.  07-Dec: [Project Grading](course/cal.md)
 
 Office Hours
 --------
 
 * [Adam](/people/adam-fleming.md): Weds after class 'till no questions left
-* [Rahul](/people/rahul-chatterjee.md): Friday 11am - 1pm and Tuesday 2pm - 3.30pm. Both times are by appointment only. I am not available on Sept 26 (Tue).
+* [Rahul](/people/rahul-chatterjee.md): Ping me on slack to schedule a meeting
 
 Course Project
 --------
@@ -41,7 +42,8 @@ People
 
 #### Teaching Assistants
 
-* [Rahul Chatterjee](people/rahul-chatterjee.md) - rc737 - [https://typtop.info/grading.html](https://typtop.info/grading.html)
+* [Rahul Chatterjee](people/rahul-chatterjee.md)
+
 
 
 #### Teams
@@ -102,16 +104,44 @@ People
 * Lit
   * [Han Jing](people/han-jing.md)
   * [Noshin Nisa](people/noshin-anjum-nisa.md)
+  * [Jamie Yu](people/jamie-yu.md)
 
 * romadoe
   * [Romoli Bakshi](people/romoli-bakshi.md) - rb636
   * [Advika Nigam](people/advika-nigam.md) - an556
   * [Junhsiang (Joe) Liao](people/junhsiang-liao.md) - jl3744
 
+* Menace to Sobriety
+  * [Stephen Bongner](people/stephen-bongner.md) - sb2483
+  * [Brett Leibowitz](people/brett-leibowitz.md) - bal246
+  * [Rongxin Zhang](people/rongxin-zhang.md) - rz345
+
+* The Eigenfaces
+  * [Sarah Le Cam](people/sarah-le-cam.md) - sdl83
+  * [Eyvind Niklasson](people/eyvind-niklasson.md) - een7
+  * [Jared Wong](people/jared-wong.md) - jmw535
+
 * Mr. Lonely
   * [Travis Allen](people/travis-allen.md) - twa24
 
+* Impromptu
+  * [Anmol Seth](people/anmol-seth.md) - as3664
+  * [Vincent Wang](people/jialiang-wang.md) - jw2476
+  * [Luna Yang](people/luna-yang.md) - ly354
 
+* The Greate Fire Wall
+  * [Weisi Zhang](people/weisi-zhang.md) - wz337
+  * [Evan Kaplan](people/evan-kaplan.md) - emk269
+  * [Ang Li](people/ang-li.md) - al2386
+
+* GOAT
+  * [Joe Abi Sleiman](people/joe-abi-sleiman.md) - jba68
+  * [Andi Mitre](people/andi-mitre.md) - am2886
+  * [Feston Kastrati](people/feston-kastrati.md) - fk257
+
+* I Love Computer Science
+  * [Cameron Boroumand](people/cameron-boroumand.md) - cb596
+  * [Steven Jaroslawski](people/steven-jaroslawksi.md) - sj393
 
 Copyright & License
 -------------------
