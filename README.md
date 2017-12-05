@@ -9,6 +9,7 @@ Essentials
 * [Course Description](course/description.md)
 * [Grading](course/grading.md)
 * [Course Slack](https://ct-cs5356-fall2017.slack.com)
+* [Final Exam](./course/cal.md)
 
 Lectures
 --------
