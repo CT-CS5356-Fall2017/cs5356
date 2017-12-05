@@ -42,5 +42,6 @@ the maximum points.
 |18 | `The Greate Fire Wall` | wz337, emk269, al2386 |  15:45 - 16:00|
 |19 | `GOAT`         |  jba68, am2886, fk257 | 16:00 - 16:15 |
 |20 | `I Love Computer Science` | cb596, sj393 | 16:15 - 16:30 |
+|21 | `Lit`          | hj378, nan42, jky32 | 16:30 - 16:45|
 
 
