@@ -35,9 +35,9 @@ the maximum points.
 |12 |  `The Eigenfaces` | sdl83, een7, jmw535 | 14:00 - 14:15|
 |13 | Available | N/A | 14:15 - 14:30 |
 |14 | Avaliable | N/A |  14:30 - 14:45|
-|15 |Available | N/A | 14:45 - 15:00|
+|15 | Available | N/A | 14:45 - 15:00|
 |16 | `Despacitos`   | dh649, rc783, ls873 | 15:00 - 15:15|
-|-- | *Break*        | -- | *15:15 - 15:30* |
+|-- | Available  | N/A | *15:15 - 15:30* |
 |17 | `Impromptu`    | as3664, jw2476, ly354 |  15:30 - 15:45|
 |18 | `The Greate Fire Wall` | wz337, emk269, al2386 |  15:45 - 16:00|
 |19 | `GOAT`         |  jba68, am2886, fk257 | 16:00 - 16:15 |
