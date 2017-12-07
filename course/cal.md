@@ -22,7 +22,7 @@ the maximum points.
 |5  | `romadoe`      | rb636, an556, jl3744 | 11:00 - 11:15|
 |-- | *Break*      | -- | *11:15 - 11:30* |
 |6  | `this_team_is_on_fiyahhh`| yd229, mdh267, anm232 | 11:30 - 11:45|
-|7  | `Marshmallow on fire` | ym443, cw823, xw466|11:45 - 12:00|
+|7  |  `Menace to Sobriety` | sb2483, bal246, rz345 |11:45 - 12:00|
 |8  | `Mr. Lonely `   | twa24 | 12:00 - 12:15|
 |9  | `afroTruckers` | ob97, sdd65 | 12:15 - 12:30 |
 |10 | `Keep Calm and Nothing Else`| et397, mt279, la393 |  12:30 - 12:45|
@@ -34,7 +34,7 @@ the maximum points.
 |---|-------| --------| -----|
 |12 | N/A       | Available | 14:00 - 14:15|
 |13 | `tyche`        |ka467, ks2259, mc2683 | 14:15 - 14:30|
-|14 | `Menace to Sobriety` | sb2483, bal246, rz345 |  14:30 - 14:45|
+|14 | `Marshmallow on fire` | ym443, cw823, xw466 |  14:30 - 14:45|
 |15 | `The Eigenfaces` | sdl83, een7, jmw535 | 14:45 - 15:00|
 |16 | `Despacitos`   | dh649, rc783, ls873 | 15:00 - 15:15|
 |-- | *Break*        | -- | *15:15 - 15:30* |
