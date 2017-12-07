@@ -34,7 +34,7 @@ the maximum points.
 |---|-------| --------| -----|
 |12 |  `The Eigenfaces` | sdl83, een7, jmw535 | 14:00 - 14:15|
 |13 | Available | N/A | 14:15 - 14:30 |
-|14 |  |  14:30 - 14:45|
+|14 | Avaliable | N/A |  14:30 - 14:45|
 |15 |Available | N/A | 14:45 - 15:00|
 |16 | `Despacitos`   | dh649, rc783, ls873 | 15:00 - 15:15|
 |-- | *Break*        | -- | *15:15 - 15:30* |
