@@ -9,7 +9,7 @@ the maximum points.
 
 
 ## Grading date: Dec 7, 2017 (Thursday)
-## Location: TBA
+## Location: Bloomberg 178, Cornell Tech
 
 
 ## First half (10:00 to  13:00)
