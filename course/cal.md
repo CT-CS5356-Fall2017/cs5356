@@ -32,10 +32,10 @@ the maximum points.
 ## Second half (14:00 - 16:30)
 | # | Team name | members | slot |
 |---|-------| --------| -----|
-|12 | N/A       | Available | 14:00 - 14:15|
-|13 | `tyche`        |ka467, ks2259, mc2683 | 14:15 - 14:30|
+|12 |  `The Eigenfaces` | sdl83, een7, jmw535 | 14:00 - 14:15|
+|13 | Available | N/A | 14:15 - 14:30 |
 |14 | `Marshmallow on fire` | ym443, cw823, xw466 |  14:30 - 14:45|
-|15 | `The Eigenfaces` | sdl83, een7, jmw535 | 14:45 - 15:00|
+|15 |Available | N/A | 14:45 - 15:00|
 |16 | `Despacitos`   | dh649, rc783, ls873 | 15:00 - 15:15|
 |-- | *Break*        | -- | *15:15 - 15:30* |
 |17 | `Impromptu`    | as3664, jw2476, ly354 |  15:30 - 15:45|
@@ -43,5 +43,5 @@ the maximum points.
 |19 | `GOAT`         |  jba68, am2886, fk257 | 16:00 - 16:15 |
 |20 | `I Love Computer Science` | cb596, sj393 | 16:15 - 16:30 |
 |21 | `Lit`          | hj378, nan42, jky32 | 16:30 - 16:45|
-
+|22 | `tyche`        |ka467, ks2259, mc2683 | 16:45 - 17:00|
 
